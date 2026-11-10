@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-10T11:32:30+09:00",
+  "updated": "2026-11-10T12:02:26+09:00",
   "market": [],
   "brief": {
     "headline": "",
     "points": []
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "모건스탠리 '반도체 저승사자', 삼전닉스 30만9천원·160만원으로 하향",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261110080700008",
+      "published": "2026-11-10T11:30:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "코스피, 장중 4%대 상승세 유지…외인·기관 '사자'",
@@ -43,10 +50,31 @@
     },
     {
       "category": "해외시장",
+      "title": "'외도 인정' 젠슨 황, 美 엔비디아 주주들에게 집단소송 당해",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111066657",
+      "published": "2026-11-10T09:32:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"넓혀 가려면 4억4000만원 더\"…서울서 작아진 '내 집 마련'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111064826",
+      "published": "2026-11-10T08:38:00+09:00"
+    },
+    {
+      "category": "해외시장",
       "title": "'일본산 AI' 만드는 사카나AI, 역대 최대급 IPO 도전",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611096072i",
       "published": "2026-11-10T07:13:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "트럼프 \"나는 준비돼 있다\"…이란 공격 재개 가능성 열어둬",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111061957",
+      "published": "2026-11-10T06:39:00+09:00"
     }
   ]
 }
