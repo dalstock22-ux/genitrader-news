@@ -1,6 +1,52 @@
 {
-  "updated": null,
+  "updated": "2026-11-10T11:32:30+09:00",
   "market": [],
-  "brief": { "headline": "", "points": [] },
-  "items": []
+  "brief": {
+    "headline": "",
+    "points": []
+  },
+  "items": [
+    {
+      "category": "경제·증시",
+      "title": "코스피, 장중 4%대 상승세 유지…외인·기관 '사자'",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261110077600008",
+      "published": "2026-11-10T11:04:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "산업장관, 52시간 노동특례 관련 \"정부가 기업보다 절박해야\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261110069200003",
+      "published": "2026-11-10T11:03:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "미 FDA, 비만약 실명 위험 경고 의무화…릴리·노보 대상",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611106781i",
+      "published": "2026-11-10T10:20:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "은마 재초환 1인당 4억6334만원…\"확정액 아닌 예정액으로 바뀔 수 있어\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611106779i",
+      "published": "2026-11-10T10:10:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"집값 6억 빠졌는데 전세 5억 뛰었다\"…서울 이 동네 '초비상' [시장톡]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026110956166",
+      "published": "2026-11-10T10:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "'일본산 AI' 만드는 사카나AI, 역대 최대급 IPO 도전",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611096072i",
+      "published": "2026-11-10T07:13:00+09:00"
+    }
+  ]
 }
