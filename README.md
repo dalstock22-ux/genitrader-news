@@ -16,7 +16,7 @@ GeniTrader 홈페이지가 불러오는 **공개 데이터 저장소**입니다.
   "brief": { "headline": "한 줄 요약", "points": ["핵심 1", "핵심 2"] },
   "items": [
     {
-      "category": "미국증시 | 한국증시 | 금·원자재 | 거시·정책",
+      "category": "경제·증시 | 부동산 | 해외시장",
       "title": "제목", "source": "출처", "url": "https://...",
       "summary": "직접 쓴 한두 줄 요약", "published": "2026-11-10T07:40:00+09:00"
     }
