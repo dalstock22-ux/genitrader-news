@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:11:59+09:00",
+  "updated": "2026-11-12T09:26:59+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,41 @@
   },
   "items": [
     {
+      "category": "부동산",
+      "title": "일반분양만 1800가구…'30억 로또' 청약 대어 '반포124' 12월 분양",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111218086",
+      "published": "2026-11-12T09:13:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "이틀연속 오른 코스피, 장초반 보합권…방향성 탐색",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112038100008",
+      "published": "2026-11-12T09:08:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "달러 가치 19개월 만에 최고",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112033600009",
+      "published": "2026-11-12T08:55:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[밤 사이 해외뉴스] 美 물가 다시 들썩…연준 12월 '빅스텝' 하나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611121609i",
+      "published": "2026-11-12T08:13:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美, 10조원어치 엔비디아 AI칩 中 반출 조사",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111109801",
+      "published": "2026-11-11T18:04:00+09:00"
+    },
+    {
       "category": "경제·증시",
       "title": "\"국고채 입찰 담합\"…1.6조 '역대급' 과징금 때린 공정위",
       "source": "한국경제",
@@ -59,6 +94,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111110451",
       "published": "2026-11-11T17:49:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "전세 3건 중 1건이 7억 넘어…보증 사각지대 몰린 세입자",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111109921",
+      "published": "2026-11-11T17:48:00+09:00"
     },
     {
       "category": "부동산",
