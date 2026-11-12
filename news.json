@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:02:26+09:00",
+  "updated": "2026-11-12T18:11:33+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "해외시장",
+      "title": "\"기업평가 논리 바꿀 중대사건\"…월가, 줄줄이 목표가 낮춰",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111236411",
+      "published": "2026-11-12T17:38:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "증시 하락 직격탄…증권사 3분기 '순이익 쇼크'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111236131",
+      "published": "2026-11-12T17:37:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "한전, 영업익 70% 뚝…중동戰 유가상승 여파",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111236091",
+      "published": "2026-11-12T17:36:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美 반도체 수출통제 강화 목소리 커졌다…미중관계 뇌관되나 [워싱턴나우+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123486i",
+      "published": "2026-11-12T17:18:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123097i",
+      "published": "2026-11-12T16:00:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"내년 수도권 집값 3% 상승…전셋값 상승세가 더 가팔라\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611122794i",
+      "published": "2026-11-12T14:54:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "국고채 금리 일제히 하락…3년물 장중 연 3.713%",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611108143i",
       "published": "2026-11-10T16:54:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "골드만삭스 CEO \"AI 산업에 대한 투자 수요 여전히 강해\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111078517",
-      "published": "2026-11-10T15:37:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 中 1∼10월 무역흑자 1조 달러 넘겨…2년 연속",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111072797",
-      "published": "2026-11-10T11:42:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "모건스탠리 '반도체 저승사자', 삼전닉스 30만9천원·160만원으로 하향",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110080700008",
-      "published": "2026-11-10T11:30:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피, 장중 4%대 상승세 유지…외인·기관 '사자'",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110077600008",
-      "published": "2026-11-10T11:04:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "산업장관, 52시간 노동특례 관련 \"정부가 기업보다 절박해야\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110069200003",
-      "published": "2026-11-10T11:03:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "미 FDA, 비만약 실명 위험 경고 의무화…릴리·노보 대상",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611106781i",
-      "published": "2026-11-10T10:20:00+09:00"
     }
   ]
 }
