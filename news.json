@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:29:30+09:00",
+  "updated": "2026-11-12T12:02:26+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,34 @@
   },
   "items": [
     {
+      "category": "경제·증시",
+      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.713%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112092300008",
+      "published": "2026-11-12T11:40:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "국토장관 \"매물 쌓이고 거래 감소…주택가격 하락기 시그널\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112091200003",
+      "published": "2026-11-12T11:38:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "'젠슨황 해임 위기' 여파?…코스피, 보합권 등락하다 1%대 강세",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112084900008",
+      "published": "2026-11-12T11:21:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "금리 2% 넘자 日 개인 국채 투자 사상 최대…7조달러 예금 이동하나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611122085i",
+      "published": "2026-11-12T10:18:00+09:00"
+    },
+    {
       "category": "부동산",
       "title": "일반분양만 1800가구…'30억 로또' 청약 대어 '반포124' 12월 분양",
       "source": "한국경제",
@@ -73,6 +101,20 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611121609i",
       "published": "2026-11-12T08:13:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[속보] WSJ \"엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111215787",
+      "published": "2026-11-12T07:42:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "홍지선 \"재초환 부과 기준 조만간 결론…혼란 막을 것\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611111209i",
+      "published": "2026-11-11T19:37:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611106781i",
       "published": "2026-11-10T10:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "은마 재초환 1인당 4억6334만원…\"확정액 아닌 예정액으로 바뀔 수 있어\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611106779i",
-      "published": "2026-11-10T10:10:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"집값 6억 빠졌는데 전세 5억 뛰었다\"…서울 이 동네 '초비상' [시장톡]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110956166",
-      "published": "2026-11-10T10:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "'외도 인정' 젠슨 황, 美 엔비디아 주주들에게 집단소송 당해",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111066657",
-      "published": "2026-11-10T09:32:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"넓혀 가려면 4억4000만원 더\"…서울서 작아진 '내 집 마련'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111064826",
-      "published": "2026-11-10T08:38:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "'일본산 AI' 만드는 사카나AI, 역대 최대급 IPO 도전",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611096072i",
-      "published": "2026-11-10T07:13:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프 \"나는 준비돼 있다\"…이란 공격 재개 가능성 열어둬",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111061957",
-      "published": "2026-11-10T06:39:00+09:00"
     }
   ]
 }
