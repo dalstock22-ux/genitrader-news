@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:01:53+09:00",
+  "updated": "2026-11-13T18:11:32+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113102100003",
+      "published": "2026-11-13T18:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "삼성, 美 데이터센터 냉각업체 인수 추진",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111358131",
+      "published": "2026-11-13T17:37:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "국고채 금리 일제히 상승…3년물 장중 연 3.756%",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261113084400008",
@@ -59,6 +73,13 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261113040251002",
       "published": "2026-11-13T11:04:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "호르무즈보다 위험한 흑해…선박 공격 300건·통항량 38% 급감",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611134778i",
+      "published": "2026-11-13T10:55:00+09:00"
     },
     {
       "category": "부동산",
@@ -108,6 +129,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611134107i",
       "published": "2026-11-13T07:56:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111339431",
+      "published": "2026-11-13T00:45:00+09:00"
     },
     {
       "category": "해외시장",
@@ -167,10 +195,24 @@
     },
     {
       "category": "부동산",
+      "title": "서울 빌딩 거래액 1년새 '반토막'…강남 제치고 1위 오른 곳은",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123094i",
+      "published": "2026-11-12T15:11:00+09:00"
+    },
+    {
+      "category": "부동산",
       "title": "\"내년 수도권 집값 3% 상승…전셋값 상승세가 더 가팔라\"",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611122794i",
       "published": "2026-11-12T14:54:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "LH, 광명시흥·용인반도체에 2조 더 푼다…보상 끝내고 공급 앞당긴다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611122792i",
+      "published": "2026-11-12T13:51:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111109471",
       "published": "2026-11-11T17:33:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "'100대 1 vs 미달'…청약 큰장 열리자 '옥석 가리기'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111108851",
-      "published": "2026-11-11T17:31:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.716%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261111089900008",
-      "published": "2026-11-11T11:41:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "4~5%대 급등 코스닥, 이틀 연속 매수 사이드카 발동",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261111088900008",
-      "published": "2026-11-11T11:37:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "아세안+3에 자연재해 등 위기 때 쓰는 단기자금지원제도 도입",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110177400002",
-      "published": "2026-11-11T10:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[특징주] '저PBR' 한진, 자사주 소각에 장초반 16% 급등",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261111049100008",
-      "published": "2026-11-11T09:36:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"몇 년 뒤 새 아파트 씨 마르나\"…지방 5곳 착공 '반토막'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111190536",
-      "published": "2026-11-11T08:37:00+09:00"
     }
   ]
 }
