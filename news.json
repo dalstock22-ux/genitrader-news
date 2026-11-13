@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:54:50+09:00",
+  "updated": "2026-11-13T12:01:53+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,20 @@
   },
   "items": [
     {
+      "category": "경제·증시",
+      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.756%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113084400008",
+      "published": "2026-11-13T11:43:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113040251002",
+      "published": "2026-11-13T11:04:00+09:00"
+    },
+    {
       "category": "부동산",
       "title": "\"내년 수도권 집값 3.0% 상승할 것\"",
       "source": "한국경제",
@@ -68,6 +82,27 @@
       "published": "2026-11-13T10:00:00+09:00"
     },
     {
+      "category": "부동산",
+      "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123258i",
+      "published": "2026-11-13T09:22:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 아파트 토허 신청 두 달 연속 증가…외곽 상승세 지속",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111342916",
+      "published": "2026-11-13T09:10:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"합의 필요 없다\"…트럼프, 대이란 협상 기조 급선회",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111343147",
+      "published": "2026-11-13T09:03:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "\"엔화 어디까지 떨어지나\"…다시 달러당 160엔대 진입 [도쿄나우]",
       "source": "한국경제",
@@ -80,6 +115,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111239037",
       "published": "2026-11-12T23:39:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "젠슨 황, 엔비디아 CEO 사임…크레스 CFO가 임시수장 맡는다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111239027",
+      "published": "2026-11-12T22:58:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111190536",
       "published": "2026-11-11T08:37:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[밤 사이 해외뉴스 영상] 앤트로픽, 기업가치 최대 1조4000억달러로 IPO 추진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611118989i",
-      "published": "2026-11-11T08:26:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[밤 사이 해외뉴스]이란 전쟁에 석유 재고 5억배럴 감소…각국 '원유 창고' 확보 경쟁",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611118956i",
-      "published": "2026-11-11T08:25:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111080226",
-      "published": "2026-11-11T06:30:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "국내 첫 '지분적립형' 청약 100대 1",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111086411",
-      "published": "2026-11-11T01:24:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 근원물가 0.3% 상승…Fed, 12월 추가 금리 인상 가능성",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611108658i",
-      "published": "2026-11-10T22:50:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 美 10월 소비자물가 전월비 0.4%↑…전망치 상회",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111086537",
-      "published": "2026-11-10T22:36:00+09:00"
     }
   ]
 }
