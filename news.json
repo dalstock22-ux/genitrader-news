@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:30:52+09:00",
+  "updated": "2026-11-14T12:02:28+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,27 @@
   },
   "items": [
     {
+      "category": "해외시장",
+      "title": "분명 수출 통제했는데…중국, 엔비디아 칩 의존 '4.6조' 이상",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111463697",
+      "published": "2026-11-14T11:20:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111348856",
+      "published": "2026-11-14T10:30:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "3년 만에 미국 전역 항공 '꽁꽁' 묶여…\"관제시스템 장애\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111462967",
+      "published": "2026-11-14T09:36:00+09:00"
+    },
+    {
       "category": "경제·증시",
       "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
       "source": "연합뉴스",
@@ -55,10 +76,31 @@
     },
     {
       "category": "경제·증시",
+      "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113076800008",
+      "published": "2026-11-14T09:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "[다음주 경제] 2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261114014500002",
       "published": "2026-11-14T08:58:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "한국, 중국 수입시장 6개월째 1위…미국선 9→6위",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113170500003",
+      "published": "2026-11-14T07:01:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "증축 없고 공기 짧다…커지는 '리모델링' 시장",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111357061",
+      "published": "2026-11-13T18:07:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611122085i",
       "published": "2026-11-12T10:18:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "일반분양만 1800가구…'30억 로또' 청약 대어 '반포124' 12월 분양",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111218086",
-      "published": "2026-11-12T09:13:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "이틀연속 오른 코스피, 장초반 보합권…방향성 탐색",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261112038100008",
-      "published": "2026-11-12T09:08:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "달러 가치 19개월 만에 최고",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261112033600009",
-      "published": "2026-11-12T08:55:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[밤 사이 해외뉴스] 美 물가 다시 들썩…연준 12월 '빅스텝' 하나",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611121609i",
-      "published": "2026-11-12T08:13:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] WSJ \"엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111215787",
-      "published": "2026-11-12T07:42:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "홍지선 \"재초환 부과 기준 조만간 결론…혼란 막을 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611111209i",
-      "published": "2026-11-11T19:37:00+09:00"
     }
   ]
 }
