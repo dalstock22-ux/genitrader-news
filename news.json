@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:11:32+09:00",
+  "updated": "2026-11-14T09:30:52+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261114022000091",
+      "published": "2026-11-14T09:19:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[다음주 경제] 2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261114014500002",
+      "published": "2026-11-14T08:58:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111357001",
+      "published": "2026-11-13T18:05:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261113102100003",
@@ -59,6 +80,20 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111358131",
       "published": "2026-11-13T17:37:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美·이란 종전 교착…밴스, 협상 손 뗀다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111357781",
+      "published": "2026-11-13T17:29:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美 주택 거래절벽…판매량, 16년來 최저",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111357771",
+      "published": "2026-11-13T17:27:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -202,6 +237,13 @@
     },
     {
       "category": "부동산",
+      "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611122916i",
+      "published": "2026-11-12T14:58:00+09:00"
+    },
+    {
+      "category": "부동산",
       "title": "\"내년 수도권 집값 3% 상승…전셋값 상승세가 더 가팔라\"",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611122794i",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611111209i",
       "published": "2026-11-11T19:37:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美, 10조원어치 엔비디아 AI칩 中 반출 조사",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111109801",
-      "published": "2026-11-11T18:04:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"국고채 입찰 담합\"…1.6조 '역대급' 과징금 때린 공정위",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111109981",
-      "published": "2026-11-11T17:53:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "10월 가계대출 6.4조 급증",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111110451",
-      "published": "2026-11-11T17:49:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "전세 3건 중 1건이 7억 넘어…보증 사각지대 몰린 세입자",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111109921",
-      "published": "2026-11-11T17:48:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "전세난에 '월세살이'…임대 거래 51%가 월세",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111109631",
-      "published": "2026-11-11T17:39:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"美 데이터센터 규제 땐 亞·유럽 등 증설 기회\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111109471",
-      "published": "2026-11-11T17:33:00+09:00"
     }
   ]
 }
