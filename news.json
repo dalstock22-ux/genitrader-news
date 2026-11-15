@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:35:43+09:00",
+  "updated": "2026-11-15T18:11:12+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,41 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "이번주 '수출 1조달러' 넘는다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111575421",
+      "published": "2026-11-15T17:49:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美 생산자물가 6.5% 급등…美·英, 내년에도 긴축 신호",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111575201",
+      "published": "2026-11-15T17:42:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111574521",
+      "published": "2026-11-15T17:29:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "뉴욕·상하이 증시, 엔비디아 실적 발표…AI주식 향방 좌우",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111574511",
+      "published": "2026-11-15T17:28:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "반도체 호황…용인 기흥·수원 영통구 집값 '껑충'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111574171",
+      "published": "2026-11-15T17:12:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "노후자금 고민했는데…15조9000억 몰린 연금상품의 비밀",
@@ -290,41 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111239027",
       "published": "2026-11-12T22:58:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"높을수록 비싸다\"…초고층 랜드마크 아파트 신고가 행진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611123695i",
-      "published": "2026-11-12T17:46:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"기업평가 논리 바꿀 중대사건\"…월가, 줄줄이 목표가 낮춰",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111236411",
-      "published": "2026-11-12T17:38:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "증시 하락 직격탄…증권사 3분기 '순이익 쇼크'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111236131",
-      "published": "2026-11-12T17:37:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "한전, 영업익 70% 뚝…중동戰 유가상승 여파",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111236091",
-      "published": "2026-11-12T17:36:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "한강벨트도 꺾였다…성동·강동 8개월 만에 하락",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111235101",
-      "published": "2026-11-12T17:32:00+09:00"
     }
   ]
 }
