@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:04:46+09:00",
+  "updated": "2026-11-15T13:35:40+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,27 @@
   },
   "items": [
     {
+      "category": "경제·증시",
+      "title": "노후자금 고민했는데…15조9000억 몰린 연금상품의 비밀",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611157096i",
+      "published": "2026-11-15T13:04:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611157013i",
+      "published": "2026-11-15T11:21:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "MS365 글로벌 장애 36시간 만에 정상화…전 세계 업무 차질",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111465937",
+      "published": "2026-11-14T19:23:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "트럼프·시진핑·푸틴 19일 한자리에…韓 \"제2의 얄타 안 된다\"",
       "source": "한국경제",
@@ -66,6 +87,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111464727",
       "published": "2026-11-14T15:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "젠슨 황 여파에 美 '칩 규제' 칼바람…중국 \"희토류 맞불\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111464557",
+      "published": "2026-11-14T14:07:00+09:00"
     },
     {
       "category": "해외시장",
@@ -297,34 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111235111",
       "published": "2026-11-12T17:29:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 반도체 수출통제 강화 목소리 커졌다…미중관계 뇌관되나 [워싱턴나우+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611123486i",
-      "published": "2026-11-12T17:18:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611123097i",
-      "published": "2026-11-12T16:00:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 빌딩 거래액 1년새 '반토막'…강남 제치고 1위 오른 곳은",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611123094i",
-      "published": "2026-11-12T15:11:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611122916i",
-      "published": "2026-11-12T14:58:00+09:00"
     }
   ]
 }
