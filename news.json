@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T18:11:12+09:00",
+  "updated": "2026-11-16T14:37:55+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,41 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "공정위 과징금에도 국고채 10년물 입찰 호조…\"12월 공급축소 대비\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116099900008",
+      "published": "2026-11-16T14:06:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 집값 상승폭 석달째 둔화…경기 상승률 서울 추월",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116074400003",
+      "published": "2026-11-16T14:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "대한항공·조종사노조, 3년치 임단협 잠정합의…19일부터 찬반 투표",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611169033g",
+      "published": "2026-11-16T13:15:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "엔비디아 급락이 美국채시장까지 흔들었다…금리 5% 복귀",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611168081i",
+      "published": "2026-11-16T12:56:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[속보] 중국도 미중러 정상회담 개최 발표…\"19일 선전서 열려\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111685637",
+      "published": "2026-11-16T10:11:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "이번주 '수출 1조달러' 넘는다",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111575421",
@@ -94,6 +129,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611157013i",
       "published": "2026-11-15T11:21:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "금천구 독산동, 동대문구 용두동 등 신통기획 재개발 후보지 6곳 토허구역으로 묶인다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611146671i",
+      "published": "2026-11-15T11:16:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611123258i",
       "published": "2026-11-13T09:22:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 아파트 토허 신청 두 달 연속 증가…외곽 상승세 지속",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111342916",
-      "published": "2026-11-13T09:10:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"합의 필요 없다\"…트럼프, 대이란 협상 기조 급선회",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111343147",
-      "published": "2026-11-13T09:03:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"엔화 어디까지 떨어지나\"…다시 달러당 160엔대 진입 [도쿄나우]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611134107i",
-      "published": "2026-11-13T07:56:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111339431",
-      "published": "2026-11-13T00:45:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 엔비디아, 젠슨 황 사임에 뉴욕증시서 13% 급락 출발",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111239037",
-      "published": "2026-11-12T23:39:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "젠슨 황, 엔비디아 CEO 사임…크레스 CFO가 임시수장 맡는다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111239027",
-      "published": "2026-11-12T22:58:00+09:00"
     }
   ]
 }
