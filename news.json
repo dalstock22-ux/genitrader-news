@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:39:40+09:00",
+  "updated": "2026-11-16T18:11:14+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,34 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "[특징주] 삼성전자·하이닉스, 장중 낙폭 키워 4∼7%대 급락(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116034351008",
+      "published": "2026-11-16T17:43:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "치솟는 가격에 부담 커졌나…서울 매매·전세심리 동반위축",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111699711",
+      "published": "2026-11-16T17:21:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"내년 집값·전셋값 오르지만 주택 착공은 더딜 듯\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111699681",
+      "published": "2026-11-16T17:20:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "블룸버그 \"내년 韓성장률 3.6%…반도체 생산 빠르게 늘면 4% 가능\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116154500008",
+      "published": "2026-11-16T17:19:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "공정위 과징금에도 국고채 10년물 입찰 호조…\"12월 공급축소 대비\"",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261116099900008",
@@ -80,6 +108,20 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111685637",
       "published": "2026-11-16T10:11:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"한국과 소득격차 더 벌어지나\"…日, 4분기 만에 역성장 '충격' [도쿄나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611168365i",
+      "published": "2026-11-16T09:43:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[밤 사이 해외뉴스 영상] 엔비디아 파문에…미국, AI 반도체 규제 강화 추진",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611167948i",
+      "published": "2026-11-16T08:00:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261113084400008",
       "published": "2026-11-13T11:43:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113040251002",
-      "published": "2026-11-13T11:04:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "호르무즈보다 위험한 흑해…선박 공격 300건·통항량 38% 급감",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611134778i",
-      "published": "2026-11-13T10:55:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"내년 수도권 집값 3.0% 상승할 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111235051",
-      "published": "2026-11-13T10:31:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "李대통령 \"자본시장 개혁 의지 시험대…정상화 목표 확고\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113058500001",
-      "published": "2026-11-13T10:10:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113040200002",
-      "published": "2026-11-13T10:00:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611123258i",
-      "published": "2026-11-13T09:22:00+09:00"
     }
   ]
 }
