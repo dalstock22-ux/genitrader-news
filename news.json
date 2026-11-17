@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:11:14+09:00",
+  "updated": "2026-11-17T12:02:02+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.757%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261117085100008",
+      "published": "2026-11-17T11:40:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261117077700008",
+      "published": "2026-11-17T11:25:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "올해 전국 1순위 청약 3명 중 1명은 '전용 59㎡'에 몰렸다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611171218i",
+      "published": "2026-11-17T10:20:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"아파트에 밀려 찬밥이었는데\"…서울 빌라 시장 '대반전'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111708276",
+      "published": "2026-11-17T08:40:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "반도체 수출통제 칼날 벼리는 美 의회..韓 기업도 '영향권'[워싱턴나우+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611170831i",
+      "published": "2026-11-17T08:40:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"AI로 일자리 잃는 시나리오 조사 중\"…워시 한마디에 '술렁' [Fed 워치]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611170570i",
+      "published": "2026-11-17T03:54:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "[특징주] 삼성전자·하이닉스, 장중 낙폭 키워 4∼7%대 급락(종합)",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111357061",
       "published": "2026-11-13T18:07:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111357001",
-      "published": "2026-11-13T18:05:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113102100003",
-      "published": "2026-11-13T18:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "삼성, 美 데이터센터 냉각업체 인수 추진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111358131",
-      "published": "2026-11-13T17:37:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美·이란 종전 교착…밴스, 협상 손 뗀다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111357781",
-      "published": "2026-11-13T17:29:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 주택 거래절벽…판매량, 16년來 최저",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111357771",
-      "published": "2026-11-13T17:27:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.756%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113084400008",
-      "published": "2026-11-13T11:43:00+09:00"
     }
   ]
 }
