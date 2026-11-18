@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:26:32+09:00",
+  "updated": "2026-11-18T12:02:46+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.722%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261118093300008",
+      "published": "2026-11-18T11:41:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "3%대 급반등하다 '뚝'…코스피, 보합권에서 등락",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261118087600008",
+      "published": "2026-11-18T11:28:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "양천구 목2동 노후 주택가 22층 아파트로…서울 모아타운 4곳 심의 통과",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611183699i",
+      "published": "2026-11-18T11:15:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "경제6단체 \"워크아웃 근거법 일몰 연장 법안 조속 처리해야\"",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261118076200003",
@@ -82,11 +103,32 @@
       "published": "2026-11-18T08:38:00+09:00"
     },
     {
+      "category": "해외시장",
+      "title": "젠슨 황 \"복귀하겠다\" vs 이사회 \"계획 없다\"…엔비디아 내홍",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611183395i",
+      "published": "2026-11-18T08:01:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611183254i",
+      "published": "2026-11-18T06:35:00+09:00"
+    },
+    {
       "category": "경제·증시",
       "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261117137300002",
       "published": "2026-11-17T17:33:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "연봉 12년치 모아야 서울서 '내 집 마련'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111726121",
+      "published": "2026-11-17T17:20:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111574171",
       "published": "2026-11-15T17:12:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "노후자금 고민했는데…15조9000억 몰린 연금상품의 비밀",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611157096i",
-      "published": "2026-11-15T13:04:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611157013i",
-      "published": "2026-11-15T11:21:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "금천구 독산동, 동대문구 용두동 등 신통기획 재개발 후보지 6곳 토허구역으로 묶인다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611146671i",
-      "published": "2026-11-15T11:16:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "MS365 글로벌 장애 36시간 만에 정상화…전 세계 업무 차질",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111465937",
-      "published": "2026-11-14T19:23:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프·시진핑·푸틴 19일 한자리에…韓 \"제2의 얄타 안 된다\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611146533i",
-      "published": "2026-11-14T16:49:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261114037551030",
-      "published": "2026-11-14T16:37:00+09:00"
     }
   ]
 }
