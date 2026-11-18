@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T12:02:46+09:00",
+  "updated": "2026-11-18T18:10:55+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "산은, 도쿄서 국내 스타트업 해외 투자 유치 지원…3년 연속",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261118171100002",
+      "published": "2026-11-18T17:59:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "이란 \"중동 미군기지 공격\"…충돌 격화",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111855221",
+      "published": "2026-11-18T17:36:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "\"IPO 공모가 상향 검토\"…앤트로픽 몸값 더 뛰나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111855131",
+      "published": "2026-11-18T17:35:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "재초환 줄소송 예고…대응 TF 만드는 로펌들",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111853341",
+      "published": "2026-11-18T17:05:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "'반도체 벨트' 너무 올랐나…\"아파트 안사요\" 삼전닉스맨 돌변",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611185240i",
+      "published": "2026-11-18T16:36:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"빅스텝까진 불필요\"…Fed서 반대 목소리",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611184478i",
+      "published": "2026-11-18T12:37:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "국고채 금리 대체로 하락…3년물 장중 연 3.722%",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611168365i",
       "published": "2026-11-16T09:43:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[밤 사이 해외뉴스 영상] 엔비디아 파문에…미국, AI 반도체 규제 강화 추진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611167948i",
-      "published": "2026-11-16T08:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "이번주 '수출 1조달러' 넘는다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111575421",
-      "published": "2026-11-15T17:49:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 생산자물가 6.5% 급등…美·英, 내년에도 긴축 신호",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111575201",
-      "published": "2026-11-15T17:42:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111574521",
-      "published": "2026-11-15T17:29:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "뉴욕·상하이 증시, 엔비디아 실적 발표…AI주식 향방 좌우",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111574511",
-      "published": "2026-11-15T17:28:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "반도체 호황…용인 기흥·수원 영통구 집값 '껑충'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111574171",
-      "published": "2026-11-15T17:12:00+09:00"
     }
   ]
 }
