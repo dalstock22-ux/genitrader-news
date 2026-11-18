@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:11:10+09:00",
+  "updated": "2026-11-18T11:24:29+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,10 +48,52 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "경제6단체 \"워크아웃 근거법 일몰 연장 법안 조속 처리해야\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261118076200003",
+      "published": "2026-11-18T10:50:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[오전 시황] 코스피 상승폭 0.74%로 축소…반도체 초반 급등 반납",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611184191i",
+      "published": "2026-11-18T10:48:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美 Fed, AI가 경제에 미칠 충격 분석 착수…고용·증시 영향 시나리오 검토",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611183961i",
+      "published": "2026-11-18T10:22:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611183882i",
+      "published": "2026-11-18T10:01:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "월급 5분의 1 집세…서울 집값, 연소득 12년치",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111835166",
+      "published": "2026-11-18T08:38:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261117137300002",
       "published": "2026-11-17T17:33:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 빌라 거래량 급감…전세보증금은 상승세",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111726181",
+      "published": "2026-11-17T17:19:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261114037551030",
       "published": "2026-11-14T16:37:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프 방중 앞두고…美 \"엔비디아 문제 회담서 다루지 않을 듯\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111464937",
-      "published": "2026-11-14T15:18:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111464727",
-      "published": "2026-11-14T15:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "젠슨 황 여파에 美 '칩 규제' 칼바람…중국 \"희토류 맞불\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111464557",
-      "published": "2026-11-14T14:07:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "엔비디아 실적 발표·앤트로픽 IPO…빅 이벤트 이어진다 [다음주 주요 변수 미리보기]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611146383i",
-      "published": "2026-11-14T12:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "분명 수출 통제했는데…중국, 엔비디아 칩 의존 '4.6조' 이상",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111463697",
-      "published": "2026-11-14T11:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111348856",
-      "published": "2026-11-14T10:30:00+09:00"
     }
   ]
 }
