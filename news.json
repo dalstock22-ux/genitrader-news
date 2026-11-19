@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:02:14+09:00",
+  "updated": "2026-11-19T18:11:23+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "부동산",
+      "title": "강남 3구·한강벨트 '거래 빙하기'…하락 지역 더 늘어날 수도",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111982491",
+      "published": "2026-11-19T17:51:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "국고채 금리, 일제히 하락…유가 급락·외국인 매수(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261119158751008",
+      "published": "2026-11-19T17:47:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "반도체의 나라…수출 1조달러 돌파",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111982821",
+      "published": "2026-11-19T17:45:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[속보] 트럼프, 미중러 회담서 \"전 세계 모든 문제 논의할 것\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111983037",
+      "published": "2026-11-19T17:43:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "5년 만에 최대 매출 증가…美 타깃, 주가 7% 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611197802i",
+      "published": "2026-11-19T16:14:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 아파트값 93주째 올라 최장 기록 경신…경기 남부 상승세 이어져",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111971346",
+      "published": "2026-11-19T14:00:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "국고채 금리 대체로 하락…3년물 장중 연 3.731%",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111716917",
       "published": "2026-11-17T12:32:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611171429i",
-      "published": "2026-11-17T11:48:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "AI 특수에 매출 24% 급증했는데…시스코 주가 5% 급락",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611171615i",
-      "published": "2026-11-17T11:44:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.757%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117085100008",
-      "published": "2026-11-17T11:40:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117077700008",
-      "published": "2026-11-17T11:25:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "올해 전국 1순위 청약 3명 중 1명은 '전용 59㎡'에 몰렸다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611171218i",
-      "published": "2026-11-17T10:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"아파트에 밀려 찬밥이었는데\"…서울 빌라 시장 '대반전'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111708276",
-      "published": "2026-11-17T08:40:00+09:00"
     }
   ]
 }
