@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:19:04+09:00",
+  "updated": "2026-11-19T12:02:14+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.731%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261119083000008",
+      "published": "2026-11-19T11:41:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[단독]韓, 美 국채 폭락하던 9월에 중장기물 114억달러 샀다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611196519i",
+      "published": "2026-11-19T11:26:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "'中 한한령' 해빙 기대감에 엔터주 등 관련주 '들썩'",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261119064500008",
@@ -75,11 +89,39 @@
       "published": "2026-11-19T09:36:00+09:00"
     },
     {
+      "category": "부동산",
+      "title": "\"신축 오를때 낡은 집은 뚝\"…갈아타기 수요 몰리는 부산",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111963256",
+      "published": "2026-11-19T09:19:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 신축 아파트, 1000가구 이상 대단지 많아졌다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111962596",
+      "published": "2026-11-19T08:47:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "앤트로픽 공모가 83달러 확정…스페이스X IPO 기록 넘어서나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111960657",
+      "published": "2026-11-19T06:40:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "Fed 월러 이사 또 '빅스텝' 언급…10월 FOMC에선 2명만 동의 [Fed 워치]",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611196002i",
       "published": "2026-11-19T06:18:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "엔비디아 어닝서프라이즈에도 여전히 불안한 시장 [박신영의 개장전 요것만]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611195949i",
+      "published": "2026-11-19T00:17:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111708276",
       "published": "2026-11-17T08:40:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "반도체 수출통제 칼날 벼리는 美 의회..韓 기업도 '영향권'[워싱턴나우+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611170831i",
-      "published": "2026-11-17T08:40:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"AI로 일자리 잃는 시나리오 조사 중\"…워시 한마디에 '술렁' [Fed 워치]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611170570i",
-      "published": "2026-11-17T03:54:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[특징주] 삼성전자·하이닉스, 장중 낙폭 키워 4∼7%대 급락(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116034351008",
-      "published": "2026-11-16T17:43:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "치솟는 가격에 부담 커졌나…서울 매매·전세심리 동반위축",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111699711",
-      "published": "2026-11-16T17:21:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"내년 집값·전셋값 오르지만 주택 착공은 더딜 듯\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111699681",
-      "published": "2026-11-16T17:20:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "블룸버그 \"내년 韓성장률 3.6%…반도체 생산 빠르게 늘면 4% 가능\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116154500008",
-      "published": "2026-11-16T17:19:00+09:00"
     }
   ]
 }
