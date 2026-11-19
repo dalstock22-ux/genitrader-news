@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:10:55+09:00",
+  "updated": "2026-11-19T11:17:04+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "'中 한한령' 해빙 기대감에 엔터주 등 관련주 '들썩'",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261119064500008",
+      "published": "2026-11-19T10:46:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "코스피, 앤트로픽 상장 앞두고 1%대↓…상승출발후 하락전환(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261119063200008",
+      "published": "2026-11-19T10:37:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "1기 신도시 10년간 얼마나 올랐나 보니…3배 뛴 분당 '1위'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111964396",
+      "published": "2026-11-19T10:09:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "앤트로픽, 140조원 조달…스페이스X 제치고 역대 최대 IPO",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611196515i",
+      "published": "2026-11-19T09:36:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "Fed 월러 이사 또 '빅스텝' 언급…10월 FOMC에선 2명만 동의 [Fed 워치]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611196002i",
+      "published": "2026-11-19T06:18:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111857156",
+      "published": "2026-11-18T18:42:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "산은, 도쿄서 국내 스타트업 해외 투자 유치 지원…3년 연속",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261116154500008",
       "published": "2026-11-16T17:19:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "공정위 과징금에도 국고채 10년물 입찰 호조…\"12월 공급축소 대비\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116099900008",
-      "published": "2026-11-16T14:06:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 집값 상승폭 석달째 둔화…경기 상승률 서울 추월",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116074400003",
-      "published": "2026-11-16T14:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "대한항공·조종사노조, 3년치 임단협 잠정합의…19일부터 찬반 투표",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611169033g",
-      "published": "2026-11-16T13:15:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "엔비디아 급락이 美국채시장까지 흔들었다…금리 5% 복귀",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611168081i",
-      "published": "2026-11-16T12:56:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 중국도 미중러 정상회담 개최 발표…\"19일 선전서 열려\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111685637",
-      "published": "2026-11-16T10:11:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"한국과 소득격차 더 벌어지나\"…日, 4분기 만에 역성장 '충격' [도쿄나우]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611168365i",
-      "published": "2026-11-16T09:43:00+09:00"
     }
   ]
 }
