@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:11:23+09:00",
+  "updated": "2026-11-20T11:53:20+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,10 +47,52 @@
   },
   "items": [
     {
+      "category": "경제·증시",
+      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.669%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120082600008",
+      "published": "2026-11-20T11:40:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "코스피, 4%대 급락에 5,000선 밑으로…삼전닉스, 5~6%↓",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120075600008",
+      "published": "2026-11-20T11:22:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112088337",
+      "published": "2026-11-20T07:08:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "앤트로픽, 111.5달러에 거래 시작…공모가 대비 34% 급등 [앤트로픽 상장]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611208709i",
+      "published": "2026-11-20T02:04:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 경부·경원선 지하화…역사 39곳 '주거복합 개발'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111981001",
+      "published": "2026-11-19T18:15:00+09:00"
+    },
+    {
       "category": "부동산",
       "title": "강남 3구·한강벨트 '거래 빙하기'…하락 지역 더 늘어날 수도",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111982491",
+      "published": "2026-11-19T17:51:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"여기도 집값 꺾였다\"…강남 넘어 확산하는 '하락 공포'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111982811",
       "published": "2026-11-19T17:51:00+09:00"
     },
     {
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611183254i",
       "published": "2026-11-18T06:35:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117137300002",
-      "published": "2026-11-17T17:33:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "연봉 12년치 모아야 서울서 '내 집 마련'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111726121",
-      "published": "2026-11-17T17:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 빌라 거래량 급감…전세보증금은 상승세",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111726181",
-      "published": "2026-11-17T17:19:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261117065451008",
-      "published": "2026-11-17T16:33:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "수도권 세입자, 소득 20%를 집세로…임대료 부담 '껑충'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611172166i",
-      "published": "2026-11-17T16:00:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "아파트 리모델링, 동의율 75%→70%로 낮춘다…내년 1월 시행",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111716917",
-      "published": "2026-11-17T12:32:00+09:00"
     }
   ]
 }
