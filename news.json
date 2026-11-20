@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:55:21+09:00",
+  "updated": "2026-11-20T12:02:32+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120085200008",
+      "published": "2026-11-20T11:55:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120083400009",
+      "published": "2026-11-20T11:48:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "국고채 금리 일제히 하락…3년물 장중 연 3.669%",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261120082600008",
@@ -59,6 +73,27 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261120075600008",
       "published": "2026-11-20T11:22:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"4인 가구 만점은 돼야\"…더 높아진 서울 신축 청약 문턱",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112089756",
+      "published": "2026-11-20T09:22:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[밤 사이 해외뉴스 영상] 수출 36% 급증했는데 주가는 급락…중국 증시의 역설",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611208924i",
+      "published": "2026-11-20T08:24:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "중국 반도체 막는다면서?…美, 엔비디아·AMD 칩 88만개 수출 승인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112088797",
+      "published": "2026-11-20T07:51:00+09:00"
     },
     {
       "category": "해외시장",
@@ -115,6 +150,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111983037",
       "published": "2026-11-19T17:43:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울·경기 전셋값은 여전히 고공행진",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026111982481",
+      "published": "2026-11-19T17:42:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261118076200003",
       "published": "2026-11-18T10:50:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[오전 시황] 코스피 상승폭 0.74%로 축소…반도체 초반 급등 반납",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611184191i",
-      "published": "2026-11-18T10:48:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 Fed, AI가 경제에 미칠 충격 분석 착수…고용·증시 영향 시나리오 검토",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611183961i",
-      "published": "2026-11-18T10:22:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611183882i",
-      "published": "2026-11-18T10:01:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "월급 5분의 1 집세…서울 집값, 연소득 12년치",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111835166",
-      "published": "2026-11-18T08:38:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "젠슨 황 \"복귀하겠다\" vs 이사회 \"계획 없다\"…엔비디아 내홍",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611183395i",
-      "published": "2026-11-18T08:01:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611183254i",
-      "published": "2026-11-18T06:35:00+09:00"
     }
   ]
 }
