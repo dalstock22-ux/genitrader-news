@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:11:40+09:00",
+  "updated": "2026-11-21T11:14:26+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,41 @@
     ]
   },
   "items": [
+    {
+      "category": "해외시장",
+      "title": "미·중·러 정상회담에 오른 한반도 문제…트럼프 \"위험 대응 논의\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112112577",
+      "published": "2026-11-21T10:31:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261121014700002",
+      "published": "2026-11-21T08:36:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "\"믿었던 AI마저\"…기술주 투매에 나스닥 5% 급락 [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112110837",
+      "published": "2026-11-21T07:27:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "공시가격 현실화율 69% 동결…\"집값 오른 곳, 보유세 늘 수도\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112008757",
+      "published": "2026-11-20T19:56:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "구리 물량 다 빨아들이는 美…재고 바닥난 中선 가격 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112007151",
+      "published": "2026-11-20T18:25:00+09:00"
+    },
     {
       "category": "해외시장",
       "title": "'中 스캔들' 의혹 확산에…AMD 주가 직격탄",
@@ -108,6 +143,13 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261120075600008",
       "published": "2026-11-20T11:22:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "목동 5·12·14단지 재건축 통합심의 통과…최고 49층·1만1863가구 조성",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611209634i",
+      "published": "2026-11-20T11:11:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611196002i",
       "published": "2026-11-19T06:18:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "엔비디아 어닝서프라이즈에도 여전히 불안한 시장 [박신영의 개장전 요것만]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611195949i",
-      "published": "2026-11-19T00:17:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111857156",
-      "published": "2026-11-18T18:42:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "산은, 도쿄서 국내 스타트업 해외 투자 유치 지원…3년 연속",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261118171100002",
-      "published": "2026-11-18T17:59:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "이란 \"중동 미군기지 공격\"…충돌 격화",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111855221",
-      "published": "2026-11-18T17:36:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"IPO 공모가 상향 검토\"…앤트로픽 몸값 더 뛰나",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111855131",
-      "published": "2026-11-18T17:35:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "재초환 줄소송 예고…대응 TF 만드는 로펌들",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111853341",
-      "published": "2026-11-18T17:05:00+09:00"
     }
   ]
 }
