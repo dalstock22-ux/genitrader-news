@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:02:52+09:00",
+  "updated": "2026-11-21T18:11:11+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112114747",
+      "published": "2026-11-21T17:28:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112113727",
+      "published": "2026-11-21T14:30:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"20년 살았는데 3억 내라니\"… 강남 재건축 아파트에 무슨 일이 [고인선의 택스인사이트]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611209077i",
+      "published": "2026-11-21T14:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기]",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611200923i",
@@ -83,10 +104,24 @@
     },
     {
       "category": "해외시장",
+      "title": "미중러 회담 트럼프 \"3대 핵보유국 책임 논의했다\" [이상은의 워싱턴나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611211034i",
+      "published": "2026-11-21T03:29:00+09:00"
+    },
+    {
+      "category": "해외시장",
       "title": "앤트로픽도 쓸어간 AI 퍼펙트 스톰…애플 참전에 AI 경쟁 격화 [박신영의 개장전 요것만]",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611211028i",
       "published": "2026-11-21T01:38:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"나는 중국의 열렬한 팬\"…머스크 한마디에 '들썩'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112009817",
+      "published": "2026-11-20T21:54:00+09:00"
     },
     {
       "category": "부동산",
@@ -157,6 +192,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112006441",
       "published": "2026-11-20T17:23:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"집 팔아 현금 10억 쥐어도…\" 서울 집주인들 당황한 이유",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112005977",
+      "published": "2026-11-20T17:15:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026111982481",
       "published": "2026-11-19T17:42:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "5년 만에 최대 매출 증가…美 타깃, 주가 7% 급등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611197802i",
-      "published": "2026-11-19T16:14:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 아파트값 93주째 올라 최장 기록 경신…경기 남부 상승세 이어져",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111971346",
-      "published": "2026-11-19T14:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.731%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119083000008",
-      "published": "2026-11-19T11:41:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[단독]韓, 美 국채 폭락하던 9월에 중장기물 114억달러 샀다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611196519i",
-      "published": "2026-11-19T11:26:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "'中 한한령' 해빙 기대감에 엔터주 등 관련주 '들썩'",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119064500008",
-      "published": "2026-11-19T10:46:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피, 앤트로픽 상장 앞두고 1%대↓…상승출발후 하락전환(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119063200008",
-      "published": "2026-11-19T10:37:00+09:00"
     }
   ]
 }
