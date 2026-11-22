@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:02:19+09:00",
+  "updated": "2026-11-22T18:11:31+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "부동산",
+      "title": "\"내년 수도권 집값 3~5% 상승…전셋값은 8% 뛸 것\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112224191",
+      "published": "2026-11-22T17:57:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "정부, 공급 확대 '전격전'…연말 1.2만가구 공공분양",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112224181",
+      "published": "2026-11-22T17:56:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "환율·채권…원·달러 환율, 연말 1380원대 전망",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112224171",
+      "published": "2026-11-22T17:23:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "뉴욕·상하이 증시, 美 물가지수 발표에 월가 촉각",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112224161",
+      "published": "2026-11-22T17:22:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"美, 아시아 순방 계기 북미회담 추진…北 '수용 불가 조건'에 무산\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112223007",
+      "published": "2026-11-22T16:47:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "트럼프 \"데이터센터 해외에 지으면 과세\"…'자승자박' 될라 [워싱턴나우+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611222301i",
+      "published": "2026-11-22T16:41:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "AI 투매 충격 딛고 반등할까…美 물가·中 기업이익에 쏠린 눈",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611209634i",
       "published": "2026-11-20T11:11:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "앤트로픽, 1.5조달러 상장 직전 안전통제 강화…AI 가속 우려",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611208992i",
-      "published": "2026-11-20T09:27:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"4인 가구 만점은 돼야\"…더 높아진 서울 신축 청약 문턱",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112089756",
-      "published": "2026-11-20T09:22:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[밤 사이 해외뉴스 영상] 수출 36% 급증했는데 주가는 급락…중국 증시의 역설",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611208924i",
-      "published": "2026-11-20T08:24:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "중국 반도체 막는다면서?…美, 엔비디아·AMD 칩 88만개 수출 승인",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112088797",
-      "published": "2026-11-20T07:51:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112088337",
-      "published": "2026-11-20T07:08:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "앤트로픽, 111.5달러에 거래 시작…공모가 대비 34% 급등 [앤트로픽 상장]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611208709i",
-      "published": "2026-11-20T02:04:00+09:00"
     }
   ]
 }
