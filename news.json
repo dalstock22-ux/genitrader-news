@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:11:11+09:00",
+  "updated": "2026-11-22T10:46:52+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261122016800001",
+      "published": "2026-11-22T10:38:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "\"호황이어도 한푼이 아쉽네\"…대기업 절반 이상 기부금 삭감",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112218757",
+      "published": "2026-11-22T09:04:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112114747",
@@ -73,6 +87,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611200923i",
       "published": "2026-11-21T11:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "스파이 연루설에도…트럼프 거듭 \"젠슨 황 복귀 보고 싶다\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112112667",
+      "published": "2026-11-21T10:40:00+09:00"
     },
     {
       "category": "해외시장",
@@ -136,6 +157,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112007151",
       "published": "2026-11-20T18:25:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "日 담배회사, 러 경영권 뺏기고 6조원 적자",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112007161",
+      "published": "2026-11-20T18:23:00+09:00"
     },
     {
       "category": "해외시장",
@@ -286,45 +314,17 @@
     },
     {
       "category": "부동산",
-      "title": "강남 3구·한강벨트 '거래 빙하기'…하락 지역 더 늘어날 수도",
+      "title": "한화, 하안주공5 시공…정비사업 2.5조 수주",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111982491",
-      "published": "2026-11-19T17:51:00+09:00"
+      "url": "https://www.hankyung.com/article/2026111981061",
+      "published": "2026-11-19T18:14:00+09:00"
     },
     {
       "category": "부동산",
-      "title": "\"여기도 집값 꺾였다\"…강남 넘어 확산하는 '하락 공포'",
+      "title": "복잡한 '재당첨 제한'…정비사업 곳곳 혼선",
       "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111982811",
-      "published": "2026-11-19T17:51:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리, 일제히 하락…유가 급락·외국인 매수(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261119158751008",
-      "published": "2026-11-19T17:47:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "반도체의 나라…수출 1조달러 돌파",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111982821",
-      "published": "2026-11-19T17:45:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 트럼프, 미중러 회담서 \"전 세계 모든 문제 논의할 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111983037",
-      "published": "2026-11-19T17:43:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울·경기 전셋값은 여전히 고공행진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111982481",
-      "published": "2026-11-19T17:42:00+09:00"
+      "url": "https://www.hankyung.com/article/2026111981021",
+      "published": "2026-11-19T18:13:00+09:00"
     }
   ]
 }
