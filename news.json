@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:46:52+09:00",
+  "updated": "2026-11-22T12:02:19+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "AI 투매 충격 딛고 반등할까…美 물가·中 기업이익에 쏠린 눈",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611222087i",
+      "published": "2026-11-22T11:33:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "노동장관 \"정년연장, 27일 與 특위서 결론 안 나면 정부안 발표\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261122019000530",
+      "published": "2026-11-22T11:05:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261122016800001",
@@ -87,6 +101,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611200923i",
       "published": "2026-11-21T11:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"출근했는데 로그인이 안 돼\"…미국 최고 정보기관 사흘 넘게 마비",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112112727",
+      "published": "2026-11-21T10:57:00+09:00"
     },
     {
       "category": "해외시장",
@@ -304,27 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611208709i",
       "published": "2026-11-20T02:04:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 경부·경원선 지하화…역사 39곳 '주거복합 개발'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111981001",
-      "published": "2026-11-19T18:15:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "한화, 하안주공5 시공…정비사업 2.5조 수주",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111981061",
-      "published": "2026-11-19T18:14:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "복잡한 '재당첨 제한'…정비사업 곳곳 혼선",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026111981021",
-      "published": "2026-11-19T18:13:00+09:00"
     }
   ]
 }
