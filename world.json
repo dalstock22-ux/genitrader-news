@@ -1,0 +1,78 @@
+{
+ "updated": "2026-11-23T10:06+09:00",
+ "label": "WORLD NEWS",
+ "items": [
+  {
+   "s": "CNN",
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율로: 산업용 AI의 핵심은 '신뢰'"
+  },
+  {
+   "s": "BBC",
+   "t": "Energy bills will soar - here's how you can ease the pain",
+   "u": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+   "k": "영국 에너지 요금 급등 예고, 부담 줄이는 방법"
+  },
+  {
+   "s": "MarketWatch",
+   "t": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+   "u": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+   "k": "미국 기업들, AI·트레이딩카드·LA공항에서 '세대급 성장' 찾는다"
+  },
+  {
+   "s": "CNN",
+   "t": "Intel Chief confirms China got access to US advanced AI chips",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVPbGVLM3lXWERwcThxRUxieDdKck1UQXdpREVJVkpoam5MaDNFVWd2ejZ3ZFFwZkFtSjU0bnFMQ3BCLTF1SXdIWGR0dHR2c3ZYdTVTamdoZ3RLZUtRZ3JUV29MYkgxa1YxdjFobWt5Q2FBY1BRZ1ZHckxoY0s4Qi1ibkZiYmJzbk1HS2lOYzM5SHZacVpwcXQ3UFR4M094TGxFT1RXSTFvejQ?oc=5",
+   "k": "美 정보수장, 中이 미국 첨단 AI 칩에 접근했음을 확인"
+  },
+  {
+   "s": "CNBC",
+   "t": "How China is using summits to expand its global influence",
+   "u": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "k": "중국, 정상회의로 글로벌 영향력 넓힌다"
+  },
+  {
+   "s": "Guardian",
+   "t": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+   "u": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "k": "수학자 주장 검증: 클로드가 수학 난제 증명 도왔다"
+  },
+  {
+   "s": "BBC",
+   "t": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "u": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+   "k": "샌프란시스코 AI 호황 속 '버블 붕괴' 우려 커져"
+  },
+  {
+   "s": "CNBC",
+   "t": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+   "u": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+   "k": "피자 체인 매출 압박, GLP-1만의 문제 아니다"
+  },
+  {
+   "s": "Guardian",
+   "t": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+   "u": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+   "k": "EU 법원, 中 BYD의 '디펜더 닮은꼴' SUV 판매 금지"
+  },
+  {
+   "s": "BBC",
+   "t": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+   "u": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
+   "k": "센트리카 CEO '치솟는 에너지 요금 영향 크게 우려'"
+  },
+  {
+   "s": "CNBC",
+   "t": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+   "u": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+   "k": "월가 애널리스트들이 꼽은 고배당주 3선"
+  },
+  {
+   "s": "Guardian",
+   "t": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
+   "u": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+   "k": "영국 납세자 보유 해외 조세회피처 자산 1조 파운드 넘어"
+  }
+ ]
+}
