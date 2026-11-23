@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:11:31+09:00",
+  "updated": "2026-11-23T09:50:22+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,41 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "코스피 2∼3% 하락 4,600대로 밀려…코스닥도 1%대↓(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261123032251008",
+      "published": "2026-11-23T09:36:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261123030651002",
+      "published": "2026-11-23T09:11:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "3기 신도시 첫 집들이 하는데…12월 전국 입주물량 '반토막'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112330506",
+      "published": "2026-11-23T08:39:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "고물가에도 지갑 여는 미국인들…연말 소비 1조달러 전망",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611232915i",
+      "published": "2026-11-23T08:11:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"민주당 탓에 8000조 증발\"…'증시 폭락' 책임 돌린 트럼프",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112328777",
+      "published": "2026-11-23T07:45:00+09:00"
+    },
     {
       "category": "부동산",
       "title": "\"내년 수도권 집값 3~5% 상승…전셋값은 8% 뛸 것\"",
@@ -290,41 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112005977",
       "published": "2026-11-20T17:15:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120085200008",
-      "published": "2026-11-20T11:55:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120083400009",
-      "published": "2026-11-20T11:48:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.669%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120082600008",
-      "published": "2026-11-20T11:40:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피, 4%대 급락에 5,000선 밑으로…삼전닉스, 5~6%↓",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120075600008",
-      "published": "2026-11-20T11:22:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "목동 5·12·14단지 재건축 통합심의 통과…최고 49층·1만1863가구 조성",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611209634i",
-      "published": "2026-11-20T11:11:00+09:00"
     }
   ]
 }
