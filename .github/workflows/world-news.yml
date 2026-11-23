@@ -1,0 +1,27 @@
+name: world-news
+on:
+  schedule:
+    - cron: "20 */6 * * *"   # 6시간마다 (UTC 기준, 한국 시각 +9시간)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: world-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update world.json
+        env:
+          WN_CI: "1"
+          WN_REPO: ${{ github.workspace }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/world_news.py auto

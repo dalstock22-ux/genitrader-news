@@ -37,3 +37,7 @@ GeniTrader 홈페이지가 불러오는 **공개 데이터 저장소**입니다.
 ## 원칙
 - 기사 본문을 옮기지 않습니다(제목·링크·직접 쓴 요약만). 저작권은 각 언론사에 있습니다.
 - 모든 자료는 참고용이며 특정 종목의 매수·매도 추천이 아닙니다.
+
+## 해외 뉴스 줄띠 (world.json)
+`.github/workflows/world-news.yml` 이 6시간마다 `scripts/world_news.py auto` 를 실행해 `world.json` 을 갱신합니다
+(해외 경제 뉴스 제목·출처·링크와 한국어 번역 제목만 담습니다). `world_ko_cache.json` 은 번역 결과 캐시입니다.
