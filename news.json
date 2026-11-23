@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:02:34+09:00",
+  "updated": "2026-11-23T18:11:44+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "초과세수 10조 지방에 푼다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112350731",
+      "published": "2026-11-23T17:42:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "트럼프에 칼 뺀 민주 \"韓 대미투자 세부내용 들여다볼 것\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112349971",
+      "published": "2026-11-23T17:31:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "\"내년에도 수출 1조달러 넘어…반도체 비중 첫 50% 돌파\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112349791",
+      "published": "2026-11-23T17:27:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "준공업지 임대비율 조정…재건축 사업성 높아지나",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112349041",
+      "published": "2026-11-23T17:20:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "강남3구·용산에 청약 '절반' 몰렸다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112349051",
+      "published": "2026-11-23T17:19:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "메모리값 400% 급등…AI 서버업체, 계약 후 가격 인상",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611232980i",
+      "published": "2026-11-23T13:17:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "국고채 금리, 위험회피 속 하락세…3년물 장중 연 3.621%",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112009817",
       "published": "2026-11-20T21:54:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "공시가격 현실화율 69% 동결…\"집값 오른 곳, 보유세 늘 수도\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112008757",
-      "published": "2026-11-20T19:56:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "구리 물량 다 빨아들이는 美…재고 바닥난 中선 가격 급등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112007151",
-      "published": "2026-11-20T18:25:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "日 담배회사, 러 경영권 뺏기고 6조원 적자",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112007161",
-      "published": "2026-11-20T18:23:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "'이날만 기다렸는데' 개미들 멘붕…증시 덮친 '섬뜩한 경고'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112006961",
-      "published": "2026-11-20T18:11:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "'中 스캔들' 의혹 확산에…AMD 주가 직격탄",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112006951",
-      "published": "2026-11-20T18:08:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "지난달 카드론 잔액 42조6천701억원…4개월 만에 증가",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120158200002",
-      "published": "2026-11-20T17:58:00+09:00"
     }
   ]
 }
