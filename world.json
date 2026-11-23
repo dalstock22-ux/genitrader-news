@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-23T10:15+09:00",
+ "updated": "2026-11-23T10:26+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
    "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "k": "자동화에서 자율성까지: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
    "t": "Energy bills will soar - here's how you can ease the pain",
    "u": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-   "k": "에너지 요금이 치솟을 것입니다. 부담을 덜 수 있는 방법을 알아보세요."
+   "k": "에너지 요금이 급등할 것입니다. 부담을 줄일 수 있는 방법은 다음과 같습니다."
   },
   {
    "s": "BBC",
@@ -24,13 +24,13 @@
    "s": "CNBC",
    "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
    "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
+   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 건강 보험 혜택을 상실했습니다."
   },
   {
    "s": "Guardian",
-   "t": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "u": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "k": "테레사 메이의 과거 발언이 보수당을 불행한 과거로 되돌리다 | 피터 워커"
+   "t": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+   "u": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+   "k": "트럼프 지지 세력에 균열이 생기면서 보수 언론의 미래가 불투명해지고 있다"
   },
   {
    "s": "MarketWatch",
@@ -54,13 +54,13 @@
    "s": "Al Jazeera",
    "t": "South Korea’s stock market tumbles as AI bubble fears mount",
    "u": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
-   "k": "AI 버블 우려가 커지면서 한국 주식 시장이 급락하고 있습니다."
+   "k": "AI 거품 우려가 커지면서 한국 주식 시장이 급락했습니다."
   },
   {
    "s": "Arab News",
    "t": "Trump to welcome investors at gala for his plunging meme coin",
    "u": "https://www.arabnews.com/world/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin-3013616",
-   "k": "트럼프, 급락하는 밈코인 관련 갈라 행사에서 투자자 맞이 예정"
+   "k": "트럼프, 급락하는 밈코인 관련 갈라 행사에서 투자자들을 맞이할 예정"
   },
   {
    "s": "CNA",
@@ -84,25 +84,25 @@
    "s": "Euronews",
    "t": "Israel forecast to grow 4.5%: What can Europe learn from its tech boom?",
    "u": "https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom",
-   "k": "이스라엘의 성장률은 4.5%로 전망됩니다. 유럽은 이스라엘의 기술 붐에서 무엇을 배울 수 있을까요?"
+   "k": "이스라엘의 성장률이 4.5%로 전망됩니다. 유럽은 이스라엘의 기술 붐에서 무엇을 배울 수 있을까요?"
   },
   {
    "s": "MercoPress",
    "t": "Trump threatens to penalise tech companies that build data centres outside the US",
    "u": "https://en.mercopress.com/2026/11/21/trump-threatens-to-penalise-tech-companies-that-build-data-centres-outside-the-us?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "트럼프, 미국 이외 지역에 데이터 센터를 구축하는 기술 기업에 제재를 가하겠다고 위협"
+   "k": "트럼프, 미국 외부에 데이터 센터를 구축하는 기술 기업에 제재를 가하겠다고 위협"
   },
   {
    "s": "Buenos Aires Times",
    "t": "Economist Carlos Melconian on tackling inflation, Milei’s errors and if Bullrich should be his veep",
    "u": "https://www.batimes.com.ar/news/argentina/economist-carlos-melconian-on-tackling-inflation-mileis-errors-and-if-bullrich-should-be-his-veep.phtml",
-   "k": "경제학자 카를로스 멜코니안, 인플레이션 대응, 밀레이의 실수, 불리치 후보의 부통령 적합성 논의"
+   "k": "경제학자 카를로스 멜코니안, 인플레이션 대처, 밀레이의 실수, 불리치 후보가 그의 부통령이 되어야 하는지에 대해 이야기하다"
   },
   {
    "s": "SCMP",
    "t": "Mainland China stock exchanges make moves to raise liquidity and activity to stem decline",
    "u": "https://www.scmp.com/business/markets/article/3375388/mainland-china-stock-exchanges-make-moves-raise-liquidity-and-activity-stem-decline",
-   "k": "중국 본토 증권거래소, 유동성 및 거래 활동을 늘려 하락세 차단에 나서다"
+   "k": "중국 본토 증권거래소, 유동성 및 거래 활동을 늘려 하락세 차단에 나서"
   },
   {
    "s": "Economic Times",
@@ -114,7 +114,7 @@
    "s": "CNN",
    "t": "Intel Chief confirms China got access to US advanced AI chips",
    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVPbGVLM3lXWERwcThxRUxieDdKck1UQXdpREVJVkpoam5MaDNFVWd2ejZ3ZFFwZkFtSjU0bnFMQ3BCLTF1SXdIWGR0dHR2c3ZYdTVTamdoZ3RLZUtRZ3JUV29MYkgxa1YxdjFobWt5Q2FBY1BRZ1ZHckxoY0s4Qi1ibkZiYmJzbk1HS2lOYzM5SHZacVpwcXQ3UFR4M094TGxFT1RXSTFvejQ?oc=5",
-   "k": "인텔 CEO, 중국이 미국 첨단 AI 칩에 접근한 사실 확인"
+   "k": "인텔 최고경영자, 중국이 미국 첨단 AI 칩에 접근했음을 확인"
   },
   {
    "s": "BBC",
@@ -126,7 +126,7 @@
    "s": "BBC",
    "t": "FBI reportedly investigating apparent hack of its criminal database",
    "u": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-   "k": "FBI, 범죄 데이터베이스 해킹 의혹 조사 중인 것으로 알려져"
+   "k": "FBI, 범죄 데이터베이스 해킹 정황 조사 중인 것으로 알려져"
   },
   {
    "s": "CNBC",
@@ -142,21 +142,21 @@
   },
   {
    "s": "Guardian",
-   "t": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-   "u": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-   "k": "두 그룹이 Claude가 수학 문제를 증명하는 데 도움을 주었다는 수학자의 주장을 검증합니다."
+   "t": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+   "u": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+   "k": "해킹, AI 및 음모론: 왜 이렇게 많은 서비스 중단이 발생하는 걸까요?"
   },
   {
    "s": "MarketWatch",
    "t": "These little-known investments could be among the best bargains in a crash",
    "u": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-   "k": "이러한 잘 알려지지 않은 투자 상품은 주식 시장이 폭락할 때 가장 유리한 투자 기회가 될 수 있습니다."
+   "k": "이러한 잘 알려지지 않은 투자 상품은 주가 폭락 시 가장 유리한 투자 기회가 될 수 있습니다."
   },
   {
    "s": "TASS",
    "t": "Imports’ share in wholesale trade decreases by third year-on-year",
    "u": "https://tass.com/economy/2223109",
-   "k": "도매 무역에서 수입이 차지하는 비중이 전년 대비 3년 연속 감소"
+   "k": "도매 무역에서 수입 비중이 3년 연속 감소"
   },
   {
    "s": "Arab News",
@@ -168,7 +168,7 @@
    "s": "CNA",
    "t": "US intelligence chief predicts more tech outages as systems undergo upgrades",
    "u": "https://www.channelnewsasia.com/business/us-intelligence-chief-predicts-more-tech-outages-systems-undergo-upgrades-6573221",
-   "k": "미국 정보기관 수장, 시스템 업그레이드에 따른 추가 기술 장애 예측"
+   "k": "미국 정보기관 수장, 시스템 업그레이드에 따른 기술적 장애 증가 전망"
   },
   {
    "s": "Straits Times",
@@ -180,7 +180,7 @@
    "s": "Bangkok Post",
    "t": "Mobile, fixed broadband value set to reach B452bn",
    "u": "https://www.bangkokpost.com/business/general/3359545/mobile-fixed-broadband-value-set-to-reach-b452bn",
-   "k": "모바일, 유선 초고속인터넷 가치 4,520억 바트 달성 전망"
+   "k": "모바일, 유선 초고속 인터넷 가치가 4,520억 바트(B)에 이를 것으로 전망"
   }
  ]
 }
