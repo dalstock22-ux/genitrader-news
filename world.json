@@ -1,78 +1,186 @@
 {
- "updated": "2026-11-23T10:06+09:00",
+ "updated": "2026-11-23T10:15+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
    "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율로: 산업용 AI의 핵심은 '신뢰'"
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
    "t": "Energy bills will soar - here's how you can ease the pain",
    "u": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-   "k": "영국 에너지 요금 급등 예고, 부담 줄이는 방법"
+   "k": "에너지 요금이 치솟을 것입니다. 부담을 덜 수 있는 방법을 알아보세요."
+  },
+  {
+   "s": "BBC",
+   "t": "Three killed and dozens missing after fire at Indonesian factory",
+   "u": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+   "k": "인도네시아 공장 화재로 3명 사망, 수십 명 실종"
+  },
+  {
+   "s": "CNBC",
+   "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
+  },
+  {
+   "s": "Guardian",
+   "t": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+   "u": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+   "k": "테레사 메이의 과거 발언이 보수당을 불행한 과거로 되돌리다 | 피터 워커"
   },
   {
    "s": "MarketWatch",
    "t": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
    "u": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-   "k": "미국 기업들, AI·트레이딩카드·LA공항에서 '세대급 성장' 찾는다"
+   "k": "미국 기업들이 AI, 트레이딩 카드, LA 공항에서 '세대적' 성장을 추구하는 이유"
+  },
+  {
+   "s": "Moscow Times",
+   "t": "Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report",
+   "u": "https://www.themoscowtimes.com/2026/11/21/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-a94341",
+   "k": "러시아 와일드베리즈 CEO, EU 제재 사흘 만에 사임, 언론 보도"
+  },
+  {
+   "s": "TASS",
+   "t": "Ukraine’s economy destroyed and can only use external subsidies — Russian envoy",
+   "u": "https://tass.com/politics/2223113",
+   "k": "우크라이나 경제는 파탄났으며 외부 보조금에만 의존할 수밖에 없다 — 러시아 특사"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "South Korea’s stock market tumbles as AI bubble fears mount",
+   "u": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+   "k": "AI 버블 우려가 커지면서 한국 주식 시장이 급락하고 있습니다."
+  },
+  {
+   "s": "Arab News",
+   "t": "Trump to welcome investors at gala for his plunging meme coin",
+   "u": "https://www.arabnews.com/world/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin-3013616",
+   "k": "트럼프, 급락하는 밈코인 관련 갈라 행사에서 투자자 맞이 예정"
+  },
+  {
+   "s": "CNA",
+   "t": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+   "u": "https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461",
+   "k": "OpenAI 과학자가 모델 지능 지표와 연계된 산업 AI 한계를 제안하다"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Gold rebounds as traders pare bets on near-term US Fed rate hikes",
+   "u": "https://www.straitstimes.com/business/gold-rebounds-as-traders-pare-bets-on-near-term-us-fed-rate-hikes",
+   "k": "미 연준의 단기 금리 인상에 대한 트레이더들의 베팅이 줄어들면서 금 가격이 반등했습니다."
+  },
+  {
+   "s": "Bangkok Post",
+   "t": "IT firms report solid earnings growth",
+   "u": "https://www.bangkokpost.com/business/general/3359625/it-firms-report-solid-earnings-growth",
+   "k": "IT 기업, 견조한 이익 성장률 기록"
+  },
+  {
+   "s": "Euronews",
+   "t": "Israel forecast to grow 4.5%: What can Europe learn from its tech boom?",
+   "u": "https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom",
+   "k": "이스라엘의 성장률은 4.5%로 전망됩니다. 유럽은 이스라엘의 기술 붐에서 무엇을 배울 수 있을까요?"
+  },
+  {
+   "s": "MercoPress",
+   "t": "Trump threatens to penalise tech companies that build data centres outside the US",
+   "u": "https://en.mercopress.com/2026/11/21/trump-threatens-to-penalise-tech-companies-that-build-data-centres-outside-the-us?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "k": "트럼프, 미국 이외 지역에 데이터 센터를 구축하는 기술 기업에 제재를 가하겠다고 위협"
+  },
+  {
+   "s": "Buenos Aires Times",
+   "t": "Economist Carlos Melconian on tackling inflation, Milei’s errors and if Bullrich should be his veep",
+   "u": "https://www.batimes.com.ar/news/argentina/economist-carlos-melconian-on-tackling-inflation-mileis-errors-and-if-bullrich-should-be-his-veep.phtml",
+   "k": "경제학자 카를로스 멜코니안, 인플레이션 대응, 밀레이의 실수, 불리치 후보의 부통령 적합성 논의"
+  },
+  {
+   "s": "SCMP",
+   "t": "Mainland China stock exchanges make moves to raise liquidity and activity to stem decline",
+   "u": "https://www.scmp.com/business/markets/article/3375388/mainland-china-stock-exchanges-make-moves-raise-liquidity-and-activity-stem-decline",
+   "k": "중국 본토 증권거래소, 유동성 및 거래 활동을 늘려 하락세 차단에 나서다"
+  },
+  {
+   "s": "Economic Times",
+   "t": "Crypto platforms told to review products",
+   "u": "https://economictimes.indiatimes.com/news/economy/policy/crypto-platforms-told-to-review-products-cross-border-deals/articleshow/136082351.cms",
+   "k": "암호화폐 플랫폼에 제품 검토 요청"
   },
   {
    "s": "CNN",
    "t": "Intel Chief confirms China got access to US advanced AI chips",
    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVPbGVLM3lXWERwcThxRUxieDdKck1UQXdpREVJVkpoam5MaDNFVWd2ejZ3ZFFwZkFtSjU0bnFMQ3BCLTF1SXdIWGR0dHR2c3ZYdTVTamdoZ3RLZUtRZ3JUV29MYkgxa1YxdjFobWt5Q2FBY1BRZ1ZHckxoY0s4Qi1ibkZiYmJzbk1HS2lOYzM5SHZacVpwcXQ3UFR4M094TGxFT1RXSTFvejQ?oc=5",
-   "k": "美 정보수장, 中이 미국 첨단 AI 칩에 접근했음을 확인"
+   "k": "인텔 CEO, 중국이 미국 첨단 AI 칩에 접근한 사실 확인"
+  },
+  {
+   "s": "BBC",
+   "t": "What is going on with Poundland?",
+   "u": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+   "k": "Poundland에 무슨 일이 일어나고 있나요?"
+  },
+  {
+   "s": "BBC",
+   "t": "FBI reportedly investigating apparent hack of its criminal database",
+   "u": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+   "k": "FBI, 범죄 데이터베이스 해킹 의혹 조사 중인 것으로 알려져"
+  },
+  {
+   "s": "CNBC",
+   "t": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+   "u": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+   "k": "제이 클레이턴 국가정보국 국장이 기술 서비스 중단 사태 이후 미국인들에게 '앞으로 닥칠 어려움'을 경고했습니다."
   },
   {
    "s": "CNBC",
    "t": "How China is using summits to expand its global influence",
    "u": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-   "k": "중국, 정상회의로 글로벌 영향력 넓힌다"
+   "k": "중국이 정상회담을 통해 글로벌 영향력을 확대하는 방법"
   },
   {
    "s": "Guardian",
    "t": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
    "u": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-   "k": "수학자 주장 검증: 클로드가 수학 난제 증명 도왔다"
+   "k": "두 그룹이 Claude가 수학 문제를 증명하는 데 도움을 주었다는 수학자의 주장을 검증합니다."
   },
   {
-   "s": "BBC",
-   "t": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-   "u": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
-   "k": "샌프란시스코 AI 호황 속 '버블 붕괴' 우려 커져"
+   "s": "MarketWatch",
+   "t": "These little-known investments could be among the best bargains in a crash",
+   "u": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+   "k": "이러한 잘 알려지지 않은 투자 상품은 주식 시장이 폭락할 때 가장 유리한 투자 기회가 될 수 있습니다."
   },
   {
-   "s": "CNBC",
-   "t": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-   "u": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-   "k": "피자 체인 매출 압박, GLP-1만의 문제 아니다"
+   "s": "TASS",
+   "t": "Imports’ share in wholesale trade decreases by third year-on-year",
+   "u": "https://tass.com/economy/2223109",
+   "k": "도매 무역에서 수입이 차지하는 비중이 전년 대비 3년 연속 감소"
   },
   {
-   "s": "Guardian",
-   "t": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
-   "u": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
-   "k": "EU 법원, 中 BYD의 '디펜더 닮은꼴' SUV 판매 금지"
+   "s": "Arab News",
+   "t": "Houthi attacks on economic facilities and Saudi Arabia’s options",
+   "u": "https://www.arabnews.com/opinion/houthi-attacks-on-economic-facilities-and-saudi-arabias-options-3013492",
+   "k": "후티 반군의 경제 시설 공격과 사우디아라비아의 대응 방안"
   },
   {
-   "s": "BBC",
-   "t": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-   "u": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
-   "k": "센트리카 CEO '치솟는 에너지 요금 영향 크게 우려'"
+   "s": "CNA",
+   "t": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+   "u": "https://www.channelnewsasia.com/business/us-intelligence-chief-predicts-more-tech-outages-systems-undergo-upgrades-6573221",
+   "k": "미국 정보기관 수장, 시스템 업그레이드에 따른 추가 기술 장애 예측"
   },
   {
-   "s": "CNBC",
-   "t": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-   "u": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
-   "k": "월가 애널리스트들이 꼽은 고배당주 3선"
+   "s": "Straits Times",
+   "t": "Procter & Gamble to increase factory shifts without humans to cut costs",
+   "u": "https://www.straitstimes.com/business/procter-gamble-to-increase-factory-shifts-without-humans-to-cut-costs",
+   "k": "프로cter & Gamble, 비용 절감을 위해 인력 없이 공장 교대 근무 확대"
   },
   {
-   "s": "Guardian",
-   "t": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
-   "u": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-   "k": "영국 납세자 보유 해외 조세회피처 자산 1조 파운드 넘어"
+   "s": "Bangkok Post",
+   "t": "Mobile, fixed broadband value set to reach B452bn",
+   "u": "https://www.bangkokpost.com/business/general/3359545/mobile-fixed-broadband-value-set-to-reach-b452bn",
+   "k": "모바일, 유선 초고속인터넷 가치 4,520억 바트 달성 전망"
   }
  ]
 }
