@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:40+09:00",
+ "updated": "2026-11-24T17:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -28,9 +28,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "k": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한도에 근접"
+   "t": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+   "k": "젠슨 황은 '해고하기에는 너무 큰 존재'로, 엔비디아의 지배구조에 관심이 집중되고 있습니다."
   },
   {
    "s": "CNBC",
@@ -58,33 +58,33 @@
   },
   {
    "s": "TASS",
-   "t": "Russia’s latest Citadel systems prove effective in defending oil refineries — Rostec CEO",
-   "u": "https://tass.com/defense/2223727",
-   "k": "러시아의 최신 시타델 시스템, 정유 공장 방어에 효과 입증 — 로스테크 CEO"
+   "t": "Sovcomflot transports more than 10 mln tonnes of oil, LNG via Northern Sea Route in 2026",
+   "u": "https://tass.com/economy/2223733",
+   "k": "소브콤플로트, 2026년 북극해 항로를 통해 1,000만 톤 이상의 석유 및 LNG 운송 예정"
   },
   {
    "s": "Al Jazeera",
-   "t": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-   "u": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-   "k": "호주, 온라인 '피해'에 대해 수십억 달러의 벌금을 부과하겠다고 빅테크 기업들에 경고"
+   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "k": "WFP, 전쟁으로 인한 글로벌 식량 수송로 차단으로 730만 명의 구호가 위협받고 있다고 경고"
   },
   {
    "s": "Arab News",
-   "t": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
-   "u": "https://www.arabnews.com/energy/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat-3013802",
-   "k": "공급 증가로 호르무즈 위협이 상쇄되면서 유가가 3개월 만에 최저 수준에 근접"
+   "t": "Why Egypt’s tribal gold pact matters to Nile and Red Sea security",
+   "u": "https://www.arabnews.com/middle-east/why-egypts-tribal-gold-pact-matters-to-nile-and-red-sea-security-3013814",
+   "k": "이집트 부족 간 금 거래 협정이 나일강과 홍해의 안보에 중요한 이유"
   },
   {
    "s": "CNA",
-   "t": "About 220 Seatrium employees to lose jobs as group consolidates global yard network",
-   "u": "https://www.channelnewsasia.com/singapore/seatrium-retrenchment-layoff-workforce-yards-6577316",
-   "k": "Seatrium 직원 약 220명이 그룹의 글로벌 조선소 네트워크 통합으로 인해 일자리를 잃을 전망"
+   "t": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+   "u": "https://www.channelnewsasia.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-facility-6577671",
+   "k": "TSMC 자회사, 226억 달러 규모의 반도체 제조 시설 건설을 위해 텍사스주 재산세 한도 적용을 요청하다"
   },
   {
    "s": "Straits Times",
-   "t": "Singapore-listed tech stocks surge after Jensen Huang returns as Nvidia CEO",
-   "u": "https://www.straitstimes.com/business/companies-markets/singapore-listed-tech-stocks-surge-after-jensen-huang-returns-as-nvidia-ceo",
-   "k": "젠슨 황이 엔비디아 CEO로 복귀하자 싱가포르 상장 기술주 급등"
+   "t": "Volkswagen confronts union over costs in face of strike threat",
+   "u": "https://www.straitstimes.com/business/companies-markets/volkswagen-confronts-union-over-costs-in-face-of-strike-threat",
+   "k": "폭스바겐, 파업 위협에 직면한 가운데 비용 문제로 노조와 대립"
   },
   {
    "s": "Bangkok Post",
@@ -94,9 +94,9 @@
   },
   {
    "s": "Euronews",
-   "t": "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
-   "u": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks",
-   "k": "젠슨 황이 엔비디아로 돌아왔습니다. 이는 유럽의 AI 주식에 어떤 의미가 있을까요?"
+   "t": "The man behind Nvidia: Jensen Huang’s rise and dramatic return",
+   "u": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return",
+   "k": "Nvidia의 배후에 있는 인물: 젠슨 황의 부상과 극적인 귀환"
   },
   {
    "s": "MercoPress",
@@ -106,21 +106,15 @@
   },
   {
    "s": "SCMP",
-   "t": "BlackRock taps Hong Kong stablecoins for new money market fund",
-   "u": "https://www.scmp.com/business/banking-finance/article/3375575/blackrock-taps-hong-kong-stablecoins-new-money-market-fund",
-   "k": "블랙록, 새로운 머니마켓펀드를 위한 홍콩 스테이블코인 활용"
+   "t": "Chinese drug stocks sink as US lawmakers threaten curbs on cross-border collaboration",
+   "u": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+   "k": "미국 의원들이 국경 간 협력 제한을 경고하자 중국 제약주 하락"
   },
   {
    "s": "Economic Times",
    "t": "Trump shares bizarre AI image of Nvidia boss",
    "u": "https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms",
    "k": "트럼프, 엔비디아 CEO의 기괴한 AI 이미지를 공유하다"
-  },
-  {
-   "s": "CNN",
-   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
-   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
   },
   {
    "s": "CNN",
@@ -142,9 +136,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-   "u": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-   "k": "Signal, 고객 위험을 줄이기 위해 AI 에이전트 사용을 제한하는 유나이티드 항공, 은행에 동참"
+   "t": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "k": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한도에 근접"
   },
   {
    "s": "CNBC",
@@ -154,9 +148,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-   "u": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-   "k": "Meta, 영국에서 크리스마스 쇼핑을 도와주는 AI 에이전트 Muse 출시"
+   "t": "Children of the revolution: how the north of England is defining modern men’s fashion",
+   "u": "https://www.theguardian.com/fashion/2026/nov/24/children-of-the-revolution-how-the-north-of-england-is-defining-modern-mens-fashion",
+   "k": "혁명의 아이들: 잉글랜드 북부가 현대 남성 패션을 정의하는 방식"
   },
   {
    "s": "MarketWatch",
@@ -166,21 +160,27 @@
   },
   {
    "s": "TASS",
-   "t": "Youth of North's indigenous peoples call for using fashion, music, AI to preserve culture",
-   "u": "https://tass.com/society/2223719",
-   "k": "북부 원주민 청소년들이 문화 보존을 위해 패션, 음악, AI 활용을 촉구하다"
+   "t": "Russia’s latest Citadel systems prove effective in defending oil refineries — Rostec CEO",
+   "u": "https://tass.com/defense/2223727",
+   "k": "러시아의 최신 시타델 시스템, 정유 공장 방어에 효과 입증 — 로스테크 CEO"
   },
   {
    "s": "Al Jazeera",
-   "t": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-   "k": "Nvidia 라이브: 젠슨 황이 CEO로 복귀하면서 주가가 급등했습니다."
+   "t": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+   "u": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+   "k": "호주, 온라인 '피해'에 대해 수십억 달러의 벌금을 부과하겠다고 빅테크 기업들에 경고"
   },
   {
    "s": "Arab News",
-   "t": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
-   "u": "https://www.arabnews.com/world/singapore-investigating-nvidia-linked-megaspeed-after-us-blacklisting-3013789",
-   "k": "미국 블랙리스트에 오른 엔비디아 관련사 메가스피드, 싱가포르 당국 조사 받아"
+   "t": "Iraqi PM orders takeover of Kurdistan region’s border crossings after oil smuggling probe",
+   "u": "https://www.arabnews.com/middle-east/iraqi-pm-orders-takeover-of-kurdistan-regions-border-crossings-after-oil-smuggling-probe-3013810",
+   "k": "이라크 총리, 석유 밀수 수사 후 쿠르드 지역 국경 통과 지점 장악 명령"
+  },
+  {
+   "s": "CNA",
+   "t": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says",
+   "u": "https://www.channelnewsasia.com/business/boj-keep-hiking-rates-soft-spending-muddies-path-ex-central-bank-policymaker-says-6577606",
+   "k": "전직 중앙은행 정책 입안자, 일본은행은 금리를 계속 인상하겠지만 부진한 지출이 그 길을 어렵게 할 것이라고 말함"
   }
  ]
 }
