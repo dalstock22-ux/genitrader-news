@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:40+09:00",
+ "updated": "2026-11-24T20:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -22,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "k": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한도에 근접"
+   "t": "Why France is at risk of recession — and what could keep it out of one",
+   "u": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+   "k": "프랑스가 경기 침체 위험에 처한 이유 — 그리고 경기 침체를 피할 수 있는 방법"
   },
   {
    "s": "CNBC",
@@ -52,9 +52,9 @@
   },
   {
    "s": "TASS",
-   "t": "Ukraine reports budget losses of $1.5 billion since early 2026 — expert",
-   "u": "https://tass.com/economy/2223847",
-   "k": "우크라이나, 2026년 초부터 15억 달러의 예산 손실 발생했다고 보고 — 전문가"
+   "t": "Ukraine uses AI to interfere with Russian military systems — Russian official",
+   "u": "https://tass.com/defense/2223915",
+   "k": "우크라이나, 러시아 군사 시스템에 개입하기 위해 AI 사용 — 러시아 관리"
   },
   {
    "s": "Al Jazeera",
@@ -64,15 +64,15 @@
   },
   {
    "s": "Arab News",
-   "t": "TotalEnergies: Additional investments planned for the Amiral project in Saudi Arabia",
-   "u": "https://www.arabnews.com/business/totalenergies-additional-investments-planned-for-the-amiral-project-in-saudi-arabia-3013809",
-   "k": "TotalEnergies: 사우디아라비아 '아미랄' 프로젝트에 대한 추가 투자 계획"
+   "t": "UK sanctions Houthis and 4 top officials over attacks, prisoner abuse",
+   "u": "https://www.arabnews.com/middle-east/uk-sanctions-houthis-and-4-top-officials-over-attacks-prisoner-abuse-3013845",
+   "k": "영국, 공격 및 포로 학대 혐의로 후티족과 고위 관계자 4명에 제재 가함"
   },
   {
    "s": "CNA",
-   "t": "Pakistani astronaut carries ‘hopes of 250 million’ on China space mission",
-   "u": "https://www.channelnewsasia.com/east-asia/china-space-mission-pakistani-muhammad-zeeshan-ali-first-astronaut-6577831",
-   "k": "파키스탄 우주비행사, 중국 우주 임무에 '2억 5천만 명의 희망'을 싣다"
+   "t": "AI boom looms over Warsh's Fed as inflation worries grow",
+   "u": "https://www.channelnewsasia.com/business/ai-boom-looms-over-warshs-fed-inflation-worries-grow-6578091",
+   "k": "인플레이션 우려가 커지면서 워시 연준 의장이 이끄는 연준에 AI 붐이 다가오고 있습니다."
   },
   {
    "s": "Straits Times",
@@ -82,15 +82,15 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Thai auto output falls 35% in October due to flood impact",
-   "u": "https://www.bangkokpost.com/business/general/3360419/thai-auto-output-falls-35-in-october-due-to-flood-impact",
-   "k": "태국 자동차 생산량, 홍수 영향으로 10월에 35% 감소"
+   "t": "Sanofi to buy US biopharma group Insmed for $41bn",
+   "u": "https://www.bangkokpost.com/business/general/3360474/sanofi-to-buy-us-biopharma-group-insmed-for-41bn",
+   "k": "사노피, 미국 바이오제약 그룹 인스메드(Insmed)를 410억 달러에 인수"
   },
   {
    "s": "Euronews",
-   "t": "The man behind Nvidia: Jensen Huang’s rise and dramatic return",
-   "u": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return",
-   "k": "Nvidia의 배후에 있는 인물: 젠슨 황의 부상과 극적인 귀환"
+   "t": "How Jensen Huang's return to Nvidia made the world trillions richer",
+   "u": "https://www.euronews.com/2026/11/24/how-jensen-huangs-return-to-nvidia-made-the-world-trillions-richer",
+   "k": "젠슨 황이 엔비디아로 복귀하여 세계를 수조 달러만큼 부유하게 만든 방법"
   },
   {
    "s": "MercoPress",
@@ -118,13 +118,13 @@
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
+   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
+   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
   },
   {
    "s": "BBC",
-   "t": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+   "t": "The shake-up facing renters as a new kind of landlord emerges",
    "u": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
    "k": "영국의 임대주들이 점점 더 커지고 있습니다. 이로 인해 양극화된 임대 시장이 형성될 수 있습니다."
   },
@@ -148,9 +148,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-   "u": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-   "k": "트럼프, 엔비디아, 그리고 권력: 우리는 기술의 황금기가 끝나는 시점에 다다랐을까요?"
+   "t": "EU to impose cap on Chinese hybrid EV imports next month",
+   "u": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "k": "EU, 다음 달 중국산 하이브리드 전기차 수입에 상한선 설정 예정"
   },
   {
    "s": "MarketWatch",
@@ -166,9 +166,9 @@
   },
   {
    "s": "TASS",
-   "t": "US will not ease export controls on China following Huang’s return to Nvidia — experts",
-   "u": "https://tass.com/economy/2223811",
-   "k": "전문가들, 젠슨 황 CEO의 엔비디아 복귀 후에도 미국이 중국에 대한 수출 통제를 완화하지 않을 것이라고 전망"
+   "t": "Iraqi PM banned independent oil export approval for Iraqi Kurdistan’s authorities",
+   "u": "https://tass.com/economy/2223909",
+   "k": "이라크 총리, 이라크 쿠르드 자치정부의 독립적인 석유 수출 승인 금지"
   },
   {
    "s": "Al Jazeera",
@@ -178,9 +178,9 @@
   },
   {
    "s": "Arab News",
-   "t": "MSC’s MEDLOG targets $267m in Saudi investments by 2032",
-   "u": "https://www.arabnews.com/business/mscs-medlog-targets-267m-in-saudi-investments-by-2032-3013808",
-   "k": "MSC의 MEDLOG, 2032년까지 사우디아라비아 투자액 2억 6,700만 달러 목표"
+   "t": "How Russia’s PolyJET technologies are supporting construction projects in Saudi Arabia",
+   "u": "https://www.arabnews.com/corporate-and-sponsored-content/how-russias-polyjet-technologies-are-supporting-construction-projects-in-saudi-arabia-3013834",
+   "k": "러시아의 PolyJET 기술이 사우디아라비아의 건설 프로젝트를 지원하는 방식"
   }
  ]
 }
