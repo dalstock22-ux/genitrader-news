@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:02:24+09:00",
+  "updated": "2026-11-24T18:11:25+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "오천피 되찾았지만…\"AI 랠리 재개\" vs \"2~3일 더 지켜봐야\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112476941",
+      "published": "2026-11-24T18:02:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "디지털자산법 정부안 공개…민병덕 \"회기 내 제도적 틀 마련\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261124167000002",
+      "published": "2026-11-24T17:59:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "국제 유가, 80弗대까지 하락…내년 상반기 70弗대 전망도",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112476571",
+      "published": "2026-11-24T17:30:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "구리 아파트값 올해 14% 올라…규제지역 지정 뒤에도 상승",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611247690i",
+      "published": "2026-11-24T17:24:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "시흥·안산 공공분양 냉기…84㎡ 일반공급도 '미달'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112476101",
+      "published": "2026-11-24T17:17:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "엔비디아 '숏' 쳤다가 날벼락···공매도 세력 하루 122억달러 평가손실",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611246841i",
+      "published": "2026-11-24T14:33:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "[오전시황] 코스피 5000선 회복…반도체·로봇·MLCC株 줄줄이 급등",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112223007",
       "published": "2026-11-22T16:47:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프 \"데이터센터 해외에 지으면 과세\"…'자승자박' 될라 [워싱턴나우+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611222301i",
-      "published": "2026-11-22T16:41:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "AI 투매 충격 딛고 반등할까…美 물가·中 기업이익에 쏠린 눈",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611222087i",
-      "published": "2026-11-22T11:33:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "노동장관 \"정년연장, 27일 與 특위서 결론 안 나면 정부안 발표\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261122019000530",
-      "published": "2026-11-22T11:05:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261122016800001",
-      "published": "2026-11-22T10:38:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"호황이어도 한푼이 아쉽네\"…대기업 절반 이상 기부금 삭감",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112218757",
-      "published": "2026-11-22T09:04:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112114747",
-      "published": "2026-11-21T17:28:00+09:00"
     }
   ]
 }
