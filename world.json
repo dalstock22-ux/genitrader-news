@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-24T21:40+09:00",
+ "updated": "2026-11-24T22:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "AI’s most powerful CEO is back. But how long will the market confidence last?",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUFaYkFiUTRGUjRJbkRka3NJSER0YWNBMTNXLURmUG9XRF9iVjkxdGFMRnNaQ2VBWEZCdklZaWVRS01rQndfdlNmcmdhRkpTaTRCcjVhZGdseGZYa0N2YnZ1Nl9vc0FydWZsQnBueHFUNHZRT081V3pMWDJQQU9VczBRdmY?oc=5",
-   "k": "AI 업계에서 가장 영향력 있는 CEO가 돌아왔습니다. 하지만 시장의 신뢰는 얼마나 오래 지속될까요?"
+   "t": "Jensen Huang is a walking moral hazard",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5leUpyRFBDaU5WbmZsYzVraXpMd1dhNTVQOWNaVUhuRTlhWUpFMk1sTWhjai15Um9nLVFSNDcwSS04M0NtdkNCU2hmUVNQX05TdnVtNnEyamE5ZXpGdFlpTF8xekItemlDTGJkYWxIOHVmUzQ?oc=5",
+   "k": "젠슨 황은 도덕적 해이의 전형입니다."
   },
   {
    "s": "BBC",
-   "t": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "u": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-   "k": "트럼프, 엔비디아 CEO 젠슨 황 복직 '설득' 발언 후 역풍에 직면"
+   "t": "World Cup drove profits surge, says Marston's",
+   "u": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo",
+   "k": "마스턴스, 월드컵이 수익 급증을 이끌었다고 밝혀"
   },
   {
    "s": "BBC",
@@ -22,27 +22,21 @@
   },
   {
    "s": "CNBC",
-   "t": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-   "u": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-   "k": "러시아, 나토 회원국인 에스토니아를 '공개적인 전쟁 발발 직전의 적대 행위'로 비난"
-  },
-  {
-   "s": "CNBC",
-   "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
+   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
   },
   {
    "s": "Guardian",
-   "t": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "k": "미국의 정치적 반발에도 불구하고 황 CEO의 엔비디아 복귀로 AI 거래가 재개되면서 아시아·태평양 시장이 상승세를 보이고 있습니다 – 비즈니스 라이브"
+   "t": "NHS caterer Compass confirms plan to ditch main London listing for New York",
+   "u": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
+   "k": "NHS 케이터링 업체 Compass, 런던 주요 상장을 뉴욕으로 전환할 계획임을 확인"
   },
   {
    "s": "MarketWatch",
-   "t": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-   "u": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-   "k": "젠슨 황의 복귀는 엔비디아에 거의 9,500억 달러의 가치를 가져다주었습니다. 주식 시장의 어느 정도가 한 사람에게 달려 있어야 할까요?"
+   "t": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
+   "u": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
+   "k": "이제 일요일에 먹는 냄비찜 요리가 추수감사절 만찬보다 더 비쌉니다. 앞으로 몇 년 동안 쇠고기 가격이 내려가지 않을 이유."
   },
   {
    "s": "Moscow Times",
@@ -52,33 +46,33 @@
   },
   {
    "s": "TASS",
-   "t": "Anthropic stocks plunge below IPO price",
-   "u": "https://tass.com/economy/2223977",
-   "k": "앤트로픽 주가, IPO 가격 아래로 급락"
+   "t": "Existing sanctions remain as obstacle in Moscow-Seoul relations — ambassador",
+   "u": "https://tass.com/politics/2224019",
+   "k": "기존 제재는 모스크바-서울 관계의 장애물로 남아 — 대사"
   },
   {
    "s": "Al Jazeera",
-   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "k": "WFP, 전쟁으로 인한 글로벌 식량 수송로 차단으로 730만 명의 구호가 위협받고 있다고 경고"
+   "t": "UK sanctions Yemen’s Houthi group and four of its top officials",
+   "u": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+   "k": "영국, 예멘 후티 반군 단체 및 고위 관계자 4명에 제재 가함"
   },
   {
    "s": "Arab News",
-   "t": "Saudi cabinet to announce FY2027 budget",
-   "u": "https://www.arabnews.com/saudi-arabia/saudi-cabinet-to-announce-fy2027-budget-3013851",
-   "k": "사우디아라비아 내각, 2027 회계연도 예산 발표 예정"
+   "t": "Pope Francis’ private diary details a profound spiritual crisis and encounters with the devil",
+   "u": "https://www.arabnews.com/world/pope-francis-private-diary-details-a-profound-spiritual-crisis-and-encounters-with-the-devil-3013860",
+   "k": "프란치스코 교황의 개인 일기에는 심오한 영적 위기와 악마와의 만남이 상세히 기록되어 있습니다."
   },
   {
    "s": "CNA",
-   "t": "Best Buy leans on AI-driven gadget update cycle to lift annual targets",
-   "u": "https://www.channelnewsasia.com/business/best-buy-leans-ai-driven-gadget-update-cycle-lift-annual-targets-6578301",
-   "k": "Best Buy, AI 기반 기기 업데이트 주기를 활용해 연간 목표 달성"
+   "t": "HPE shares fall as margin worries overshadow raised outlook",
+   "u": "https://www.channelnewsasia.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-6578511",
+   "k": "HPE 주가 하락, 수익률 우려가 전망 상향 조정 가려"
   },
   {
    "s": "Straits Times",
-   "t": "Want to travel 3 times a year or cut your renovation costs? Watch this ST InvestMe discussion",
-   "u": "https://www.straitstimes.com/business/invest/want-to-travel-3-times-a-year-or-cut-your-renovation-costs-watch-this-st-investme-discussion",
-   "k": "일 년에 3번 여행을 떠나거나 리모델링 비용을 절감하고 싶으신가요? 이 ST InvestMe 토론을 시청하세요"
+   "t": "ST Headstart: Can colleagues truly be friends?",
+   "u": "https://www.straitstimes.com/business/st-headstart-can-colleagues-truly-be-friends",
+   "k": "ST 헤드스타트: 동료가 진정한 친구가 될 수 있을까요?"
   },
   {
    "s": "Bangkok Post",
@@ -112,15 +106,15 @@
   },
   {
    "s": "CNN",
-   "t": "Storms to hit both coasts, threatening Thanksgiving travel for millions",
-   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3JBUk5TYlVKcllnT18xTi1XRUJCdjduazF0cnNTS3A1dFY3MzQ4ejcwX0RhT2lqcFE1akNWeFdKV2huMzdKa1BqSFhmU213ZklROWRmVnUzVnRZRUs4X0owMkdaaVVQRFFOQ0l1Y3FWRWZiRkFkOFZta2VBdkloSEx2dmIxNlFrNFhhTEtibzdNQVZIUWh4VWxrbVg1d0d3OTgxMHA0SVdxZkZh?oc=5",
-   "k": "양쪽 해안에 폭풍우가 몰아치며 수백만 명의 추수감사절 여행에 차질이 빚어질 전망입니다."
+   "t": "Turkey, cranberries and sweet potatoes are all more expensive this Thanksgiving",
+   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3RIcXdpcXVPaThVQURoaGpKZ0lQUnNnTG5oS3dPanh2OG1hVjE0WDc1ajNpS3V4cm94dG1qS1d0TXp5ZllzU2pHTDRxYTVESWJjV2RGeVlUUFRPNldYNHNQSFZtaV80VDZYRHBUaWp0Y0ptT0hiRG5zQ0VMdWZsdUpXQjdlaEdNeEhmeQ?oc=5",
+   "k": "추수감사절을 맞아 칠면조, 크랜베리, 고구마 가격이 모두 인상되었습니다."
   },
   {
    "s": "BBC",
-   "t": "The shake-up facing renters as a new kind of landlord emerges",
-   "u": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
-   "k": "영국의 임대주들이 점점 더 커지고 있습니다. 이로 인해 양극화된 임대 시장이 형성될 수 있습니다."
+   "t": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "u": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+   "k": "트럼프, 엔비디아 CEO 젠슨 황 복직 '설득' 발언 후 역풍에 직면"
   },
   {
    "s": "BBC",
@@ -130,27 +124,27 @@
   },
   {
    "s": "CNBC",
-   "t": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-   "u": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-   "k": "Best Buy, 5년 만에 가장 높은 6.1%의 동점포 매출 증가율 기록"
+   "t": "Six key questions raised by Jensen Huang's return to Nvidia",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+   "k": "젠슨 황의 엔비디아 복귀가 제기한 6가지 핵심 질문"
   },
   {
    "s": "CNBC",
-   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
+   "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
   },
   {
    "s": "Guardian",
-   "t": "EU to impose cap on Chinese hybrid EV imports next month",
-   "u": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "k": "EU, 다음 달 중국산 하이브리드 전기차 수입에 상한선 설정 예정"
+   "t": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "k": "미국의 정치적 반발에도 불구하고 황 CEO의 엔비디아 복귀로 AI 거래가 재개되면서 아시아·태평양 시장이 상승세를 보이고 있습니다 – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
-   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
+   "t": "HPE just posted its strongest growth ever — but its stock is sinking",
+   "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "k": "HPE, 사상 최대의 성장률을 기록했지만 주가는 하락세"
   },
   {
    "s": "Moscow Times",
@@ -160,27 +154,33 @@
   },
   {
    "s": "TASS",
-   "t": "Gazprom finalizes construction of facilities for gas supplies to China",
-   "u": "https://tass.com/economy/2223969",
-   "k": "가즈프롬, 중국 가스 공급을 위한 시설 건설 마무리"
+   "t": "Russia has everything to produce AI solutions of global level — PM",
+   "u": "https://tass.com/economy/2224005",
+   "k": "러시아, 세계적 수준의 AI 솔루션 생산에 필요한 모든 것 갖춰 — 총리"
   },
   {
    "s": "Al Jazeera",
-   "t": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-   "u": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-   "k": "호주, 온라인 '피해'에 대해 수십억 달러의 벌금을 부과하겠다고 빅테크 기업들에 경고"
+   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "k": "WFP, 전쟁으로 인한 글로벌 식량 수송로 차단으로 730만 명의 구호가 위협받고 있다고 경고"
   },
   {
    "s": "Arab News",
-   "t": "Saudi Arabia to support wages of eligible workers for up to 3 months",
-   "u": "https://www.arabnews.com/finance/saudi-arabia-to-support-wages-of-eligible-workers-for-up-to-3-months-3013831",
-   "k": "사우디아라비아, 요건을 충족하는 근로자의 임금을 최대 3개월간 지원"
+   "t": "Agencies, industry leaders meet in Delhi to advance India’s private space sector",
+   "u": "https://www.arabnews.com/world/agencies-industry-leaders-meet-in-delhi-to-advance-indias-private-space-sector-3013847",
+   "k": "인도의 민간 우주 부문 발전을 위해 기관 및 업계 리더들이 델리에서 회동"
   },
   {
    "s": "CNA",
-   "t": "China investigates Shanghai party chief Chen Jining, Xinhua says",
-   "u": "https://www.channelnewsasia.com/east-asia/china-investigates-politburo-member-chen-jining-6578161",
-   "k": "신화통신, 중국이 상하이 당 서기 천지닝에 대한 조사에 착수했다고 보도"
+   "t": "Best Buy leans on AI-driven gadget update cycle to lift annual targets",
+   "u": "https://www.channelnewsasia.com/business/best-buy-leans-ai-driven-gadget-update-cycle-lift-annual-targets-6578301",
+   "k": "Best Buy, AI 기반 기기 업데이트 주기를 활용해 연간 목표 달성"
+  },
+  {
+   "s": "Straits Times",
+   "t": "RGE’s Indonesian pulp and paper unit defends operations after revocation of forestry licence",
+   "u": "https://www.straitstimes.com/business/companies-markets/rges-indonesian-pulp-and-paper-unit-defends-operations-after-revocation-of-forestry-licence",
+   "k": "RGE의 인도네시아 펄프 및 제지 사업부, 산림 허가 취소 후 사업 운영 방어"
   }
  ]
 }
