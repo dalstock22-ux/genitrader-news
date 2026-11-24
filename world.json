@@ -1,120 +1,126 @@
 {
- "updated": "2026-11-24T22:40+09:00",
+ "updated": "2026-11-25T03:52+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Jensen Huang is a walking moral hazard",
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5leUpyRFBDaU5WbmZsYzVraXpMd1dhNTVQOWNaVUhuRTlhWUpFMk1sTWhjai15Um9nLVFSNDcwSS04M0NtdkNCU2hmUVNQX05TdnVtNnEyamE5ZXpGdFlpTF8xekItemlDTGJkYWxIOHVmUzQ?oc=5",
-   "k": "젠슨 황은 도덕적 해이의 전형입니다."
+   "t": "Iran’s leaders want a baby boom. A struggling economy stands in the way",
+   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlZqdzFwWThuemVhQU9FNnZIX3hzbkd5cVNaRll0SURtUDNrQ0JVdHc1MFFmODV5Uk1PZnZPdnAyemxqMUY3R2hDTEc0VHIzU1RfZm82S0Q0QUFkY25OWnk0OS16SXRzalZTUDhyQ08zZkJfVFBkcGgySXV3NVdUTk5xVlZEUlV5ZDdkQjFKam8?oc=5",
+   "k": "이란 지도자들은 출산율 폭증을 원합니다. 하지만 어려움을 겪고 있는 경제가 걸림돌이 되고 있습니다."
   },
   {
    "s": "BBC",
-   "t": "World Cup drove profits surge, says Marston's",
-   "u": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo",
-   "k": "마스턴스, 월드컵이 수익 급증을 이끌었다고 밝혀"
+   "t": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "u": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
+   "k": "파이살 이슬람: AI 붐에 대한 우려가 사라지지 않고 있습니다"
   },
   {
    "s": "BBC",
-   "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-   "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
-   "k": "영국, 로힝야족 집단 학살 판결 후 미얀마 군 수뇌부에 제재 가함"
+   "t": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+   "k": "미국 정치인들이 젠슨 황의 복귀에 트럼프의 역할이 있었는지 의문을 제기하면서 엔비디아 주가가 하락했습니다."
   },
   {
    "s": "CNBC",
-   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
+   "t": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "u": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "k": "민주당의 중간선거 승리 이후 소비자 신뢰도가 급상승했지만 인플레이션 우려는 여전"
+  },
+  {
+   "s": "CNBC",
+   "t": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+   "u": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+   "k": "Kalshi의 '무기한' 거래 일일 거래량이 예측 시장을 앞지르기 시작"
   },
   {
    "s": "Guardian",
-   "t": "NHS caterer Compass confirms plan to ditch main London listing for New York",
-   "u": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
-   "k": "NHS 케이터링 업체 Compass, 런던 주요 상장을 뉴욕으로 전환할 계획임을 확인"
+   "t": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+   "u": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+   "k": "젠슨 황의 엔비디아 복귀로 인한 환희가 가라앉으면서 기술주 매도가 재개됨"
   },
   {
    "s": "MarketWatch",
-   "t": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
-   "u": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
-   "k": "이제 일요일에 먹는 냄비찜 요리가 추수감사절 만찬보다 더 비쌉니다. 앞으로 몇 년 동안 쇠고기 가격이 내려가지 않을 이유."
+   "t": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+   "u": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+   "k": "라스베이거스 여행이 너무 비싸지고 있지만, 항공료 탓은 하지 마세요."
   },
   {
    "s": "Moscow Times",
-   "t": "Gas Explosion in Altai Region Kills At Least One",
-   "u": "https://www.themoscowtimes.com/2026/11/24/gas-explosion-in-altai-region-kills-at-least-one-a94357",
-   "k": "알타이 지역에서 가스 폭발로 최소 1명 사망"
+   "t": "Putin Says Ukraine Hits Russian Oil Plants Despite Trump's Requests, Promises Retaliation",
+   "u": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367",
+   "k": "푸틴 대통령, 트럼프 대통령의 요청에도 불구하고 우크라이나가 러시아 정유 공장을 공격했다고 밝히며 보복을 약속"
   },
   {
    "s": "TASS",
-   "t": "Existing sanctions remain as obstacle in Moscow-Seoul relations — ambassador",
-   "u": "https://tass.com/politics/2224019",
-   "k": "기존 제재는 모스크바-서울 관계의 장애물로 남아 — 대사"
+   "t": "Russian Finance Ministry to hold federal loan bonds auctions on November 25",
+   "u": "https://tass.com/economy/2224261",
+   "k": "러시아 재무부, 11월 25일 연방 채권 경매 개최 예정"
   },
   {
    "s": "Al Jazeera",
-   "t": "UK sanctions Yemen’s Houthi group and four of its top officials",
-   "u": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
-   "k": "영국, 예멘 후티 반군 단체 및 고위 관계자 4명에 제재 가함"
+   "t": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+   "u": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+   "k": "레바논의 헤즈볼라 연계 단체에 대한 미국의 제재는 영향이 제한적일 수 있음"
   },
   {
    "s": "Arab News",
-   "t": "Pope Francis’ private diary details a profound spiritual crisis and encounters with the devil",
-   "u": "https://www.arabnews.com/world/pope-francis-private-diary-details-a-profound-spiritual-crisis-and-encounters-with-the-devil-3013860",
-   "k": "프란치스코 교황의 개인 일기에는 심오한 영적 위기와 악마와의 만남이 상세히 기록되어 있습니다."
+   "t": "Bangladesh garment wage talks seek to narrow gap",
+   "u": "https://www.arabnews.com/world/bangladesh-garment-wage-talks-seek-to-narrow-gap-3013902",
+   "k": "방글라데시 의류 임금 협상, 격차 축소 모색"
   },
   {
    "s": "CNA",
-   "t": "HPE shares fall as margin worries overshadow raised outlook",
-   "u": "https://www.channelnewsasia.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-6578511",
-   "k": "HPE 주가 하락, 수익률 우려가 전망 상향 조정 가려"
+   "t": "US lawmakers raise alarm at FAA decision to deploy aviation AI tool nationally",
+   "u": "https://www.channelnewsasia.com/business/us-lawmakers-raise-alarm-faa-decision-deploy-aviation-ai-tool-nationally-6579106",
+   "k": "미국 의원들, FAA의 전국적 항공 AI 도구 도입 결정에 우려 표명"
   },
   {
    "s": "Straits Times",
-   "t": "ST Headstart: Can colleagues truly be friends?",
-   "u": "https://www.straitstimes.com/business/st-headstart-can-colleagues-truly-be-friends",
-   "k": "ST 헤드스타트: 동료가 진정한 친구가 될 수 있을까요?"
+   "t": "Anthropic falls below US$83 IPO price in swift reversal after record listing",
+   "u": "https://www.straitstimes.com/business/anthropic-falls-below-us83-ipo-price-in-swift-reversal-after-record-listing",
+   "k": "앤트로픽, 사상 최고가 상장 후 급격한 하락세로 IPO 가격인 83달러 미만으로 하락"
   },
   {
    "s": "Bangkok Post",
-   "t": "CP All to exit 7-Eleven business in Cambodia",
-   "u": "https://www.bangkokpost.com/business/general/3360475/cp-all-to-exit-7eleven-business-in-cambodia",
-   "k": "CP All, 캄보디아 세븐일레븐 사업 철수"
+   "t": "Huang given rapturous reception by Nvidia staff",
+   "u": "https://www.bangkokpost.com/business/general/3360479/huang-given-rapturous-reception-by-nvidia-staff",
+   "k": "엔비디아 직원들이 황 CEO를 열렬히 환영하는 모습"
   },
   {
    "s": "Euronews",
-   "t": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
-   "u": "https://www.euronews.com/2026/11/24/us-and-armenia-launch-trump-backed-regional-transit-route-as-baku-welcomes-move",
-   "k": "미국과 아르메니아가 트럼프 전 대통령의 지지를 받는 지역 교통로를 개통하고 바쿠가 이를 환영"
+   "t": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
+   "u": "https://www.euronews.com/2026/11/24/why-french-pharma-firm-sanofi-is-paying-41-billion-for-us-company-insmed",
+   "k": "프랑스 제약사 사노피가 미국 기업 인스메드에 410억 달러를 지불하는 이유"
   },
   {
    "s": "MercoPress",
    "t": "Brazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target",
    "u": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "브라질, 2027년 성장률 전망치를 1.8%로 하향 조정하고 인플레이션 전망치를 목표치 상한으로 상향 조정"
+   "k": "브라질, 2027년 성장률 전망치 1.8%로 하향 조정하고 인플레이션 목표치 상한으로 상향 조정"
+  },
+  {
+   "s": "Buenos Aires Times",
+   "t": "Argentina moves to restrict purchases and contracts involving Chinese tech",
+   "u": "https://www.batimes.com.ar/news/argentina/argentina-moves-to-restrict-purchases-and-contracts-involving-chinese-tech.phtml",
+   "k": "아르헨티나, 중국 기술 관련 구매 및 계약 제한 조치"
   },
   {
    "s": "SCMP",
-   "t": "Rent hikes, low supply in Hong Kong’s CBD sees banks, tech firms heading for West Kowloon",
-   "u": "https://www.scmp.com/business/banking-finance/article/3375574/rent-hikes-low-supply-hong-kongs-cbd-sees-banks-tech-firms-heading-west-kowloon",
-   "k": "임대료 인상, 홍콩 CBD의 낮은 공급으로 인해 은행, IT 기업들이 서구룡으로 향하고 있습니다."
+   "t": "Xiaomi profits plunge 57% as EV and smartphone headwinds bite",
+   "u": "https://www.scmp.com/business/china-business/article/3375663/xiaomi-profits-plunge-57-ev-and-smartphone-headwinds-bite",
+   "k": "전기차 및 스마트폰 시장의 역풍으로 샤오미의 이익이 57% 급감했습니다."
   },
   {
    "s": "Economic Times",
-   "t": "Fake paneer factory busted in Raebareli using detergent",
-   "u": "https://economictimes.indiatimes.com/news/new-updates/fake-paneer-factory-raided-in-raebareli-where-detergent-chemicals-and-oil-were-allegedly-used-to-make-adulterated-cheese/articleshow/136118599.cms",
-   "k": "세제를 사용한 가짜 파니르 공장이 라이바렐리에서 적발되었습니다."
+   "t": "ITAT backs Tata Sons' investment-holding biz claim",
+   "u": "https://economictimes.indiatimes.com/news/company/corporate-trends/itat-backs-tata-sons-investment-holding-business-claim-allows-interest-deduction-in-tax-case/articleshow/136137691.cms",
+   "k": "ITAT, 타타선스(Tata Sons)의 투자 지주회사 사업 주장에 힘 실어줘"
   },
   {
    "s": "CNN",
-   "t": "Turkey, cranberries and sweet potatoes are all more expensive this Thanksgiving",
-   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3RIcXdpcXVPaThVQURoaGpKZ0lQUnNnTG5oS3dPanh2OG1hVjE0WDc1ajNpS3V4cm94dG1qS1d0TXp5ZllzU2pHTDRxYTVESWJjV2RGeVlUUFRPNldYNHNQSFZtaV80VDZYRHBUaWp0Y0ptT0hiRG5zQ0VMdWZsdUpXQjdlaEdNeEhmeQ?oc=5",
-   "k": "추수감사절을 맞아 칠면조, 크랜베리, 고구마 가격이 모두 인상되었습니다."
-  },
-  {
-   "s": "BBC",
-   "t": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "u": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-   "k": "트럼프, 엔비디아 CEO 젠슨 황 복직 '설득' 발언 후 역풍에 직면"
+   "t": "Jensen Huang is a walking moral hazard",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5leUpyRFBDaU5WbmZsYzVraXpMd1dhNTVQOWNaVUhuRTlhWUpFMk1sTWhjai15Um9nLVFSNDcwSS04M0NtdkNCU2hmUVNQX05TdnVtNnEyamE5ZXpGdFlpTF8xekItemlDTGJkYWxIOHVmUzQ?oc=5",
+   "k": "젠슨 황은 도덕적 해이의 전형입니다."
   },
   {
    "s": "BBC",
@@ -124,63 +130,57 @@
   },
   {
    "s": "CNBC",
-   "t": "Six key questions raised by Jensen Huang's return to Nvidia",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-   "k": "젠슨 황의 엔비디아 복귀가 제기한 6가지 핵심 질문"
+   "t": "Nvidia shares fall 7% as Huang comeback rally cools",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+   "k": "황 회장의 복귀 랠리가 주춤하면서 엔비디아 주가가 7% 하락했습니다."
   },
   {
    "s": "CNBC",
-   "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
+   "t": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+   "u": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+   "k": "유타주, 칼시(Kalshi) 창립자에 대한 형사 고발을 취하. 회사가 주 내에서 운영을 중단한 후 결정 내려"
   },
   {
    "s": "Guardian",
-   "t": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "k": "미국의 정치적 반발에도 불구하고 황 CEO의 엔비디아 복귀로 AI 거래가 재개되면서 아시아·태평양 시장이 상승세를 보이고 있습니다 – 비즈니스 라이브"
+   "t": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+   "u": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+   "k": "‘실수가 바로잡혔습니다’: 젠슨 황의 짧은 고난의 시기 종료"
   },
   {
    "s": "MarketWatch",
-   "t": "HPE just posted its strongest growth ever — but its stock is sinking",
-   "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-   "k": "HPE, 사상 최대의 성장률을 기록했지만 주가는 하락세"
+   "t": "Micron’s stock falls as an analyst warns about a future supply glut",
+   "u": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+   "k": "마이크론 주가 하락, 애널리스트가 향후 공급 과잉을 경고"
   },
   {
    "s": "Moscow Times",
-   "t": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region",
-   "u": "https://www.themoscowtimes.com/2026/11/23/ukrainian-drones-kill-1-strike-oil-refinery-in-perm-region-a94347",
-   "k": "우크라이나 드론, 페름주 정유 공장 공격해 1명 사망"
+   "t": "State Duma Approves 2027-29 Budget With Record Military Spending",
+   "u": "https://www.themoscowtimes.com/2026/11/24/state-duma-approves-2027-29-budget-with-record-military-spending-a94361",
+   "k": "러시아 하원, 사상 최대 규모의 군사 지출이 포함된 2027~2029년 예산안 승인"
   },
   {
    "s": "TASS",
-   "t": "Russia has everything to produce AI solutions of global level — PM",
-   "u": "https://tass.com/economy/2224005",
-   "k": "러시아, 세계적 수준의 AI 솔루션 생산에 필요한 모든 것 갖춰 — 총리"
+   "t": "Bank of Russia set dollar rate at 82.89 rubles for October 21",
+   "u": "https://tass.com/economy/2224257",
+   "k": "러시아 중앙은행, 10월 21일 달러 환율을 82.89루블로 책정"
   },
   {
    "s": "Al Jazeera",
-   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "k": "WFP, 전쟁으로 인한 글로벌 식량 수송로 차단으로 730만 명의 구호가 위협받고 있다고 경고"
+   "t": "Nvidia stock cools after Huang’s return-driven surge",
+   "u": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+   "k": "황 CEO의 복귀로 인한 급등 이후 엔비디아 주가 하락"
   },
   {
    "s": "Arab News",
-   "t": "Agencies, industry leaders meet in Delhi to advance India’s private space sector",
-   "u": "https://www.arabnews.com/world/agencies-industry-leaders-meet-in-delhi-to-advance-indias-private-space-sector-3013847",
-   "k": "인도의 민간 우주 부문 발전을 위해 기관 및 업계 리더들이 델리에서 회동"
+   "t": "Global vaccine group aims to buy 1.5 million doses of new Ebola Bundibugyo shot for Congo",
+   "u": "https://www.arabnews.com/world/global-vaccine-group-aims-to-buy-15-million-doses-of-new-ebola-bundibugyo-shot-for-congo-3013901",
+   "k": "글로벌 백신 그룹, 콩고를 위해 새로운 에볼라 분디부교 백신 150만 회분 구매 목표"
   },
   {
    "s": "CNA",
-   "t": "Best Buy leans on AI-driven gadget update cycle to lift annual targets",
-   "u": "https://www.channelnewsasia.com/business/best-buy-leans-ai-driven-gadget-update-cycle-lift-annual-targets-6578301",
-   "k": "Best Buy, AI 기반 기기 업데이트 주기를 활용해 연간 목표 달성"
-  },
-  {
-   "s": "Straits Times",
-   "t": "RGE’s Indonesian pulp and paper unit defends operations after revocation of forestry licence",
-   "u": "https://www.straitstimes.com/business/companies-markets/rges-indonesian-pulp-and-paper-unit-defends-operations-after-revocation-of-forestry-licence",
-   "k": "RGE의 인도네시아 펄프 및 제지 사업부, 산림 허가 취소 후 사업 운영 방어"
+   "t": "Nvidia slips as investors assess risks surrounding Huang's return as CEO",
+   "u": "https://www.channelnewsasia.com/business/nvidia-slips-investors-assess-risks-surrounding-huangs-return-ceo-6578181",
+   "k": "황 CEO의 복귀를 둘러싼 위험을 투자자들이 평가하면서 엔비디아 주가 하락"
   }
  ]
 }
