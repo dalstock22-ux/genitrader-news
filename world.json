@@ -1,48 +1,54 @@
 {
- "updated": "2026-11-24T15:16+09:00",
+ "updated": "2026-11-24T15:41+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From DOJ to Nvidia, Trump’s presidency enters new age of impunity",
-   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRl9MbEFQZGVGWDJwVk9iMHFMQmQwRThLeHJaMUxLWWhYTVFaUGFWZzZzSkw4XzNxY2xPd2czejRwcVRHdUJFUm1tckxaZ3Z0QzFvc2d2NFBpZi1MbnY0LU1janlNSzZYM3M4eU42a3JCUThuVENNNFphdGNqNk5hT2Zn?oc=5",
-   "k": "미 법무부부터 엔비디아까지, 트럼프 대통령의 임기는 면책의 새로운 시대로 접어들고 있다"
+   "t": "Nvidia employee hugs Jensen Huang after comeback speech",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGZUejdJaXZIZWxQN3MxeUU3bjdXZy1yUHZtNGZhbENPZTRsaXFyV2ZnUFltSTVHYk5nckt6VXVqUkRUeUtmSms4TmxLRmZaZnZ5TzVMNDhWRENpUkFaUjNraXEtQ3JDdXNXUnJnZEtEOTk2b1ltV1hNcEJOS21VcW1QTWpvM2ZsMWFWcVFiVF9KSjUwdWJLSTFwODVGX2JLTG1ZdE4tcE9vZkEzbG9SZjV3?oc=5",
+   "k": "엔비디아 직원이 복귀 연설을 마친 젠슨 황을 포옹하고 있습니다."
+  },
+  {
+   "s": "CNN",
+   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
+   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
+   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
   },
   {
    "s": "BBC",
    "t": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
    "u": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-   "k": "트럼프, 엔비디아 CEO 젠슨 황 복직 '설득' 발언 후 반발에 직면"
+   "k": "트럼프, 엔비디아 CEO 젠슨 황 복직 '설득' 발언 후 역풍에 직면"
   },
   {
    "s": "BBC",
    "t": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
    "u": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-   "k": "미국, 엔비디아 스캔들 이후 아시아 AI 기업 메가스피드를 블랙리스트에 올리다"
+   "k": "미국, 엔비디아 스캔들 이후 아시아 AI 기업 메가스피드를 블랙리스트에 올릴 예정"
   },
   {
    "s": "CNBC",
    "t": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
    "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "k": "젠슨 황은 '해고하기에는 너무 큰 존재'로, 엔비디아의 지배구조에 이목이 집중되고 있습니다."
+   "k": "젠슨 황은 '해고하기에는 너무 큰 존재'로, 엔비디아의 지배구조에 관심이 집중되고 있습니다."
   },
   {
    "s": "CNBC",
    "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
    "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 건강 보험 혜택을 상실했습니다."
+   "k": "에릭 트럼프가 후원하는 로봇 스타트업의 직원들이 회사의 자금난이 심화됨에 따라 의료 보험 혜택을 상실했습니다."
   },
   {
    "s": "Guardian",
-   "t": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "u": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "k": "트럼프 대통령의 개입 후 젠슨 황, 엔비디아 CEO로 복직"
+   "t": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+   "u": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+   "k": "유니레버가 TV에서 인플루언서 마케팅으로 전환하면서 채널 4가 타격을 입었습니다."
   },
   {
    "s": "MarketWatch",
    "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
    "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재정을 따로 관리할까요?"
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
@@ -52,45 +58,51 @@
   },
   {
    "s": "TASS",
-   "t": "Heavy losses shrink Ukraine’s pool of recruits as Kiev weighs teen travel ban — expert",
-   "u": "https://tass.com/defense/2223679",
-   "k": "키예프가 청소년 여행 금지를 검토하는 가운데, 막대한 손실로 인해 우크라이나의 징집 대상자 풀이 축소되고 있다 — 전문가 의견"
+   "t": "Russian stock indices down by more than 1% at the start of trading",
+   "u": "https://tass.com/economy/2223705",
+   "k": "러시아 주가지수, 거래 시작 시점 대비 1% 이상 하락"
   },
   {
    "s": "Al Jazeera",
-   "t": "UN chief calls for world to agree on AI oversight within a year",
-   "u": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-   "k": "유엔 사무총장, 1년 이내에 인공지능(AI) 감독에 대한 국제적 합의 촉구"
+   "t": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+   "k": "Nvidia 라이브: 젠슨 황이 CEO로 복귀하면서 주가가 급등했습니다."
   },
   {
    "s": "Arab News",
    "t": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
    "u": "https://www.arabnews.com/world/singapore-investigating-nvidia-linked-megaspeed-after-us-blacklisting-3013789",
-   "k": "싱가포르, 미국 블랙리스트에 오른 엔비디아 관련사 메가스피드 조사"
+   "k": "미국 블랙리스트에 오른 엔비디아 관련사 메가스피드, 싱가포르 당국 조사 받아"
   },
   {
    "s": "CNA",
    "t": "SpaceX and Tesla entrusts five directors for merger talks, FT reports",
    "u": "https://www.channelnewsasia.com/business/spacex-and-tesla-entrusts-five-directors-merger-talks-ft-reports-6577276",
-   "k": "파이낸셜타임스(FT) 보도에 따르면, SpaceX와 테슬라는 합병 협상을 위해 5명의 이사를 위임했다고 합니다."
+   "k": "파이낸셜 타임스, SpaceX와 Tesla가 합병 협상을 위해 5명의 이사를 위임했다고 보도"
   },
   {
    "s": "Straits Times",
    "t": "Singapore-listed tech stocks surge after Jensen Huang returns as Nvidia CEO",
    "u": "https://www.straitstimes.com/business/companies-markets/singapore-listed-tech-stocks-surge-after-jensen-huang-returns-as-nvidia-ceo",
-   "k": "젠슨 황이 엔비디아 CEO로 복귀한 후 싱가포르 상장 기술주 급등"
+   "k": "젠슨 황이 엔비디아 CEO로 복귀하자 싱가포르 상장 기술주 급등"
+  },
+  {
+   "s": "Bangkok Post",
+   "t": "Nvidia and board still face legal risks after Jensen Huang's return",
+   "u": "https://www.bangkokpost.com/business/general/3360390/nvidia-and-board-still-face-legal-risks-after-jensen-huangs-return",
+   "k": "젠슨 황의 복귀 후에도 엔비디아와 이사회는 여전히 법적 위험에 직면해 있습니다."
   },
   {
    "s": "Euronews",
    "t": "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
    "u": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks",
-   "k": "젠슨 황이 엔비디아로 돌아왔습니다. 유럽의 AI 주식에는 어떤 의미가 있을까요?"
+   "k": "젠슨 황이 엔비디아로 돌아왔습니다. 이는 유럽의 AI 주식에 어떤 의미가 있을까요?"
   },
   {
    "s": "MercoPress",
    "t": "Brazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target",
    "u": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "브라질, 2027년 성장률 전망치 1.8%로 하향 조정하고 인플레이션 목표치 상한으로 상향 조정"
+   "k": "브라질, 2027년 성장률 전망치를 1.8%로 하향 조정하고 인플레이션 전망치를 목표치 상한으로 상향 조정"
   },
   {
    "s": "SCMP",
@@ -102,31 +114,25 @@
    "s": "Economic Times",
    "t": "Mahindra Finance denies plans to acquire gold loan cos",
    "u": "https://economictimes.indiatimes.com/industry/banking/finance/mahindra-finance-denies-plans-to-acquire-gold-loan-business/articleshow/136119199.cms",
-   "k": "마힌드라 파이낸스, 골드론 회사 인수 계획 부인"
+   "k": "마힌드라 파이낸스, 금지담대출 회사 인수 계획 부인"
   },
   {
    "s": "CNN",
-   "t": "Nvidia employee hugs Jensen Huang after comeback speech",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGZUejdJaXZIZWxQN3MxeUU3bjdXZy1yUHZtNGZhbENPZTRsaXFyV2ZnUFltSTVHYk5nckt6VXVqUkRUeUtmSms4TmxLRmZaZnZ5TzVMNDhWRENpUkFaUjNraXEtQ3JDdXNXUnJnZEtEOTk2b1ltV1hNcEJOS21VcW1QTWpvM2ZsMWFWcVFiVF9KSjUwdWJLSTFwODVGX2JLTG1ZdE4tcE9vZkEzbG9SZjV3?oc=5",
-   "k": "엔비디아 직원이 복귀 연설을 마친 젠슨 황을 포옹하고 있습니다."
-  },
-  {
-   "s": "CNN",
-   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
-   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받자 트럼프는 즉시 '흥미로운' 내부자 거래를 떠올렸습니다."
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
    "t": "I pay £250 a month for someone else to do my life admin - it's worth it",
    "u": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
-   "k": "저는 다른 사람이 제 생활 관리를 해주도록 한 달에 £250를 지불합니다. 그럴 만한 가치가 있어요."
+   "k": "저는 다른 사람이 제 생활 관리를 해주도록 한 달에 £250를 지불합니다. 그럴 가치가 있어요."
   },
   {
    "s": "BBC",
    "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
    "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
-   "k": "영국, 로힝야족 집단학살 판결 후 미얀마 군부 수뇌부에 제재 가함"
+   "k": "영국, 로힝야족 집단 학살 판결 후 미얀마 군 수뇌부에 제재 가함"
   },
   {
    "s": "CNBC",
@@ -142,27 +148,27 @@
   },
   {
    "s": "Guardian",
-   "t": "Wild stock market swings: will I lose money, and is there anything I can do?",
-   "u": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-   "k": "격렬한 주식 시장 변동: 돈을 잃게 될까요? 제가 할 수 있는 일이 있을까요?"
+   "t": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "u": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+   "k": "트럼프 대통령의 개입 후 젠슨 황, 엔비디아 CEO로 복직"
   },
   {
    "s": "MarketWatch",
    "t": "HPE just posted its strongest growth ever — but its stock is sinking",
    "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-   "k": "HPE, 사상 최대의 성장률 기록했지만 주가는 하락세"
+   "k": "HPE, 사상 최대의 성장률을 기록했지만 주가는 하락세"
   },
   {
    "s": "TASS",
-   "t": "Ukraine to owe more than $2 billion to IMF in 2027",
-   "u": "https://tass.com/economy/2223675",
-   "k": "우크라이나, 2027년 IMF에 20억 달러 이상 부채 부담"
+   "t": "Heavy losses shrink Ukraine’s pool of recruits as Kiev weighs teen travel ban — expert",
+   "u": "https://tass.com/defense/2223679",
+   "k": "키이우가 청소년 여행 금지를 고려하는 가운데, 막대한 손실로 인해 우크라이나의 징집 대상자 풀이 축소되고 있다 — 전문가"
   },
   {
    "s": "Al Jazeera",
-   "t": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-   "u": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-   "k": "부켈레 대통령, 아이티에서 사망한 엘살바도르 군인에 대한 세부 정보 공개"
+   "t": "UN chief calls for world to agree on AI oversight within a year",
+   "u": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+   "k": "유엔 사무총장, 1년 이내에 인공지능(AI) 감독에 대한 세계적 합의 촉구"
   },
   {
    "s": "Arab News",
@@ -174,13 +180,7 @@
    "s": "CNA",
    "t": "More than 400,000 Malaysians barred from travelling over unpaid taxes, outstanding payments",
    "u": "https://www.channelnewsasia.com/asia/400000-malaysians-restricted-travelling-taxes-outstanding-payment-court-orders-6577076",
-   "k": "미납 세금, 미지급금으로 인해 40만 명 이상의 말레이시아인들이 출국 금지 조치"
-  },
-  {
-   "s": "Straits Times",
-   "t": "In Taiwan, investors ‘really happy’ as Jensen Huang comeback ignites 9% stock rally",
-   "u": "https://www.straitstimes.com/business/companies-markets/in-taiwan-investors-really-happy-as-jensen-huang-comeback-ignites-9-stock-rally",
-   "k": "대만에서 젠슨 황의 복귀로 주가가 9% 상승하자 투자자들이 '정말 기뻐'"
+   "k": "미납 세금, 연체금으로 인해 40만 명 이상의 말레이시아인들이 출국 금지 조치"
   }
  ]
 }
