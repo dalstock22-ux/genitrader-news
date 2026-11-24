@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:40+09:00",
+ "updated": "2026-11-24T21:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -22,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Why France is at risk of recession — and what could keep it out of one",
-   "u": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-   "k": "프랑스가 경기 침체 위험에 처한 이유 — 그리고 경기 침체를 피할 수 있는 방법"
+   "t": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+   "u": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+   "k": "러시아, 나토 회원국인 에스토니아를 '공개적인 전쟁 발발 직전의 적대 행위'로 비난"
   },
   {
    "s": "CNBC",
@@ -40,9 +40,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
-   "u": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
-   "k": "젠다야와 톰 홀랜드, 런던에 1에이커(약 4,047㎡) 규모의 주택을 1,000만 달러에 매입"
+   "t": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+   "u": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
+   "k": "젠슨 황의 복귀는 엔비디아에 거의 9,500억 달러의 가치를 가져다주었습니다. 주식 시장의 어느 정도가 한 사람에게 달려 있어야 할까요?"
   },
   {
    "s": "Moscow Times",
@@ -52,9 +52,9 @@
   },
   {
    "s": "TASS",
-   "t": "Ukraine uses AI to interfere with Russian military systems — Russian official",
-   "u": "https://tass.com/defense/2223915",
-   "k": "우크라이나, 러시아 군사 시스템에 개입하기 위해 AI 사용 — 러시아 관리"
+   "t": "Anthropic stocks plunge below IPO price",
+   "u": "https://tass.com/economy/2223977",
+   "k": "앤트로픽 주가, IPO 가격 아래로 급락"
   },
   {
    "s": "Al Jazeera",
@@ -64,15 +64,15 @@
   },
   {
    "s": "Arab News",
-   "t": "UK sanctions Houthis and 4 top officials over attacks, prisoner abuse",
-   "u": "https://www.arabnews.com/middle-east/uk-sanctions-houthis-and-4-top-officials-over-attacks-prisoner-abuse-3013845",
-   "k": "영국, 공격 및 포로 학대 혐의로 후티족과 고위 관계자 4명에 제재 가함"
+   "t": "Saudi cabinet to announce FY2027 budget",
+   "u": "https://www.arabnews.com/saudi-arabia/saudi-cabinet-to-announce-fy2027-budget-3013851",
+   "k": "사우디아라비아 내각, 2027 회계연도 예산 발표 예정"
   },
   {
    "s": "CNA",
-   "t": "AI boom looms over Warsh's Fed as inflation worries grow",
-   "u": "https://www.channelnewsasia.com/business/ai-boom-looms-over-warshs-fed-inflation-worries-grow-6578091",
-   "k": "인플레이션 우려가 커지면서 워시 연준 의장이 이끄는 연준에 AI 붐이 다가오고 있습니다."
+   "t": "Best Buy leans on AI-driven gadget update cycle to lift annual targets",
+   "u": "https://www.channelnewsasia.com/business/best-buy-leans-ai-driven-gadget-update-cycle-lift-annual-targets-6578301",
+   "k": "Best Buy, AI 기반 기기 업데이트 주기를 활용해 연간 목표 달성"
   },
   {
    "s": "Straits Times",
@@ -82,15 +82,15 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Sanofi to buy US biopharma group Insmed for $41bn",
-   "u": "https://www.bangkokpost.com/business/general/3360474/sanofi-to-buy-us-biopharma-group-insmed-for-41bn",
-   "k": "사노피, 미국 바이오제약 그룹 인스메드(Insmed)를 410억 달러에 인수"
+   "t": "CP All to exit 7-Eleven business in Cambodia",
+   "u": "https://www.bangkokpost.com/business/general/3360475/cp-all-to-exit-7eleven-business-in-cambodia",
+   "k": "CP All, 캄보디아 세븐일레븐 사업 철수"
   },
   {
    "s": "Euronews",
-   "t": "How Jensen Huang's return to Nvidia made the world trillions richer",
-   "u": "https://www.euronews.com/2026/11/24/how-jensen-huangs-return-to-nvidia-made-the-world-trillions-richer",
-   "k": "젠슨 황이 엔비디아로 복귀하여 세계를 수조 달러만큼 부유하게 만든 방법"
+   "t": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
+   "u": "https://www.euronews.com/2026/11/24/us-and-armenia-launch-trump-backed-regional-transit-route-as-baku-welcomes-move",
+   "k": "미국과 아르메니아가 트럼프 전 대통령의 지지를 받는 지역 교통로를 개통하고 바쿠가 이를 환영"
   },
   {
    "s": "MercoPress",
@@ -112,15 +112,9 @@
   },
   {
    "s": "CNN",
-   "t": "The internet had a field day with Jensen Huang’s return",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanhBamdYVC00dGdSRHg2ZWhYcEhsa3V2MkkxZjFJX1NITmVKMUowSkxyZHFXWnoxM0FzOWdRRWl0OEdaaHprV1gzOGJFUDNwWjYyNldUQUc4WG5jMUZzNHNfaFc2ZGRZMDI0NGtJSGs3a2NCcVJlV0ZBSnY0eGYxeUk3X29scGRxWks2SlVYVFZzblJmNmxIZnk4ZXRUa3lyX0djaEV3M013NHZXX0xFR281TzA1dEk?oc=5",
-   "k": "젠슨 황의 복귀로 인터넷이 들썩였습니다."
-  },
-  {
-   "s": "CNN",
-   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
-   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
+   "t": "Storms to hit both coasts, threatening Thanksgiving travel for millions",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3JBUk5TYlVKcllnT18xTi1XRUJCdjduazF0cnNTS3A1dFY3MzQ4ejcwX0RhT2lqcFE1akNWeFdKV2huMzdKa1BqSFhmU213ZklROWRmVnUzVnRZRUs4X0owMkdaaVVQRFFOQ0l1Y3FWRWZiRkFkOFZta2VBdkloSEx2dmIxNlFrNFhhTEtibzdNQVZIUWh4VWxrbVg1d0d3OTgxMHA0SVdxZkZh?oc=5",
+   "k": "양쪽 해안에 폭풍우가 몰아치며 수백만 명의 추수감사절 여행에 차질이 빚어질 전망입니다."
   },
   {
    "s": "BBC",
@@ -136,9 +130,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "k": "젠슨 황은 '해고하기에는 너무 큰 존재'로, 엔비디아의 지배구조에 관심이 집중되고 있습니다."
+   "t": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+   "u": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "k": "Best Buy, 5년 만에 가장 높은 6.1%의 동점포 매출 증가율 기록"
   },
   {
    "s": "CNBC",
@@ -154,9 +148,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
-   "u": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
-   "k": "알렉스 트레벡의 전 소유지인 645만 달러 상당의 캘리포니아 랜치와 와이너리에 입찰할 기회입니다."
+   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
@@ -166,9 +160,9 @@
   },
   {
    "s": "TASS",
-   "t": "Iraqi PM banned independent oil export approval for Iraqi Kurdistan’s authorities",
-   "u": "https://tass.com/economy/2223909",
-   "k": "이라크 총리, 이라크 쿠르드 자치정부의 독립적인 석유 수출 승인 금지"
+   "t": "Gazprom finalizes construction of facilities for gas supplies to China",
+   "u": "https://tass.com/economy/2223969",
+   "k": "가즈프롬, 중국 가스 공급을 위한 시설 건설 마무리"
   },
   {
    "s": "Al Jazeera",
@@ -178,9 +172,15 @@
   },
   {
    "s": "Arab News",
-   "t": "How Russia’s PolyJET technologies are supporting construction projects in Saudi Arabia",
-   "u": "https://www.arabnews.com/corporate-and-sponsored-content/how-russias-polyjet-technologies-are-supporting-construction-projects-in-saudi-arabia-3013834",
-   "k": "러시아의 PolyJET 기술이 사우디아라비아의 건설 프로젝트를 지원하는 방식"
+   "t": "Saudi Arabia to support wages of eligible workers for up to 3 months",
+   "u": "https://www.arabnews.com/finance/saudi-arabia-to-support-wages-of-eligible-workers-for-up-to-3-months-3013831",
+   "k": "사우디아라비아, 요건을 충족하는 근로자의 임금을 최대 3개월간 지원"
+  },
+  {
+   "s": "CNA",
+   "t": "China investigates Shanghai party chief Chen Jining, Xinhua says",
+   "u": "https://www.channelnewsasia.com/east-asia/china-investigates-politburo-member-chen-jining-6578161",
+   "k": "신화통신, 중국이 상하이 당 서기 천지닝에 대한 조사에 착수했다고 보도"
   }
  ]
 }
