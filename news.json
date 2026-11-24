@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:11:44+09:00",
+  "updated": "2026-11-24T09:50:00+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "코스피, '젠슨황 복귀'에 5∼6%대 급등…'5천피' 탈환 시도(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261124037651008",
+      "published": "2026-11-24T09:34:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "전국 아파트 10월 1순위 청약 경쟁률 7개월만에 소폭 상승",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261124043100003",
+      "published": "2026-11-24T09:29:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[속보] 급등장에 코스피 이어 코스닥도 '매수 사이드카'",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261124046000008",
+      "published": "2026-11-24T09:28:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "두 단지에 청약 15만건 몰렸는데…전국 3곳 중 2곳은 '미달'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112458476",
+      "published": "2026-11-24T08:58:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[밤 사이 해외뉴스] 시총 1조달러 앤트로픽, 신용등급은 '정크' 전망",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611245607i",
+      "published": "2026-11-24T08:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "젠슨 황 복귀에 엔비디아 주가 폭등…나스닥 6%, S&P500 4% 끌어올려 [이상은의 워싱턴나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611235359i",
+      "published": "2026-11-23T23:58:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "초과세수 10조 지방에 푼다",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112112577",
       "published": "2026-11-21T10:31:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261121014700002",
-      "published": "2026-11-21T08:36:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"믿었던 AI마저\"…기술주 투매에 나스닥 5% 급락 [뉴욕증시 브리핑]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112110837",
-      "published": "2026-11-21T07:27:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120164900003",
-      "published": "2026-11-21T07:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "미중러 회담 트럼프 \"3대 핵보유국 책임 논의했다\" [이상은의 워싱턴나우]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611211034i",
-      "published": "2026-11-21T03:29:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "앤트로픽도 쓸어간 AI 퍼펙트 스톰…애플 참전에 AI 경쟁 격화 [박신영의 개장전 요것만]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611211028i",
-      "published": "2026-11-21T01:38:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"나는 중국의 열렬한 팬\"…머스크 한마디에 '들썩'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112009817",
-      "published": "2026-11-20T21:54:00+09:00"
     }
   ]
 }
