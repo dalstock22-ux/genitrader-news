@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:41+09:00",
+ "updated": "2026-11-24T16:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,9 +10,9 @@
   },
   {
    "s": "CNN",
-   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
-   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
@@ -22,15 +22,15 @@
   },
   {
    "s": "BBC",
-   "t": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "u": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-   "k": "미국, 엔비디아 스캔들 이후 아시아 AI 기업 메가스피드를 블랙리스트에 올릴 예정"
+   "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+   "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
+   "k": "영국, 로힝야족 집단 학살 판결 후 미얀마 군 수뇌부에 제재 가함"
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "k": "젠슨 황은 '해고하기에는 너무 큰 존재'로, 엔비디아의 지배구조에 관심이 집중되고 있습니다."
+   "t": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "k": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한도에 근접"
   },
   {
    "s": "CNBC",
@@ -40,9 +40,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Channel 4 hit as Unilever switches from TV to influencer marketing",
-   "u": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
-   "k": "유니레버가 TV에서 인플루언서 마케팅으로 전환하면서 채널 4가 타격을 입었습니다."
+   "t": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "k": "미국의 정치적 반발에도 불구하고 황 CEO의 엔비디아 복귀로 AI 거래가 재개되면서 아시아·태평양 시장이 상승세를 보이고 있습니다 – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
@@ -58,27 +58,27 @@
   },
   {
    "s": "TASS",
-   "t": "Russian stock indices down by more than 1% at the start of trading",
-   "u": "https://tass.com/economy/2223705",
-   "k": "러시아 주가지수, 거래 시작 시점 대비 1% 이상 하락"
+   "t": "Russia’s latest Citadel systems prove effective in defending oil refineries — Rostec CEO",
+   "u": "https://tass.com/defense/2223727",
+   "k": "러시아의 최신 시타델 시스템, 정유 공장 방어에 효과 입증 — 로스테크 CEO"
   },
   {
    "s": "Al Jazeera",
-   "t": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-   "k": "Nvidia 라이브: 젠슨 황이 CEO로 복귀하면서 주가가 급등했습니다."
+   "t": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+   "u": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+   "k": "호주, 온라인 '피해'에 대해 수십억 달러의 벌금을 부과하겠다고 빅테크 기업들에 경고"
   },
   {
    "s": "Arab News",
-   "t": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
-   "u": "https://www.arabnews.com/world/singapore-investigating-nvidia-linked-megaspeed-after-us-blacklisting-3013789",
-   "k": "미국 블랙리스트에 오른 엔비디아 관련사 메가스피드, 싱가포르 당국 조사 받아"
+   "t": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
+   "u": "https://www.arabnews.com/energy/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat-3013802",
+   "k": "공급 증가로 호르무즈 위협이 상쇄되면서 유가가 3개월 만에 최저 수준에 근접"
   },
   {
    "s": "CNA",
-   "t": "SpaceX and Tesla entrusts five directors for merger talks, FT reports",
-   "u": "https://www.channelnewsasia.com/business/spacex-and-tesla-entrusts-five-directors-merger-talks-ft-reports-6577276",
-   "k": "파이낸셜 타임스, SpaceX와 Tesla가 합병 협상을 위해 5명의 이사를 위임했다고 보도"
+   "t": "About 220 Seatrium employees to lose jobs as group consolidates global yard network",
+   "u": "https://www.channelnewsasia.com/singapore/seatrium-retrenchment-layoff-workforce-yards-6577316",
+   "k": "Seatrium 직원 약 220명이 그룹의 글로벌 조선소 네트워크 통합으로 인해 일자리를 잃을 전망"
   },
   {
    "s": "Straits Times",
@@ -88,9 +88,9 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Nvidia and board still face legal risks after Jensen Huang's return",
-   "u": "https://www.bangkokpost.com/business/general/3360390/nvidia-and-board-still-face-legal-risks-after-jensen-huangs-return",
-   "k": "젠슨 황의 복귀 후에도 엔비디아와 이사회는 여전히 법적 위험에 직면해 있습니다."
+   "t": "Thai auto output falls 35% in October due to flood impact",
+   "u": "https://www.bangkokpost.com/business/general/3360419/thai-auto-output-falls-35-in-october-due-to-flood-impact",
+   "k": "태국 자동차 생산량, 홍수 영향으로 10월에 35% 감소"
   },
   {
    "s": "Euronews",
@@ -112,33 +112,39 @@
   },
   {
    "s": "Economic Times",
-   "t": "Mahindra Finance denies plans to acquire gold loan cos",
-   "u": "https://economictimes.indiatimes.com/industry/banking/finance/mahindra-finance-denies-plans-to-acquire-gold-loan-business/articleshow/136119199.cms",
-   "k": "마힌드라 파이낸스, 금지담대출 회사 인수 계획 부인"
+   "t": "Trump shares bizarre AI image of Nvidia boss",
+   "u": "https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms",
+   "k": "트럼프, 엔비디아 CEO의 기괴한 AI 이미지를 공유하다"
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
+   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
+   "k": "워런: 엔비디아에 대한 압력 행사에 대해 질문을 받았을 때 트럼프는 즉시 내부자 거래를 떠올렸습니다."
+  },
+  {
+   "s": "CNN",
+   "t": "This cute 9-inch robot tour guide is operated by people with disabilities",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk9LS0c2dDhPVk5hRHFIYTFvdVdFX0RrUzFEN0lSaG1ON0szZnRnMVBOaTVqMW4zSVJNMW5OT1h0Zkg1cWxrTno5bWRuV2hTb1VXRkJ5Y0VFbU1SN0loQ0pMSUxrOGJWbzc4SHJSQ1N2NFdkTnVoRWRkQTRYWkwyTW1pUlRKYUpsMHAtdE82RW5rcXBBT0VqeG9rdnNCUQ?oc=5",
+   "k": "이 귀여운 9인치 로봇 투어 가이드는 장애인이 조종합니다."
   },
   {
    "s": "BBC",
-   "t": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "u": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
-   "k": "저는 다른 사람이 제 생활 관리를 해주도록 한 달에 £250를 지불합니다. 그럴 가치가 있어요."
+   "t": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+   "u": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
+   "k": "영국의 임대주들이 점점 더 커지고 있습니다. 이로 인해 양극화된 임대 시장이 형성될 수 있습니다."
   },
   {
    "s": "BBC",
-   "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-   "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
-   "k": "영국, 로힝야족 집단 학살 판결 후 미얀마 군 수뇌부에 제재 가함"
+   "t": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "u": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o",
+   "k": "코미디언, 캐나다 기자단 만찬에서 트럼프의 춤 동작을 흉내내고 무역 협상을 조롱하다"
   },
   {
    "s": "CNBC",
-   "t": "AI adoption grows in Asia, but measuring the gains remains tricky",
-   "u": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-   "k": "아시아에서 AI 도입이 증가하고 있지만, 그 이점을 측정하는 것은 여전히 까다롭습니다."
+   "t": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+   "u": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+   "k": "Signal, 고객 위험을 줄이기 위해 AI 에이전트 사용을 제한하는 유나이티드 항공, 은행에 동참"
   },
   {
    "s": "CNBC",
@@ -148,9 +154,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "u": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "k": "트럼프 대통령의 개입 후 젠슨 황, 엔비디아 CEO로 복직"
+   "t": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+   "u": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+   "k": "Meta, 영국에서 크리스마스 쇼핑을 도와주는 AI 에이전트 Muse 출시"
   },
   {
    "s": "MarketWatch",
@@ -160,27 +166,21 @@
   },
   {
    "s": "TASS",
-   "t": "Heavy losses shrink Ukraine’s pool of recruits as Kiev weighs teen travel ban — expert",
-   "u": "https://tass.com/defense/2223679",
-   "k": "키이우가 청소년 여행 금지를 고려하는 가운데, 막대한 손실로 인해 우크라이나의 징집 대상자 풀이 축소되고 있다 — 전문가"
+   "t": "Youth of North's indigenous peoples call for using fashion, music, AI to preserve culture",
+   "u": "https://tass.com/society/2223719",
+   "k": "북부 원주민 청소년들이 문화 보존을 위해 패션, 음악, AI 활용을 촉구하다"
   },
   {
    "s": "Al Jazeera",
-   "t": "UN chief calls for world to agree on AI oversight within a year",
-   "u": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-   "k": "유엔 사무총장, 1년 이내에 인공지능(AI) 감독에 대한 세계적 합의 촉구"
+   "t": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+   "k": "Nvidia 라이브: 젠슨 황이 CEO로 복귀하면서 주가가 급등했습니다."
   },
   {
    "s": "Arab News",
-   "t": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
-   "u": "https://www.arabnews.com/world/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-3013777",
-   "k": "미국, 엔비디아 스캔들과 연관된 메가스피드 칩 기업을 블랙리스트에 올릴 예정이라고 소식통이 전함"
-  },
-  {
-   "s": "CNA",
-   "t": "More than 400,000 Malaysians barred from travelling over unpaid taxes, outstanding payments",
-   "u": "https://www.channelnewsasia.com/asia/400000-malaysians-restricted-travelling-taxes-outstanding-payment-court-orders-6577076",
-   "k": "미납 세금, 연체금으로 인해 40만 명 이상의 말레이시아인들이 출국 금지 조치"
+   "t": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
+   "u": "https://www.arabnews.com/world/singapore-investigating-nvidia-linked-megaspeed-after-us-blacklisting-3013789",
+   "k": "미국 블랙리스트에 오른 엔비디아 관련사 메가스피드, 싱가포르 당국 조사 받아"
   }
  ]
 }
