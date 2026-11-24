@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:52:10+09:00",
+  "updated": "2026-11-24T12:02:24+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,10 +48,38 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "[오전시황] 코스피 5000선 회복…반도체·로봇·MLCC株 줄줄이 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611246282i",
+      "published": "2026-11-24T11:44:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261124086800008",
+      "published": "2026-11-24T11:39:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "3년 반 걸리던 재건축 조합설립 4개월 만에…서울시, 규제 완화로 정비사업 속도 낸다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611246535i",
+      "published": "2026-11-24T11:22:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "코스피, '젠슨황 복귀'에 5∼6%대 급등…'5천피' 탈환 시도(종합)",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261124037651008",
       "published": "2026-11-24T09:34:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "앤트로픽 9000억달러 지출 약정…월가는 '정크등급' 전망",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611245757i",
+      "published": "2026-11-24T09:33:00+09:00"
     },
     {
       "category": "부동산",
@@ -89,6 +117,13 @@
       "published": "2026-11-23T23:58:00+09:00"
     },
     {
+      "category": "해외시장",
+      "title": "젠슨 황 복귀에 엔비디아 30% 폭등…AI·반도체주 동반 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611235357i",
+      "published": "2026-11-23T23:47:00+09:00"
+    },
+    {
       "category": "경제·증시",
       "title": "초과세수 10조 지방에 푼다",
       "source": "한국경제",
@@ -121,6 +156,13 @@
       "title": "강남3구·용산에 청약 '절반' 몰렸다",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112349051",
+      "published": "2026-11-23T17:19:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "내달 1.6만가구 집들이…3기신도시 계양 첫 입주",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112349061",
       "published": "2026-11-23T17:19:00+09:00"
     },
     {
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112114747",
       "published": "2026-11-21T17:28:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112113727",
-      "published": "2026-11-21T14:30:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"20년 살았는데 3억 내라니\"… 강남 재건축 아파트에 무슨 일이 [고인선의 택스인사이트]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611209077i",
-      "published": "2026-11-21T14:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611200923i",
-      "published": "2026-11-21T11:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"출근했는데 로그인이 안 돼\"…미국 최고 정보기관 사흘 넘게 마비",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112112727",
-      "published": "2026-11-21T10:57:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "스파이 연루설에도…트럼프 거듭 \"젠슨 황 복귀 보고 싶다\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112112667",
-      "published": "2026-11-21T10:40:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "미·중·러 정상회담에 오른 한반도 문제…트럼프 \"위험 대응 논의\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112112577",
-      "published": "2026-11-21T10:31:00+09:00"
     }
   ]
 }
