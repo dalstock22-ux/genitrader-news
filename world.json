@@ -1,18 +1,12 @@
 {
- "updated": "2026-11-24T18:41+09:00",
+ "updated": "2026-11-24T19:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "The internet had a field day with Jensen Huang’s return",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanhBamdYVC00dGdSRHg2ZWhYcEhsa3V2MkkxZjFJX1NITmVKMUowSkxyZHFXWnoxM0FzOWdRRWl0OEdaaHprV1gzOGJFUDNwWjYyNldUQUc4WG5jMUZzNHNfaFc2ZGRZMDI0NGtJSGs3a2NCcVJlV0ZBSnY0eGYxeUk3X29scGRxWks2SlVYVFZzblJmNmxIZnk4ZXRUa3lyX0djaEV3M013NHZXX0xFR281TzA1dEk?oc=5",
-   "k": "젠슨 황의 복귀로 인터넷이 들썩였습니다."
-  },
-  {
-   "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "AI’s most powerful CEO is back. But how long will the market confidence last?",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUFaYkFiUTRGUjRJbkRka3NJSER0YWNBMTNXLURmUG9XRF9iVjkxdGFMRnNaQ2VBWEZCdklZaWVRS01rQndfdlNmcmdhRkpTaTRCcjVhZGdseGZYa0N2YnZ1Nl9vc0FydWZsQnBueHFUNHZRT081V3pMWDJQQU9VczBRdmY?oc=5",
+   "k": "AI 업계에서 가장 영향력 있는 CEO가 돌아왔습니다. 하지만 시장의 신뢰는 얼마나 오래 지속될까요?"
   },
   {
    "s": "BBC",
@@ -28,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Nvidia shares fall over 3% in premarket after Huang comeback rally",
-   "u": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-   "k": "황 회장 복귀 랠리 후 프리마켓에서 엔비디아 주가 3% 이상 하락"
+   "t": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
+   "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "k": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한도에 근접"
   },
   {
    "s": "CNBC",
@@ -46,21 +40,21 @@
   },
   {
    "s": "MarketWatch",
-   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
+   "t": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+   "u": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
+   "k": "젠다야와 톰 홀랜드, 런던에 1에이커(약 4,047㎡) 규모의 주택을 1,000만 달러에 매입"
   },
   {
    "s": "Moscow Times",
-   "t": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region",
-   "u": "https://www.themoscowtimes.com/2026/11/23/ukrainian-drones-kill-1-strike-oil-refinery-in-perm-region-a94347",
-   "k": "우크라이나 드론, 페름주 정유 공장 공격해 1명 사망"
+   "t": "Gas Explosion in Altai Region Kills At Least One",
+   "u": "https://www.themoscowtimes.com/2026/11/24/gas-explosion-in-altai-region-kills-at-least-one-a94357",
+   "k": "알타이 지역에서 가스 폭발로 최소 1명 사망"
   },
   {
    "s": "TASS",
-   "t": "EU’s seven-year budget, funding for Kiev to be main topics at EU summit",
-   "u": "https://tass.com/world/2223791",
-   "k": "EU의 7개년 예산, 키이우 지원금이 EU 정상회의의 주요 의제로 다뤄질 예정"
+   "t": "Ukraine reports budget losses of $1.5 billion since early 2026 — expert",
+   "u": "https://tass.com/economy/2223847",
+   "k": "우크라이나, 2026년 초부터 15억 달러의 예산 손실 발생했다고 보고 — 전문가"
   },
   {
    "s": "Al Jazeera",
@@ -70,21 +64,27 @@
   },
   {
    "s": "Arab News",
-   "t": "TotalEnergies: Additional investments planned for the “Amiral” project in Saudi Arabia",
+   "t": "TotalEnergies: Additional investments planned for the Amiral project in Saudi Arabia",
    "u": "https://www.arabnews.com/business/totalenergies-additional-investments-planned-for-the-amiral-project-in-saudi-arabia-3013809",
    "k": "TotalEnergies: 사우디아라비아 '아미랄' 프로젝트에 대한 추가 투자 계획"
   },
   {
    "s": "CNA",
-   "t": "COP31 failure exposes deep divisions, but unlikely to derail clean energy transition: Experts",
-   "u": "https://www.channelnewsasia.com/world/cop31-unlikely-derail-clean-energy-transition-experts-6577531",
-   "k": "COP31 실패로 심각한 분열 노출, 하지만 청정 에너지 전환을 저해할 가능성은 낮음: 전문가 의견"
+   "t": "Pakistani astronaut carries ‘hopes of 250 million’ on China space mission",
+   "u": "https://www.channelnewsasia.com/east-asia/china-space-mission-pakistani-muhammad-zeeshan-ali-first-astronaut-6577831",
+   "k": "파키스탄 우주비행사, 중국 우주 임무에 '2억 5천만 명의 희망'을 싣다"
   },
   {
    "s": "Straits Times",
-   "t": "Solopreneurs in S’pore on the rise: More earning $1m or more a year without hiring anyone",
-   "u": "https://www.straitstimes.com/business/solopreneurs-in-spore-on-the-rise-more-earning-1m-or-more-a-year-without-hiring-anyone",
-   "k": "싱가포르에서 증가하는 솔로프레너: 직원 고용 없이 연간 1백만 달러 이상을 버는 사람이 늘고 있음"
+   "t": "Want to travel 3 times a year or cut your renovation costs? Watch this ST InvestMe discussion",
+   "u": "https://www.straitstimes.com/business/invest/want-to-travel-3-times-a-year-or-cut-your-renovation-costs-watch-this-st-investme-discussion",
+   "k": "일 년에 3번 여행을 떠나거나 리모델링 비용을 절감하고 싶으신가요? 이 ST InvestMe 토론을 시청하세요"
+  },
+  {
+   "s": "Bangkok Post",
+   "t": "Thai auto output falls 35% in October due to flood impact",
+   "u": "https://www.bangkokpost.com/business/general/3360419/thai-auto-output-falls-35-in-october-due-to-flood-impact",
+   "k": "태국 자동차 생산량, 홍수 영향으로 10월에 35% 감소"
   },
   {
    "s": "Euronews",
@@ -100,25 +100,27 @@
   },
   {
    "s": "SCMP",
-   "t": "MPF members hitting ‘panic switch’ to ditch US stocks amid volatility: Manulife",
-   "u": "https://www.scmp.com/business/banking-finance/article/3375606/mpf-members-hitting-panic-switch-ditch-us-stocks-amid-volatility-manulife"
+   "t": "Rent hikes, low supply in Hong Kong’s CBD sees banks, tech firms heading for West Kowloon",
+   "u": "https://www.scmp.com/business/banking-finance/article/3375574/rent-hikes-low-supply-hong-kongs-cbd-sees-banks-tech-firms-heading-west-kowloon",
+   "k": "임대료 인상, 홍콩 CBD의 낮은 공급으로 인해 은행, IT 기업들이 서구룡으로 향하고 있습니다."
   },
   {
    "s": "Economic Times",
-   "t": "India counters China in Nepal amid flood crisis",
-   "u": "https://economictimes.indiatimes.com/news/india/india-seizes-nepal-flood-crisis-to-rebuild-influence-as-china-gains-ground/articleshow/136125481.cms"
+   "t": "Fake paneer factory busted in Raebareli using detergent",
+   "u": "https://economictimes.indiatimes.com/news/new-updates/fake-paneer-factory-raided-in-raebareli-where-detergent-chemicals-and-oil-were-allegedly-used-to-make-adulterated-cheese/articleshow/136118599.cms",
+   "k": "세제를 사용한 가짜 파니르 공장이 라이바렐리에서 적발되었습니다."
   },
   {
    "s": "CNN",
-   "t": "Nvidia employee hugs Jensen Huang after comeback speech",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGZUejdJaXZIZWxQN3MxeUU3bjdXZy1yUHZtNGZhbENPZTRsaXFyV2ZnUFltSTVHYk5nckt6VXVqUkRUeUtmSms4TmxLRmZaZnZ5TzVMNDhWRENpUkFaUjNraXEtQ3JDdXNXUnJnZEtEOTk2b1ltV1hNcEJOS21VcW1QTWpvM2ZsMWFWcVFiVF9KSjUwdWJLSTFwODVGX2JLTG1ZdE4tcE9vZkEzbG9SZjV3?oc=5",
-   "k": "엔비디아 직원이 복귀 연설을 마친 젠슨 황을 포옹하고 있습니다."
+   "t": "The internet had a field day with Jensen Huang’s return",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanhBamdYVC00dGdSRHg2ZWhYcEhsa3V2MkkxZjFJX1NITmVKMUowSkxyZHFXWnoxM0FzOWdRRWl0OEdaaHprV1gzOGJFUDNwWjYyNldUQUc4WG5jMUZzNHNfaFc2ZGRZMDI0NGtJSGs3a2NCcVJlV0ZBSnY0eGYxeUk3X29scGRxWks2SlVYVFZzblJmNmxIZnk4ZXRUa3lyX0djaEV3M013NHZXX0xFR281TzA1dEk?oc=5",
+   "k": "젠슨 황의 복귀로 인터넷이 들썩였습니다."
   },
   {
    "s": "CNN",
-   "t": "This cute 9-inch robot tour guide is operated by people with disabilities",
-   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk9LS0c2dDhPVk5hRHFIYTFvdVdFX0RrUzFEN0lSaG1ON0szZnRnMVBOaTVqMW4zSVJNMW5OT1h0Zkg1cWxrTno5bWRuV2hTb1VXRkJ5Y0VFbU1SN0loQ0pMSUxrOGJWbzc4SHJSQ1N2NFdkTnVoRWRkQTRYWkwyTW1pUlRKYUpsMHAtdE82RW5rcXBBT0VqeG9rdnNCUQ?oc=5",
-   "k": "이 귀여운 9인치 로봇 투어 가이드는 장애인이 조종합니다."
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
@@ -152,14 +154,21 @@
   },
   {
    "s": "MarketWatch",
-   "t": "HPE just posted its strongest growth ever — but its stock is sinking",
-   "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-   "k": "HPE, 사상 최대의 성장률을 기록했지만 주가는 하락세"
+   "t": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
+   "u": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+   "k": "알렉스 트레벡의 전 소유지인 645만 달러 상당의 캘리포니아 랜치와 와이너리에 입찰할 기회입니다."
+  },
+  {
+   "s": "Moscow Times",
+   "t": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region",
+   "u": "https://www.themoscowtimes.com/2026/11/23/ukrainian-drones-kill-1-strike-oil-refinery-in-perm-region-a94347",
+   "k": "우크라이나 드론, 페름주 정유 공장 공격해 1명 사망"
   },
   {
    "s": "TASS",
-   "t": "EU ambassadors fail to agree on budget ahead of summit — media",
-   "u": "https://tass.com/economy/2223789"
+   "t": "US will not ease export controls on China following Huang’s return to Nvidia — experts",
+   "u": "https://tass.com/economy/2223811",
+   "k": "전문가들, 젠슨 황 CEO의 엔비디아 복귀 후에도 미국이 중국에 대한 수출 통제를 완화하지 않을 것이라고 전망"
   },
   {
    "s": "Al Jazeera",
@@ -170,12 +179,8 @@
   {
    "s": "Arab News",
    "t": "MSC’s MEDLOG targets $267m in Saudi investments by 2032",
-   "u": "https://www.arabnews.com/business/mscs-medlog-targets-267m-in-saudi-investments-by-2032-3013808"
-  },
-  {
-   "s": "CNA",
-   "t": "Japan accelerates ICC funding as US sanctions threaten court",
-   "u": "https://www.channelnewsasia.com/east-asia/japan-accelerates-icc-funding-us-sanctions-threaten-court-6577621"
+   "u": "https://www.arabnews.com/business/mscs-medlog-targets-267m-in-saudi-investments-by-2032-3013808",
+   "k": "MSC의 MEDLOG, 2032년까지 사우디아라비아 투자액 2억 6,700만 달러 목표"
   }
  ]
 }
