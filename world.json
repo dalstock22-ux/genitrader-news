@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-25T23:40+09:00",
+ "updated": "2026-11-26T00:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Trump targets China in new round of tariffs",
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
-   "k": "트럼프 대통령, 새로운 관세 부과 조치로 중국을 겨냥"
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
-   "t": "US announces new tariffs on host of countries including China",
-   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
+   "t": "US stocks fall further as fears over AI intensify",
+   "u": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+   "k": "AI에 대한 우려가 커지면서 미국 주식은 더욱 하락"
   },
   {
    "s": "BBC",
@@ -22,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-   "u": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "k": "젠슨 황, 직원들에게 엔비디아는 승계 계획이 필요 없다고 밝혀"
+   "t": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+   "u": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+   "k": "칼시(Kalshi)의 트레이더들은 주 정부가 데이터 센터 모라토리움을 시행할 가능성이 그렇지 않을 가능성보다 높다고 말합니다."
   },
   {
    "s": "CNBC",
@@ -34,15 +34,15 @@
   },
   {
    "s": "Guardian",
-   "t": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
-   "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
+   "t": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
+   "u": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
+   "k": "계속 유지할까, 아니면 전환할까? 1월 에너지 요금 인상을 극복하기 위한 영국 전기·가스 요금 납부자들의 고민"
   },
   {
    "s": "MarketWatch",
-   "t": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
-   "u": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-   "k": "월스트리트의 최신 강세론자들은 게임스탑이 트레이딩 카드와 심지어 롤렉스 시계 덕분에 살아남았다고 말합니다."
+   "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
   },
   {
    "s": "Moscow Times",
@@ -52,21 +52,21 @@
   },
   {
    "s": "TASS",
-   "t": "IN BRIEF: Deputy PM Novak’s statements in Russian fuel market situation",
-   "u": "https://tass.com/economy/2224753",
-   "k": "요약: 러시아 연료 시장 상황에 대한 노박 부총리의 발언"
+   "t": "Russia, Brunei has good trend of trade and economic ties development — Putin",
+   "u": "https://tass.com/economy/2224817",
+   "k": "러시아와 브루나이, 무역 및 경제 관계 발전의 좋은 추세 보임 — 푸틴 대통령"
   },
   {
    "s": "Al Jazeera",
-   "t": "Bangladesh garment workers protest over new wages",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-   "k": "방글라데시 의류 노동자들, 새로운 임금에 항의"
+   "t": "Trump announces new trade tariffs: Which countries will they target?",
+   "u": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+   "k": "트럼프 대통령, 새로운 무역 관세 발표: 대상 국가는 어디인가?"
   },
   {
    "s": "Arab News",
-   "t": "British household energy bills to jump 26 percent on Iran war shock",
-   "u": "https://www.arabnews.com/world/british-household-energy-bills-to-jump-26-percent-on-iran-war-shock-3014004",
-   "k": "이란 전쟁 충격으로 영국 가계 에너지 요금 26% 급등"
+   "t": "Titanium equipment for desalination and petrochemicals: what VSMPO-AVISMA offers Saudi industry",
+   "u": "https://www.arabnews.com/corporate-and-sponsored-content/titanium-equipment-for-desalination-and-petrochemicals-what-vsmpo-avisma-offers-saudi-industry-3014017",
+   "k": "담수화 및 석유화학용 티타늄 장비: VSMPO-AVISMA가 사우디 산업에 제공하는 것"
   },
   {
    "s": "CNA",
@@ -82,9 +82,9 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Huawei says US conviction ‘without legal or factual merit’",
-   "u": "https://www.bangkokpost.com/business/general/3360969/huawei-says-us-conviction-without-legal-or-factual-merit",
-   "k": "화웨이, 미국 유죄 판결에 대해 '법적 또는 사실적 근거가 없다'고 주장"
+   "t": "Trade tensions return as Trump proposes new tariffs",
+   "u": "https://www.bangkokpost.com/business/general/3361119/trade-tensions-return-as-trump-proposes-new-tariffs",
+   "k": "트럼프 대통령이 새로운 관세를 제안하면서 무역 긴장이 다시 고조"
   },
   {
    "s": "Euronews",
@@ -106,9 +106,9 @@
   },
   {
    "s": "SCMP",
-   "t": "As profits fall, China’s carmakers pass financial strain on to suppliers, expert says",
-   "u": "https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says",
-   "k": "전문가에 따르면, 수익이 감소함에 따라 중국 자동차 제조업체들이 재정적 부담을 공급업체에 전가하고 있다고 합니다."
+   "t": "Shein revenue falls 6% in third quarter as EU trade curbs hit sales hard",
+   "u": "https://www.scmp.com/business/companies/article/3375804/shein-revenue-falls-6-third-quarter-eu-trade-curbs-hit-sales-hard",
+   "k": "EU 무역 규제로 매출이 크게 감소하면서 Shein의 3분기 매출이 6% 감소했습니다."
   },
   {
    "s": "Economic Times",
@@ -118,15 +118,15 @@
   },
   {
    "s": "CNN",
-   "t": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
-   "k": "Nvidia는 경제에 매우 중요합니다. AI의 소멸은 예상치 못한 결과를 초래할 수 있습니다."
+   "t": "Tech stock selloff deepens as AI fears outweigh Huang’s Nvidia return",
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1FuS01WaVlhenhqc2I2M2hUckJlTm9fUjZ3N2ZjSmtTM3pCSkktYzlUM094TkV2NFROMjBseXlla2R3US1xRjh1QktLalI3dmVHZ2dpWGY4UEVXa2lKemFvX2doTXZ3d0FOTkV3NW5aYlZBWk9HZzhUa19aZW1GbWVmWFlvQQ?oc=5",
+   "k": "AI에 대한 우려가 황의 엔비디아 복귀보다 더 커지면서 기술주 매도가 심화"
   },
   {
    "s": "BBC",
-   "t": "Energy bills to rise by 26% from January after gas prices surge",
-   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-   "k": "1월부터 에너지 요금 26% 인상 예정"
+   "t": "US announces new tariffs on host of countries including China",
+   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "BBC",
@@ -136,21 +136,27 @@
   },
   {
    "s": "CNBC",
+   "t": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
+   "u": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
+   "k": "수익률이 여전히 높은 수준을 유지하고 있는 가운데, 부유한 투자자들이 지자체 발행 채권에서 세금 절감 혜택을 찾고 있습니다."
+  },
+  {
+   "s": "CNBC",
    "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
    "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
   },
   {
    "s": "Guardian",
-   "t": "Amazon to start selling cars in the UK next year",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
-   "k": "아마존, 내년 영국에서 자동차 판매 시작 예정"
+   "t": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+   "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
-   "t": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
-   "u": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
-   "k": "피곤함을 느끼고 탈모가 있나요? 이전에 '정상'으로 검사받은 적이 있더라도 철분 수치가 낮을 수 있습니다."
+   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
   },
   {
    "s": "Moscow Times",
@@ -160,27 +166,21 @@
   },
   {
    "s": "TASS",
-   "t": "Russia may export 40 mln tons of grain in 2026 — minister",
-   "u": "https://tass.com/economy/2224749",
-   "k": "러시아, 2026년에 곡물 4천만 톤 수출 가능 — 장관"
+   "t": "Payments in national currencies help to protect trade from politics — Putin",
+   "u": "https://tass.com/economy/2224813",
+   "k": "푸틴 대통령, \"자국 통화 결제는 무역을 정치적 영향으로부터 보호하는 데 도움이 된다\"고 밝혀"
   },
   {
    "s": "Al Jazeera",
-   "t": "‘People are going hungry’: Guinea’s gold mining crackdown",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
-   "k": "‘사람들이 굶주리고 있습니다’: 기니의 금광 단속"
+   "t": "Bangladesh garment workers protest over new wages",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+   "k": "방글라데시 의류 노동자들, 새로운 임금에 항의"
   },
   {
    "s": "Arab News",
-   "t": "Saudi infrastructure investment pipeline estimated at $1tn, minister says",
-   "u": "https://www.arabnews.com/finance/saudi-infrastructure-investment-pipeline-estimated-at-1tn-minister-says-3013997",
-   "k": "사우디아라비아의 인프라 투자 계획, 1조 달러 규모로 추정 - 장관 발언"
-  },
-  {
-   "s": "CNA",
-   "t": "AI stocks slide on fears over infrastructure buildout costs",
-   "u": "https://www.channelnewsasia.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-6581691",
-   "k": "인프라 구축 비용에 대한 우려로 AI 관련주 하락"
+   "t": "British household energy bills to jump 26 percent on Iran war shock",
+   "u": "https://www.arabnews.com/world/british-household-energy-bills-to-jump-26-percent-on-iran-war-shock-3014004",
+   "k": "이란 전쟁 충격으로 영국 가계 에너지 요금 26% 급등"
   }
  ]
 }
