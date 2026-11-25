@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:11:25+09:00",
+  "updated": "2026-11-25T10:25:03+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,41 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "중소기업 83% \"정년 연장보다 '퇴직 후 재고용' 선호\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125053700030",
+      "published": "2026-11-25T10:10:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "\"이젠 기름값 좀 떨어지려나\"…중동 긴장 속 공급증가 조짐",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112587617",
+      "published": "2026-11-25T09:59:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"작아도 서울 새 아파트\"…청약 신청 80% 쏠린 '소형의 반전'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112584116",
+      "published": "2026-11-25T08:50:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美, '과잉생산 관세' 이르면 오늘 발표…\"한국 15% 유지 예상\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112582197",
+      "published": "2026-11-25T07:36:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112581317",
+      "published": "2026-11-25T06:16:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "오천피 되찾았지만…\"AI 랠리 재개\" vs \"2~3일 더 지켜봐야\"",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112476941",
@@ -79,6 +114,13 @@
       "title": "시흥·안산 공공분양 냉기…84㎡ 일반공급도 '미달'",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112476101",
+      "published": "2026-11-24T17:17:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "조합설립 3년6개월→112일…정비사업 '탄력'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112476131",
       "published": "2026-11-24T17:17:00+09:00"
     },
     {
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112327967",
       "published": "2026-11-23T06:42:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112090556",
-      "published": "2026-11-23T06:31:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"내년 수도권 집값 3~5% 상승…전셋값은 8% 뛸 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112224191",
-      "published": "2026-11-22T17:57:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "정부, 공급 확대 '전격전'…연말 1.2만가구 공공분양",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112224181",
-      "published": "2026-11-22T17:56:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "환율·채권…원·달러 환율, 연말 1380원대 전망",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112224171",
-      "published": "2026-11-22T17:23:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "뉴욕·상하이 증시, 美 물가지수 발표에 월가 촉각",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112224161",
-      "published": "2026-11-22T17:22:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"美, 아시아 순방 계기 북미회담 추진…北 '수용 불가 조건'에 무산\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112223007",
-      "published": "2026-11-22T16:47:00+09:00"
     }
   ]
 }
