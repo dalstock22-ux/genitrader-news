@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T12:02+09:00",
+ "updated": "2026-11-25T12:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 도용 음모 혐의로 유죄 판결"
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
@@ -24,19 +24,19 @@
    "s": "CNBC",
    "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
    "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 이상의 것을 의미한다는 것을 보여줍니다."
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
   },
   {
    "s": "Guardian",
-   "t": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-   "u": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-   "k": "젠슨 황의 엔비디아 복귀로 인한 환희가 가라앉으면서 기술주 매도가 재개됨"
+   "t": "Standard owner Lord Lebedev cuts £5m off price of London mansion",
+   "u": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
+   "k": "스탠다드 소유주인 로드 레베데프, 런던 저택 가격에서 5백만 파운드 깎아"
   },
   {
    "s": "MarketWatch",
    "t": "Dell’s stock rises as the AI boom helps sales more than double",
    "u": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-   "k": "AI 붐으로 매출이 2배 이상 증가하면서 Dell 주가 상승"
+   "k": "AI 붐으로 매출이 두 배 이상 증가하면서 Dell의 주가가 상승했습니다."
   },
   {
    "s": "Moscow Times",
@@ -48,13 +48,13 @@
    "s": "TASS",
    "t": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
    "u": "https://tass.com/economy/2224307",
-   "k": "러시아, 초지능을 위한 에너지 자원 보유량에서 선두 — 드미트리예프"
+   "k": "러시아, 초지능을 위한 에너지 자원 보유량에서 선두를 달리고 있다 — 드미트리예프"
   },
   {
    "s": "Al Jazeera",
    "t": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
    "u": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
-   "k": "토드 블랑슈 변호사, 엔비디아의 젠슨 황 CEO가 수사 대상인지 여부에 대한 확인 거부"
+   "k": "토드 블랑슈 변호사, 엔비디아의 젠슨 황에 대한 수사 여부 확인 거부"
   },
   {
    "s": "Arab News",
@@ -64,21 +64,21 @@
   },
   {
    "s": "CNA",
-   "t": "A year after Hong Kong's deadly fire, survivors struggle with loss and lingering sense of injustice",
-   "u": "https://www.channelnewsasia.com/east-asia/hong-kong-wang-fuk-court-fire-survivors-injustice-6580041",
-   "k": "홍콩 대형 화재 1년 후, 생존자들은 상실감과 지속되는 불공정함에 시달리고 있습니다."
+   "t": "Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
+   "u": "https://www.channelnewsasia.com/business/starbucks-engage-banks-sale-japan-business-bloomberg-news-reports-6580461",
+   "k": "블룸버그 뉴스, 스타벅스가 일본 사업 매각을 위해 은행과 협력할 것이라고 보도"
   },
   {
    "s": "Straits Times",
-   "t": "Japan's key services inflation gauge hits 36-year high",
-   "u": "https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high",
-   "k": "일본의 주요 서비스 물가 지표, 36년 만에 최고치 기록"
+   "t": "Australian inflation hots up in October, core hits two-year high",
+   "u": "https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high",
+   "k": "10월 호주 물가상승률 상승, 근원물가지수 2년 만에 최고치 기록"
   },
   {
    "s": "Bangkok Post",
    "t": "B.Grimm, NTT plan B113bn data centre",
    "u": "https://www.bangkokpost.com/business/general/3360699/bgrimm-ntt-plan-b113bn-data-centre",
-   "k": "B.Grimm, NTT, 1,130억 바트 규모의 데이터 센터 계획"
+   "k": "B.Grimm, NTT 1,130억 바트 규모 데이터 센터 계획"
   },
   {
    "s": "Euronews",
@@ -90,7 +90,7 @@
    "s": "MercoPress",
    "t": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
    "u": "https://en.mercopress.com/2026/11/25/argentina-enters-technical-recession-after-two-quarters-of-contraction-the-first-since-2024?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "아르헨티나가 2024년 이후 처음으로 2분기 연속 마이너스 성장을 기록하며 기술적 경기 침체에 진입했습니다."
+   "k": "아르헨티나, 2024년 이후 처음으로 2분기 연속 마이너스 성장을 기록하며 기술적 경기 침체에 진입"
   },
   {
    "s": "Buenos Aires Times",
@@ -108,13 +108,19 @@
    "s": "Economic Times",
    "t": "Iran accuses US of hypocrisy; OPCW faces budget crisis",
    "u": "https://economictimes.indiatimes.com/news/international/world-news/iranian-fm-araghchi-accuses-washington-of-hypocrisy-as-opcw-faces-budget-crisis-over-us-arrears/articleshow/136145176.cms",
-   "k": "이란, 미국을 위선적이라고 비난; OPCW, 예산 위기에 직면"
+   "k": "이란, 미국을 위선적이라고 비난; OPCW, 예산 위기 직면"
   },
   {
    "s": "CNN",
-   "t": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY1VoSjVXdkRXRWpuaFRlRHgxOVZsY2V3OHNaOXJ1RlB5Nm8xWHRTcDNIRFVoYlJ1T21zTmstcFBjNjQwZFhrX0x3Y0EwbmRIaXdFaU1FVnYxTEdYbVlTekg0cktMdHREM01fc0x3?oc=5",
-   "k": "'가족 기업'과 같은: 젠슨 황을 해고했다가 다시 고용한 엔비디아 이사회 내부 이야기"
+   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
+  },
+  {
+   "s": "CNN",
+   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
+   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
   },
   {
    "s": "BBC",
@@ -126,7 +132,7 @@
    "s": "BBC",
    "t": "US attorney general dodges questions about Nvidia investigation",
    "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-   "k": "미국 정치인들이 젠슨 황의 복귀에 트럼프의 역할이 있었는지 의문을 제기하면서 엔비디아 주가가 하락했습니다."
+   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
   },
   {
    "s": "CNBC",
@@ -138,13 +144,13 @@
    "s": "CNBC",
    "t": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
    "u": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-   "k": "Kalshi의 '무기한' 거래 일일 거래량이 예측 시장을 앞지르기 시작"
+   "k": "Kalshi의 '무기한' 거래 일일 거래량이 예측 시장을 앞서기 시작"
   },
   {
    "s": "Guardian",
-   "t": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-   "u": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-   "k": "엔비디아 CEO 젠슨 황, 직원들에게 사과: ‘끔찍한 실수를 저질렀습니다’"
+   "t": "Compass’s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
+   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
+   "k": "컴패스의 미국 상장 논리는 허술하지만, 영국 장관들은 FTSE 상장 폐지 위험에 대해 각성해야 합니다 | 닐스 프랫리"
   },
   {
    "s": "MarketWatch",
@@ -156,7 +162,7 @@
    "s": "Moscow Times",
    "t": "State Duma Approves 2027-29 Budget With Record Military Spending",
    "u": "https://www.themoscowtimes.com/2026/11/24/state-duma-approves-2027-29-budget-with-record-military-spending-a94361",
-   "k": "러시아 하원, 사상 최대 규모의 군사 지출이 포함된 2027~2029년 예산안 승인"
+   "k": "러시아 하원, 기록적인 군사 지출이 포함된 2027~2029년 예산안 승인"
   },
   {
    "s": "TASS",
@@ -175,12 +181,6 @@
    "t": "US jury convicts China tech giant Huawei of stealing trade secrets: media",
    "u": "https://www.arabnews.com/world/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets-media-3013927",
    "k": "미국 배심원단, 중국 IT 대기업 화웨이의 영업 비밀 유출 혐의 유죄 판결: 언론 보도"
-  },
-  {
-   "s": "CNA",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "u": "https://www.channelnewsasia.com/business/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps-cpi-6580096",
-   "k": "연준의 정책 방향에 대한 미국 데이터 발표를 앞두고 달러가 숨 고르기에 들어갔으며, 호주 달러는 CPI에 힘입어 상승했습니다."
   }
  ]
 }
