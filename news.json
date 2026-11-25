@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:02:12+09:00",
+  "updated": "2026-11-25T18:11:19+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "산업장관 \"중국에 밀릴 수도…52시간 특례 내일이라도 시작해야\"",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125163400003",
+      "published": "2026-11-25T17:53:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "역세권 임대 등 30조 투입…'공급가뭄' 해소",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112501581",
+      "published": "2026-11-25T17:47:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "개발부담금 깎아줬더니…3년간 착공 40% 늘어",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112501511",
+      "published": "2026-11-25T17:25:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "사노피, 3년 만에 제약업계 최대 규모 인수 합의…인스메드 주가 14% 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611250128i",
+      "published": "2026-11-25T17:13:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "AI 서버 매출 291% 뛴 델…250억달러 자사주 매입 나선다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611250127i",
+      "published": "2026-11-25T17:07:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "'금통위 D-1' 국고채 금리 일제히 하락…3년물 연 3.583%(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125149151008",
+      "published": "2026-11-25T17:05:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "국고채 금리 대체로 하락…3년물 장중 연 3.633%",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112349051",
       "published": "2026-11-23T17:19:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "내달 1.6만가구 집들이…3기신도시 계양 첫 입주",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112349061",
-      "published": "2026-11-23T17:19:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "메모리값 400% 급등…AI 서버업체, 계약 후 가격 인상",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611232980i",
-      "published": "2026-11-23T13:17:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리, 위험회피 속 하락세…3년물 장중 연 3.621%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261123085000008",
-      "published": "2026-11-23T11:56:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피 5%대 급락, 4,600선도 내줘…매도 사이드카",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261123085400008",
-      "published": "2026-11-23T11:44:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "12월 전국 아파트 1만6486가구 입주…인천 계양서 3기 신도시 첫 집들이",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611233673i",
-      "published": "2026-11-23T11:11:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피 2∼3% 하락 4,600대로 밀려…코스닥도 1%대↓(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261123032251008",
-      "published": "2026-11-23T09:36:00+09:00"
     }
   ]
 }
