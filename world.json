@@ -1,12 +1,18 @@
 {
- "updated": "2026-11-25T14:40+09:00",
+ "updated": "2026-11-25T15:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "Breaking down Nvidia’s ‘boardroom blunder’",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZjliNVdia3R5RmxObzR5djl6SGZseWh3Z3pHdkJxQktIRVRxNXBXZnRHU1Y2VzF3TlE1TXZmTkNaNXRycHdBeDdJT0lTOEE4UlJCQl8tNC1jUFdLT1MyVHk5eU5oUG5jLUJyZk10cGxkdlNWOUE?oc=5",
+   "k": "Nvidia의 '이사회 실수' 분석"
+  },
+  {
+   "s": "CNN",
+   "t": "The Jensen Huang scandal has it all: sex, money and Trump",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZzhfQm9NT3RneXVlekJ3NjZmWlB5T2lZbkdYWGlmQTc5MlRpVy1ZTTVsVGJEZ3RuVFd5al9QOFlJNUNZMUpydHJWcHZIakdma0RYbEQ0eVdlWWdsRlhwN1JlQWk5YVhZRXBuNmQ3Y0E5Rjdz?oc=5",
+   "k": "젠슨 황 스캔들에는 섹스, 돈, 트럼프가 모두 등장합니다."
   },
   {
    "s": "BBC",
@@ -16,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-   "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-   "k": "‘어떤 폭풍우에도 대비’: IMF가 경제 전망을 상향 조정하자 UAE 장관이 낙관적인 전망을 내놓다"
+   "t": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+   "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+   "k": "아서 헤이즈, \"AI가 붕괴될 때 암호화폐 인재가 돌아올 것\"이라고 말함"
   },
   {
    "s": "CNBC",
@@ -64,15 +70,15 @@
   },
   {
    "s": "CNA",
-   "t": "Bangladesh raises garment workers' minimum wage 36% after protests",
-   "u": "https://www.channelnewsasia.com/asia/bangladesh-raises-garment-workers-minimum-wage-after-protests-6580411",
-   "k": "방글라데시, 시위 후 의류 노동자 최저임금 36% 인상"
+   "t": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content",
+   "u": "https://www.channelnewsasia.com/business/malaysia-regulator-seeks-146-million-damages-google-over-harmful-content-6580801",
+   "k": "말레이시아 규제 당국, '유해' 콘텐츠로 인해 구글에 1억 4,600만 달러의 손해배상 청구"
   },
   {
    "s": "Straits Times",
-   "t": "Starbucks to engage banks for sale of Japan business",
-   "u": "https://www.straitstimes.com/business/starbucks-to-engage-banks-for-sale-of-japan-business",
-   "k": "스타벅스, 일본 사업 매각을 위해 은행과 협력"
+   "t": "Bitcoin funds head for worst month as outflows near US$5 billion",
+   "u": "https://www.straitstimes.com/business/bitcoin-funds-head-for-worst-month-as-outflows-near-us5-billion",
+   "k": "비트코인 펀드, 유출액이 50억 달러에 육박하며 최악의 한 달을 맞이하다"
   },
   {
    "s": "Bangkok Post",
@@ -106,21 +112,15 @@
   },
   {
    "s": "Economic Times",
-   "t": "Nvidia CEO accused of violating US export control law",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/democratic-senate-leader-accuses-nvidia-ceo-huang-of-violating-us-export-control-law/articleshow/136146418.cms",
-   "k": "Nvidia CEO, 미국 수출 통제법 위반 혐의로 기소"
+   "t": "₹15K cr from Tata sparks bad news for APL Apollo shares",
+   "u": "https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-shares-in-focus-as-brokerages-downgrade-cut-target-price-by-44-after-tata-steels-purchase/articleshow/136146849.cms",
+   "k": "타타(Tata)로부터 1,500억 루피를 조달한 APL 아폴로(APL Apollo) 주식에 악재가 겹쳤습니다."
   },
   {
    "s": "CNN",
-   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
-  },
-  {
-   "s": "CNN",
-   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
-   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
@@ -130,9 +130,9 @@
   },
   {
    "s": "CNBC",
-   "t": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-   "u": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-   "k": "월스트리트 AI 매도 여파가 아시아 기술주 전반에 미치면서 소프트뱅크 주가가 11% 이상 하락"
+   "t": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "k": "‘어떤 폭풍우에도 대비’: IMF가 경제 전망을 상향 조정하자 UAE 장관이 낙관적인 전망을 내놓다"
   },
   {
    "s": "CNBC",
@@ -177,10 +177,10 @@
    "k": "이스라엘의 정치적 불확실성이 이란과 요르단강 서안지구에 대한 논쟁에 어떤 영향을 미치고 있는지"
   },
   {
-   "s": "Straits Times",
-   "t": "Companies linked to restaurant chain Komala’s settle 20 CPF charges after paying dues",
-   "u": "https://www.straitstimes.com/business/companies-linked-to-restaurant-chain-komalas-settle-20-cpf-charges-after-paying-dues",
-   "k": "레스토랑 체인 Komala's와 관련된 회사들이 미납금을 납부한 후 20건의 CPF 위반 혐의를 해결하다"
+   "s": "CNA",
+   "t": "Bangladesh raises garment workers' minimum wage 36% after protests",
+   "u": "https://www.channelnewsasia.com/asia/bangladesh-raises-garment-workers-minimum-wage-after-protests-6580411",
+   "k": "방글라데시, 시위 후 의류 노동자 최저임금 36% 인상"
   }
  ]
 }
