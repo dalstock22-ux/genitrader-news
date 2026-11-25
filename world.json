@@ -1,34 +1,28 @@
 {
- "updated": "2026-11-25T19:40+09:00",
+ "updated": "2026-11-25T20:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ERzdYVUFDUHc2TjhFeklIOVFIM2tPZE4ycDBXamp4WHg2aXg3X1BBT0MwZUdsX09fa1c5VEhQNGp1RHRHd1RjZHVhaERkQ1htVTBqUjZELVZNLVVTS0s4aDZKZ2ZFRU9NTXFqZTVvWFhBSjY2?oc=5",
-   "k": "세계 최대 미인대회인 미스 유니버스가 또 한 번의 격동의 해를 보낸 후 우승자를 선정했습니다."
-  },
-  {
-   "s": "CNN",
-   "t": "Americans to spend nearly $1 billion more on gas this Thanksgiving",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4ZFlhdVd5dDV6TE5OLWR5d0p2NXZVS2x1X1ZZVnZZWkpiZ3ZXMG1tejJUQVZCR082bnhROVczaUlwdXR1NWZqLTdJSmxJOUxkS2hKWlEzaW11SWl1M25kd3lueEdjTnVkdkR0TGdMZlZPSml2?oc=5",
-   "k": "미국인들이 이번 추수감사절에 휘발유에 거의 10억 달러를 더 지출할 것으로 예상"
+   "t": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
+   "k": "Nvidia는 경제에 매우 중요합니다. AI의 소멸은 예상치 못한 결과를 초래할 수 있습니다."
   },
   {
    "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용해요' - 에너지 비용을 절감하는 방법"
+   "t": "Energy bills to rise by 26% from January after gas prices surge",
+   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+   "k": "1월부터 에너지 요금 26% 인상 예정"
   },
   {
    "s": "BBC",
-   "t": "US attorney general dodges questions about Nvidia investigation",
-   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
+   "t": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+   "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+   "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
   },
   {
    "s": "CNBC",
-   "t": "Budget carrier Norse Atlantic falls 81% after warning its finances are ‘critical’ amid soaring fuel costs",
+   "t": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
    "u": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
    "k": "저가 항공사 Norse Atlantic, 연료비 급등으로 인한 재정 '위기' 경고 후 주가 81% 하락"
   },
@@ -46,9 +40,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
-   "u": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-   "k": "이 전략가의 채권 거래 모델은 다른 모델을 크게 앞서고 있습니다. 그는 연준이 경기를 둔화시키는 것이 좋은 일이라고 주장합니다."
+   "t": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan",
+   "u": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+   "k": "JPMorgan은 S&P 500 지수가 8,200으로 향하고 있으며, 이러한 하락세가 실제로 그 이유 중 하나라고 말합니다."
   },
   {
    "s": "Moscow Times",
@@ -58,33 +52,33 @@
   },
   {
    "s": "TASS",
-   "t": "Pakistan seeks to boost trade with Russia to $5 bln annually — Energy Minister",
-   "u": "https://tass.com/economy/2224485",
-   "k": "파키스탄, 러시아와의 연간 교역액 50억 달러로 확대 추진 — 에너지부 장관"
+   "t": "AfD leader calls for resumption of gas and oil imports from Russia",
+   "u": "https://tass.com/economy/2224575",
+   "k": "독일 대안당(AfD) 대표, 러시아산 가스 및 석유 수입 재개 촉구"
   },
   {
    "s": "Al Jazeera",
-   "t": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-   "u": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
-   "k": "이란의 전기 배급제: 미국 제재와 봉쇄의 영향은 얼마나 심각한가?"
+   "t": "The cost of Nigeria’s power failures for one small business",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+   "k": "한 소규모 기업이 겪은 나이지리아의 정전 피해 비용"
   },
   {
    "s": "Arab News",
-   "t": "Saudi trade surplus widens 74.5% to $11.02bn on rising exports: GASTAT",
-   "u": "https://www.arabnews.com/business/saudi-trade-surplus-widens-745-to-1102bn-on-rising-exports-gastat-3013952",
-   "k": "사우디아라비아의 무역 흑자, 수출 증가로 74.5% 확대되어 110억 2천만 달러 기록: GASTAT"
+   "t": "GCC economies show resilience amid conflict disruption: PwC",
+   "u": "https://www.arabnews.com/business/gcc-economies-show-resilience-amid-conflict-disruption-pwc-3013970",
+   "k": "PwC, 분쟁으로 인한 혼란 속에서도 회복력을 보이는 GCC 경제"
   },
   {
    "s": "CNA",
-   "t": "Robots that clean toilets, deliver pastries: Resorts World Sentosa trials AI solutions for tourism sector",
-   "u": "https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641",
-   "k": "화장실 청소 및 제과류 배달을 수행하는 로봇: 리조트 월드 센토사, 관광 부문을 위한 AI 솔루션 시범 운영"
+   "t": "Trump set to add new sweeping tariffs, undeterred by midterms defeat",
+   "u": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566",
+   "k": "트럼프, 중간선거 패배에도 불구하고 새로운 대대적인 관세 부과 예정"
   },
   {
    "s": "Straits Times",
-   "t": "Indonesian company taking over tycoon’s seized forest land is Danantara unit, document shows",
-   "u": "https://www.straitstimes.com/business/indonesian-company-taking-over-tycoons-seized-forest-land-is-danantara-unit-document-shows",
-   "k": "문서에 따르면, 거물 사업가의 압류된 산림지를 인수하는 인도네시아 기업은 다난타라(Danantara)의 자회사인 것으로 나타났습니다."
+   "t": "Radiant World creditor Incomlend files to withdraw lawsuit",
+   "u": "https://www.straitstimes.com/business/radiant-world-creditor-incomlend-files-to-withdraw-lawsuit",
+   "k": "Radiant World 채권자인 Incomlend, 소송 취하 신청"
   },
   {
    "s": "Bangkok Post",
@@ -100,9 +94,9 @@
   },
   {
    "s": "MercoPress",
-   "t": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
-   "u": "https://en.mercopress.com/2026/11/25/argentina-enters-technical-recession-after-two-quarters-of-contraction-the-first-since-2024?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "아르헨티나, 2024년 이후 처음으로 2분기 연속 마이너스 성장을 기록하며 기술적 경기 침체에 진입"
+   "t": "Falklands commissions independent review (and survey) of the Tax system",
+   "u": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "k": "포클랜드 제도가 조세제도에 대한 독립적인 검토(및 설문조사)를 의뢰함"
   },
   {
    "s": "Buenos Aires Times",
@@ -112,9 +106,9 @@
   },
   {
    "s": "SCMP",
-   "t": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
-   "u": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
-   "k": "화웨이, 칩 및 AI 특허 팀 구성... 엔비디아와 경쟁할 생태계 구축 목표"
+   "t": "As profits fall, China’s carmakers pass financial strain on to suppliers, expert says",
+   "u": "https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says",
+   "k": "전문가에 따르면, 수익이 감소함에 따라 중국 자동차 제조업체들이 재정적 부담을 공급업체에 전가하고 있다고 합니다."
   },
   {
    "s": "Economic Times",
@@ -124,27 +118,33 @@
   },
   {
    "s": "CNN",
-   "t": "The Jensen Huang scandal has it all: sex, money and Trump",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZzhfQm9NT3RneXVlekJ3NjZmWlB5T2lZbkdYWGlmQTc5MlRpVy1ZTTVsVGJEZ3RuVFd5al9QOFlJNUNZMUpydHJWcHZIakdma0RYbEQ0eVdlWWdsRlhwN1JlQWk5YVhZRXBuNmQ3Y0E5Rjdz?oc=5",
-   "k": "젠슨 황 스캔들에는 섹스, 돈, 트럼프가 모두 등장합니다."
+   "t": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ERzdYVUFDUHc2TjhFeklIOVFIM2tPZE4ycDBXamp4WHg2aXg3X1BBT0MwZUdsX09fa1c5VEhQNGp1RHRHd1RjZHVhaERkQ1htVTBqUjZELVZNLVVTS0s4aDZKZ2ZFRU9NTXFqZTVvWFhBSjY2?oc=5",
+   "k": "세계 최대 미인대회인 미스 유니버스가 또 한 번의 격동의 해를 보낸 후 우승자를 선정했습니다."
+  },
+  {
+   "s": "CNN",
+   "t": "Americans to spend nearly $1 billion more on gas this Thanksgiving",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4ZFlhdVd5dDV6TE5OLWR5d0p2NXZVS2x1X1ZZVnZZWkpiZ3ZXMG1tejJUQVZCR082bnhROVczaUlwdXR1NWZqLTdJSmxJOUxkS2hKWlEzaW11SWl1M25kd3lueEdjTnVkdkR0TGdMZlZPSml2?oc=5",
+   "k": "미국인들이 이번 추수감사절에 휘발유에 거의 10억 달러를 더 지출할 것으로 예상"
   },
   {
    "s": "BBC",
-   "t": "Energy bills to rise by 26% from January after gas prices surge",
-   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-   "k": "1월부터 에너지 요금 26% 인상 예정"
+   "t": "Electric blankets and closed curtains - how we're coping with the energy bill rise",
+   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
+   "k": "'저는 일요일에만 세탁기를 사용해요' - 에너지 비용을 절감하는 방법"
   },
   {
    "s": "BBC",
-   "t": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-   "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
+   "t": "US attorney general dodges questions about Nvidia investigation",
+   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
   },
   {
    "s": "CNBC",
-   "t": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-   "u": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-   "k": "우크라이나가 푸틴에게 정유소 공격에 대해 '불평을 그만두라'고 말하자 러시아는 보복을 약속했습니다."
+   "t": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+   "u": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+   "k": "황씨 스캔들에 대한 트럼프의 개입으로 유권자들의 기술 기업의 과도한 정치적 영향력에 대한 우려가 다시 고조"
   },
   {
    "s": "CNBC",
@@ -160,9 +160,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-   "u": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-   "k": "카일리 제너, LA의 콘크리트 저택을 다시 3,800만 달러에 매물로 내놓다"
+   "t": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+   "u": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+   "k": "이 전략가의 채권 거래 모델은 다른 모델을 크게 앞서고 있습니다. 그는 연준이 경기를 둔화시키는 것이 좋은 일이라고 주장합니다."
   },
   {
    "s": "Moscow Times",
@@ -172,15 +172,15 @@
   },
   {
    "s": "TASS",
-   "t": "Russia, Pakistan discussing creation of free trade zone with EAEU",
-   "u": "https://tass.com/economy/2224449",
-   "k": "러시아와 파키스탄, 유라시아경제연합(EAEU)과의 자유무역지대 창설 논의 중"
+   "t": "Putin, Tokayev to attend AI forum on Thursday",
+   "u": "https://tass.com/politics/2224547",
+   "k": "푸틴 대통령과 토카예프 대통령, 목요일 AI 포럼 참석 예정"
   },
   {
    "s": "Al Jazeera",
-   "t": "Rising prices push families to the brink in Yemen’s Hodeidah",
-   "u": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
-   "k": "물가 상승으로 인해 예멘 호데이다의 가정들이 위기에 처했습니다."
+   "t": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+   "u": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+   "k": "조사를 받고 있는 중국 정치국 위원 첸 지닝은 누구인가?"
   }
  ]
 }
