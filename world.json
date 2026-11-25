@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-25T17:40+09:00",
+ "updated": "2026-11-25T18:40+09:00",
  "label": "WORLD NEWS",
  "items": [
+  {
+   "s": "CNN",
+   "t": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NLTNhb203Rk5zMHJDWlBqZ2RHbUdxYVJPQmFOTHFpQVhJTkw5a1RuSlp5cFhoSHNCSHBobGJCWm5CbHgtWVljT1NINTB6djBEWko0S1g1Z1lrMWt5c29kRE5ZY1RMbDdtSEl3d1hpZw?oc=5",
+   "k": "세계 최대 미인대회인 미스 유니버스가 또 한 번의 격동의 해를 보낸 후 우승자를 선정했습니다."
+  },
   {
    "s": "CNN",
    "t": "Americans to spend nearly $1 billion more on gas this Thanksgiving",
@@ -22,9 +28,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Treasury yields fall as investors await key inflation signal",
-   "u": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-   "k": "투자자들이 주요 인플레이션 신호를 기다리는 가운데 국채 수익률 하락"
+   "t": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+   "u": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+   "k": "우크라이나가 푸틴에게 정유소 공격에 대해 '불평을 그만두라'고 말하자 러시아는 보복을 약속했습니다."
   },
   {
    "s": "CNBC",
@@ -34,7 +40,7 @@
   },
   {
    "s": "Guardian",
-   "t": "Rise in energy bills in Britain to £2,166 is ‘an impossible high’ for millions of households; stocks tumble as AI rally fizzles – business live",
+   "t": "Campaigners call for emergency government support as average annual energy bill in Britain set to hit £2,166 – business live",
    "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
    "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
   },
@@ -46,39 +52,39 @@
   },
   {
    "s": "Moscow Times",
-   "t": "Putin Says Ukraine Hits Russian Oil Plants Despite Trump's Requests, Promises Retaliation",
-   "u": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367",
-   "k": "푸틴 대통령, 트럼프 대통령의 요청에도 불구하고 우크라이나가 러시아 정유 공장을 공격했다고 밝히며 보복을 약속"
+   "t": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
+   "u": "https://www.themoscowtimes.com/2026/11/25/one-killed-in-samara-region-as-ukraine-strikes-oil-refinery-a94368",
+   "k": "우크라이나가 정유소를 공격하면서 사마라 지역에서 1명 사망"
   },
   {
    "s": "TASS",
-   "t": "Two oil tankers strike mines in Strait of Hormuz — IRGC Navy",
-   "u": "https://tass.com/world/2224405",
-   "k": "호르무즈 해협에서 유조선 2척이 기뢰에 부딪힘 — 이란혁명수비대 해군"
+   "t": "Trade turnover between Russia, Pakistan gains 11% in January-September 2026",
+   "u": "https://tass.com/economy/2224437",
+   "k": "2026년 1~9월 러시아와 파키스탄 간 무역액 11% 증가"
   },
   {
    "s": "Al Jazeera",
-   "t": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
-   "u": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
-   "k": "인도네시아 금광 침수 사고로 매몰된 수십 명의 실종자 수색 중"
+   "t": "Rising prices push families to the brink in Yemen’s Hodeidah",
+   "u": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+   "k": "물가 상승으로 인해 예멘 호데이다의 가정들이 위기에 처했습니다."
   },
   {
    "s": "Arab News",
-   "t": "Israeli army opens investigation into use of Palestinians as human shields",
-   "u": "https://www.arabnews.com/middle-east/israeli-army-opens-investigation-into-use-of-palestinians-as-human-shields-3013947",
-   "k": "이스라엘군, 팔레스타인인을 인적 방패로 사용한 사건에 대한 조사 개시"
+   "t": "Saudi Arabia has no need to tap reserves, less exposed to oil shocks: finance minister",
+   "u": "https://www.arabnews.com/finance/saudi-arabia-has-no-need-to-tap-reserves-less-exposed-to-oil-shocks-finance-minister-3013957",
+   "k": "사우디아라비아, 석유 충격에 덜 노출되어 비축분을 사용할 필요가 없다 - 재무부 장관"
   },
   {
    "s": "CNA",
-   "t": "Group CEO of listed lubricant company gets jail for drink driving against flow of traffic",
-   "u": "https://www.channelnewsasia.com/singapore/group-ceo-listed-company-jail-drink-driving-6581096",
-   "k": "상장 윤활유 회사 그룹 CEO, 역주행 음주 운전으로 징역형 선고"
+   "t": "Oil slips 1% as supply glut prospect offsets Middle East disruption fears",
+   "u": "https://www.channelnewsasia.com/business/oil-slips-1-supply-glut-prospect-offsets-middle-east-disruption-fears-6580261",
+   "k": "공급 과잉 전망이 중동 지역의 공급 차질 우려를 상쇄하면서 유가 1% 하락"
   },
   {
    "s": "Straits Times",
-   "t": "Australian regulator finds more suspected audit misconduct at Big Four firms",
-   "u": "https://www.straitstimes.com/business/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms",
-   "k": "호주 규제 당국, 빅4 회계법인에서 더 많은 회계 감사 위법 행위 의혹 발견"
+   "t": "Indonesian company taking over tycoon’s seized forest land is Danantara unit, document shows",
+   "u": "https://www.straitstimes.com/business/indonesian-company-taking-over-tycoons-seized-forest-land-is-danantara-unit-document-shows",
+   "k": "문서에 따르면, 거물 사업가의 압류된 산림지를 인수하는 인도네시아 기업은 다난타라(Danantara)의 자회사인 것으로 나타났습니다."
   },
   {
    "s": "Bangkok Post",
@@ -106,21 +112,15 @@
   },
   {
    "s": "SCMP",
-   "t": "Chinese private funds retreat from record highs as AI bubble jitters hit Nvidia backers",
-   "u": "https://www.scmp.com/business/markets/article/3375713/chinese-private-funds-retreat-record-highs-ai-bubble-jitters-hit-nvidia-backers",
-   "k": "AI 버블 우려로 엔비디아 투자자들 동요하며 중국 사모펀드, 사상 최고치에서 하락"
+   "t": "AstraZeneca’s China strategy: fewer sales staff, more investment?",
+   "u": "https://www.scmp.com/business/companies/article/3375725/astrazenecas-china-strategy-fewer-sales-staff-more-investment",
+   "k": "아스트라제네카의 중국 전략: 영업 인력 감축, 투자 확대?"
   },
   {
    "s": "Economic Times",
-   "t": "Strata to invest Rs 250 cr in realty platform Reserve",
-   "u": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/strata-to-invest-rs-250-crore-in-real-estate-platform-reserve/articleshow/136149879.cms",
-   "k": "Strata, 부동산 플랫폼 Reserve에 250크로어(약 41억 6,000만원) 투자 예정"
-  },
-  {
-   "s": "CNN",
-   "t": "Breaking down Nvidia’s ‘boardroom blunder’",
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZjliNVdia3R5RmxObzR5djl6SGZseWh3Z3pHdkJxQktIRVRxNXBXZnRHU1Y2VzF3TlE1TXZmTkNaNXRycHdBeDdJT0lTOEE4UlJCQl8tNC1jUFdLT1MyVHk5eU5oUG5jLUJyZk10cGxkdlNWOUE?oc=5",
-   "k": "Nvidia의 '이사회 실수' 분석"
+   "t": "China calls fresh US tariff plans ‘political maneuvering’",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/china-slams-proposed-us-tariffs-as-political-maneuvering-and-calls-for-trade-unity/articleshow/136154515.cms",
+   "k": "중국, 미국의 새로운 관세 부과 계획을 '정치적 책략'이라고 비난"
   },
   {
    "s": "CNN",
@@ -136,9 +136,9 @@
   },
   {
    "s": "CNBC",
-   "t": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-   "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-   "k": "엔비디아의 반등이 빅테크 기업의 지출 압박을 가리는 가운데 AI 부채 우려가 커지고 있습니다."
+   "t": "Treasury yields fall as investors await key inflation signal",
+   "u": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+   "k": "투자자들이 주요 인플레이션 신호를 기다리는 가운데 국채 수익률 하락"
   },
   {
    "s": "CNBC",
@@ -148,9 +148,9 @@
   },
   {
    "s": "Guardian",
-   "t": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
-   "u": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
-   "k": "'자연의 오젬픽': 소비자들이 GLP-1의 효과를 모방하는 식품을 찾으면서 귀리 판매량이 급증"
+   "t": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
+   "u": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
+   "k": "M&G 사장, 컴패스(Compass)의 상장 폐지 이후 런던 증권거래소를 떠나는 기업들의 행렬을 막아야 한다고 영국 정부에 촉구"
   },
   {
    "s": "MarketWatch",
@@ -160,27 +160,27 @@
   },
   {
    "s": "Moscow Times",
-   "t": "State Duma Approves 2027-29 Budget With Record Military Spending",
-   "u": "https://www.themoscowtimes.com/2026/11/24/state-duma-approves-2027-29-budget-with-record-military-spending-a94361",
-   "k": "러시아 하원, 기록적인 군사 지출이 포함된 2027~2029년 예산안 승인"
+   "t": "Putin Says Ukraine Hits Russian Oil Plants Despite Trump's Requests, Promises Retaliation",
+   "u": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367",
+   "k": "푸틴 대통령, 트럼프 대통령의 요청에도 불구하고 우크라이나가 러시아 정유 공장을 공격했다고 밝히며 보복을 약속"
   },
   {
    "s": "TASS",
-   "t": "Houthis claim attack on oil refinery in Saudi Arabia",
-   "u": "https://tass.com/world/2224399",
-   "k": "후티 반군, 사우디아라비아 정유 공장 공격 주장"
+   "t": "France uses army reserves to supply Kiev as defense industry falls behind — expert",
+   "u": "https://tass.com/world/2224431",
+   "k": "방위 산업이 뒤처지면서 프랑스가 키이우에 군 예비 물자를 공급 — 전문가"
   },
   {
    "s": "Al Jazeera",
-   "t": "UK warns companies of potential Russian sabotage threat",
-   "u": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-   "k": "영국, 기업들에 잠재적인 러시아의 사보타주 위협 경고"
+   "t": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+   "u": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+   "k": "인도네시아 금광 침수 사고로 매몰된 수십 명의 실종자 수색 중"
   },
   {
    "s": "Arab News",
-   "t": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
-   "u": "https://www.arabnews.com/middle-east/iran-says-it-is-prepared-to-withstand-us-blockade-seeks-to-curb-price-rises-3013958",
-   "k": "이란, 미국 제재에 맞설 준비가 되어 있다고 밝히며 물가 상승 억제 노력"
+   "t": "Israeli army opens investigation into use of Palestinians as human shields",
+   "u": "https://www.arabnews.com/middle-east/israeli-army-opens-investigation-into-use-of-palestinians-as-human-shields-3013947",
+   "k": "이스라엘군, 팔레스타인인을 인적 방패로 사용한 사건에 대한 조사 개시"
   }
  ]
 }
