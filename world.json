@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:50+09:00",
+ "updated": "2026-11-25T22:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,9 +10,9 @@
   },
   {
    "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용합니다' - 에너지 요금을 절감하는 방법"
+   "t": "US announces new tariffs on host of countries including China",
+   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "BBC",
@@ -22,27 +22,27 @@
   },
   {
    "s": "CNBC",
-   "t": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-   "u": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-   "k": "트럼프 대통령의 황 스캔들 개입으로 인해 유권자들의 기술 분야의 과도한 정치적 영향력에 대한 우려가 다시 고조되고 있습니다."
+   "t": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+   "u": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "k": "연준이 선호하는 인플레이션 지표가 10월에 3.8%로 상승하며 금리 인상이 확실시됨"
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 이상의 것을 의미한다는 것을 보여줍니다."
+   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
   },
   {
    "s": "Guardian",
-   "t": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-   "u": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-   "k": "젠슨 황의 엔비디아 복귀로 인한 환희가 가라앉으면서 기술주 매도가 재개됨"
+   "t": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+   "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
-   "t": "Here’s how to find value in cybersecurity stocks after a strong year",
-   "u": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
-   "k": "강력한 한 해를 보낸 후 사이버 보안 주식에서 가치를 찾는 방법은 다음과 같습니다."
+   "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
   },
   {
    "s": "Moscow Times",
@@ -52,21 +52,21 @@
   },
   {
    "s": "TASS",
-   "t": "Russian finance ministry to reduce borrowings as budget revenues rise",
-   "u": "https://tass.com/economy/2224623",
-   "k": "러시아 재무부, 세입 증가에 따라 차입금 축소 예정"
+   "t": "Rosatom ready to offer Brunei nuclear industry creation package — CEO",
+   "u": "https://tass.com/economy/2224689",
+   "k": "로사톰, 브루나이 원자력 산업 구축 패키지 제공 준비 완료 — CEO"
   },
   {
    "s": "Al Jazeera",
-   "t": "‘People are going hungry’: Guinea’s gold mining crackdown",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
-   "k": "‘사람들이 굶주리고 있습니다’: 기니의 금광 단속"
+   "t": "Bangladesh garment workers protest over new wages",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+   "k": "방글라데시 의류 노동자들, 새로운 임금에 항의"
   },
   {
    "s": "Arab News",
-   "t": "GCC economies show resilience amid conflict disruption: PwC",
-   "u": "https://www.arabnews.com/business/gcc-economies-show-resilience-amid-conflict-disruption-pwc-3013970",
-   "k": "PwC: 분쟁으로 인한 혼란 속에서도 회복력을 보이는 걸프협력회의(GCC) 경제"
+   "t": "GWC Group launches Europe–Saudi freight corridor to keep supply chains moving",
+   "u": "https://www.arabnews.com/business/gwc-group-launches-europesaudi-freight-corridor-to-keep-supply-chains-moving-3013978",
+   "k": "GWC 그룹, 공급망 가동 유지 차원에서 유럽-사우디아라비아 화물 운송 코리도 개설"
   },
   {
    "s": "CNA",
@@ -78,31 +78,31 @@
    "s": "Straits Times",
    "t": "Radiant World creditor Incomlend files to withdraw lawsuit",
    "u": "https://www.straitstimes.com/business/radiant-world-creditor-incomlend-files-to-withdraw-lawsuit",
-   "k": "Radiant World 채권자 Incomlend, 소송 취하 신청"
+   "k": "Radiant World 채권자인 Incomlend, 소송 취하 신청"
   },
   {
    "s": "Bangkok Post",
    "t": "Huawei says US conviction ‘without legal or factual merit’",
    "u": "https://www.bangkokpost.com/business/general/3360969/huawei-says-us-conviction-without-legal-or-factual-merit",
-   "k": "화웨이, 미국 유죄 판결에 대해 '법적 또는 사실적 근거가 없다'고 밝혀"
+   "k": "화웨이, 미국 유죄 판결에 대해 '법적 또는 사실적 근거가 없다'고 주장"
   },
   {
    "s": "Euronews",
-   "t": "Around 3.7 million jobs are directly at risk in Europe's struggling industry, report says",
-   "u": "https://www.euronews.com/2026/11/25/around-37-million-jobs-are-directly-at-risk-in-europes-struggling-industry-report-says",
-   "k": "보고서에 따르면, 유럽의 어려움을 겪고 있는 산업에서 약 370만 개의 일자리가 직접적인 위험에 처해 있습니다."
+   "t": "Greek tourism revenues are up 9.7%, generating almost €22bn in nine months",
+   "u": "https://www.euronews.com/2026/11/25/greek-tourism-revenues-are-up-97-generating-almost-22bn-in-nine-months",
+   "k": "그리스 관광 수입이 9.7% 증가하며 9개월 만에 거의 220억 유로를 창출했습니다."
   },
   {
    "s": "MercoPress",
    "t": "Falklands commissions independent review (and survey) of the Tax system",
    "u": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "포클랜드, 조세제도에 대한 독립적 검토(및 설문조사) 위임"
+   "k": "포클랜드 제도가 조세제도에 대한 독립적인 검토(및 설문조사)를 의뢰함"
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Argentina entered recession in third quarter, economists say",
-   "u": "https://www.batimes.com.ar/news/economy/argentina-entered-recession-in-third-quarter-economists-say.phtml",
-   "k": "경제학자들에 따르면 아르헨티나는 3분기에 경기 침체에 진입했다고 합니다."
+   "t": "Key Milei ally Bullrich says re-election at risk unless Argentina's economy improves",
+   "u": "https://www.batimes.com.ar/news/argentina/key-milei-ally-bullrich-says-re-election-at-risk-unless-argentinas-economy-improves.phtml",
+   "k": "밀레이 대통령의 핵심 동맹인 불리치 의원, 아르헨티나 경제가 개선되지 않으면 재선이 위험에 처할 것이라고 말해"
   },
   {
    "s": "SCMP",
@@ -114,49 +114,43 @@
    "s": "Economic Times",
    "t": "Manchester City's post-Guardiola identity crisis",
    "u": "https://economictimes.indiatimes.com/news/sports/football/manchester-citys-post-guardiola-identity-crisis-midfield-muddle-scoring-woes-and-a-financial-scandal-cloud-early-maresca-era/articleshow/136160892.cms",
-   "k": "맨체스터 시티의 과르디올라 감독 이후 정체성 위기"
+   "k": "맨체스터 시티의 과르디올라 이후 정체성 위기"
   },
   {
    "s": "CNN",
    "t": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
-   "k": "Nvidia는 경제에 매우 중요합니다. AI의 붕괴는 예상치 못한 결과를 초래할 수 있습니다."
+   "k": "Nvidia는 경제에 매우 중요합니다. AI의 소멸은 예상치 못한 결과를 초래할 수 있습니다."
   },
   {
    "s": "BBC",
-   "t": "Energy bills to rise by 26% from January after gas prices surge",
-   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-   "k": "가스 가격 급등에 따라 1월부터 에너지 요금 26% 인상 예정"
+   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
+   "k": "'저는 일요일에만 세탁기를 사용해요' - 에너지 비용을 절감하는 방법"
   },
   {
    "s": "BBC",
    "t": "US attorney general dodges questions about Nvidia investigation",
    "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-   "k": "미국 정치인들이 젠슨 황의 복귀에 트럼프의 역할이 있었는지 의문을 제기하면서 엔비디아 주가가 하락했습니다."
+   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
   },
   {
    "s": "CNBC",
-   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험에 들게 하다"
-  },
-  {
-   "s": "CNBC",
-   "t": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-   "u": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-   "k": "Kalshi의 '무기한' 거래 일일 거래량이 예측 시장을 앞지르기 시작"
+   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
   },
   {
    "s": "Guardian",
-   "t": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-   "u": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-   "k": "엔비디아 CEO 젠슨 황, 직원들에게 사과: ‘끔찍한 실수를 저질렀습니다’"
+   "t": "Amazon to start selling cars in the UK next year",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+   "k": "아마존, 내년 영국에서 자동차 판매 시작 예정"
   },
   {
    "s": "MarketWatch",
-   "t": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
-   "u": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-   "k": "이 전략가의 채권 거래 모델은 다른 모델을 크게 앞서고 있습니다. 그는 연준이 경기를 둔화시키는 것이 좋은 일이라고 말합니다."
+   "t": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+   "u": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
+   "k": "젠슨 황의 엔비디아 복귀가 초래한 실제 비용: 기업 및 전체 AI 산업의 규제 비용 증가"
   },
   {
    "s": "Moscow Times",
@@ -166,21 +160,27 @@
   },
   {
    "s": "TASS",
-   "t": "Russian budget to be ready for drop in oil prices should Middle East situation stabilize",
-   "u": "https://tass.com/economy/2224621",
-   "k": "중동 상황이 안정될 경우 유가 하락에 대비해야 하는 러시아 예산"
+   "t": "Russia ready to assist Brunei with oil and gas extraction in challenging areas — Putin",
+   "u": "https://tass.com/politics/2224663",
+   "k": "러시아, 브루나이의 어려운 지역 석유 및 가스 채굴 지원 준비 완료 — 푸틴 대통령"
   },
   {
    "s": "Al Jazeera",
-   "t": "The cost of Nigeria’s power failures for one small business",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
-   "k": "한 소규모 기업이 겪는 나이지리아의 정전 피해 비용"
+   "t": "‘People are going hungry’: Guinea’s gold mining crackdown",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
+   "k": "‘사람들이 굶주리고 있습니다’: 기니의 금광 단속"
   },
   {
    "s": "Arab News",
-   "t": "Saudi trade surplus widens 74.5% to $11.02bn on rising exports: GASTAT",
-   "u": "https://www.arabnews.com/business/saudi-trade-surplus-widens-745-to-1102bn-on-rising-exports-gastat-3013952",
-   "k": "사우디아라비아의 무역 흑자, 수출 증가로 74.5% 증가한 110억 2천만 달러 기록: GASTAT"
+   "t": "GCC economies show resilience amid conflict disruption: PwC",
+   "u": "https://www.arabnews.com/business/gcc-economies-show-resilience-amid-conflict-disruption-pwc-3013970",
+   "k": "PwC, 분쟁으로 인한 혼란 속에서도 회복력을 보이는 GCC 경제"
+  },
+  {
+   "s": "CNA",
+   "t": "Trump set to add new sweeping tariffs, undeterred by midterms defeat",
+   "u": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566",
+   "k": "트럼프, 중간선거 패배에도 불구하고 새로운 대대적인 관세 부과 예정"
   }
  ]
 }
