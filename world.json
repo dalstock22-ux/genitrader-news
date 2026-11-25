@@ -1,13 +1,7 @@
 {
- "updated": "2026-11-25T16:40+09:00",
+ "updated": "2026-11-25T17:40+09:00",
  "label": "WORLD NEWS",
  "items": [
-  {
-   "s": "CNN",
-   "t": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NLTNhb203Rk5zMHJDWlBqZ2RHbUdxYVJPQmFOTHFpQVhJTkw5a1RuSlp5cFhoSHNCSHBobGJCWm5CbHgtWVljT1NINTB6djBEWko0S1g1Z1lrMWt5c29kRE5ZY1RMbDdtSEl3d1hpZw?oc=5",
-   "k": "세계 최대 미인대회인 미스 유니버스가 또 한 번의 격동의 해를 보낸 후 우승자를 선정했습니다."
-  },
   {
    "s": "CNN",
    "t": "Americans to spend nearly $1 billion more on gas this Thanksgiving",
@@ -28,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-   "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-   "k": "엔비디아의 반등이 빅테크 기업의 지출 압박을 가리는 가운데 AI 부채 우려가 커지고 있습니다."
+   "t": "Treasury yields fall as investors await key inflation signal",
+   "u": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+   "k": "투자자들이 주요 인플레이션 신호를 기다리는 가운데 국채 수익률 하락"
   },
   {
    "s": "CNBC",
@@ -40,9 +34,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
-   "u": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
-   "k": "영국의 에너지 요금이 1월에 26% 인상되어 연간 요금이 2,000파운드 이상으로 오를 전망입니다."
+   "t": "Rise in energy bills in Britain to £2,166 is ‘an impossible high’ for millions of households; stocks tumble as AI rally fizzles – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+   "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
@@ -58,27 +52,27 @@
   },
   {
    "s": "TASS",
-   "t": "Russian stocks down as main trading session opens",
-   "u": "https://tass.com/economy/2224389",
-   "k": "러시아 주식, 주요 거래 세션 개장과 함께 하락"
+   "t": "Two oil tankers strike mines in Strait of Hormuz — IRGC Navy",
+   "u": "https://tass.com/world/2224405",
+   "k": "호르무즈 해협에서 유조선 2척이 기뢰에 부딪힘 — 이란혁명수비대 해군"
   },
   {
    "s": "Al Jazeera",
-   "t": "UK warns companies of potential Russian sabotage threat",
-   "u": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-   "k": "영국, 기업들에 잠재적인 러시아의 사보타주 위협 경고"
+   "t": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+   "u": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+   "k": "인도네시아 금광 침수 사고로 매몰된 수십 명의 실종자 수색 중"
   },
   {
    "s": "Arab News",
-   "t": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears",
-   "u": "https://www.arabnews.com/energy/oil-slips-over-1-as-supply-glut-prospect-offsets-middle-east-disruption-fears-3013948",
-   "k": "공급 과잉 전망이 중동 지역의 공급 차질 우려를 상쇄하면서 유가가 1% 이상 하락"
+   "t": "Israeli army opens investigation into use of Palestinians as human shields",
+   "u": "https://www.arabnews.com/middle-east/israeli-army-opens-investigation-into-use-of-palestinians-as-human-shields-3013947",
+   "k": "이스라엘군, 팔레스타인인을 인적 방패로 사용한 사건에 대한 조사 개시"
   },
   {
    "s": "CNA",
-   "t": "Beyond business as usual",
-   "u": "https://www.channelnewsasia.com/brand-studio/beyond-business-usual-6458241",
-   "k": "일상적인 비즈니스를 넘어"
+   "t": "Group CEO of listed lubricant company gets jail for drink driving against flow of traffic",
+   "u": "https://www.channelnewsasia.com/singapore/group-ceo-listed-company-jail-drink-driving-6581096",
+   "k": "상장 윤활유 회사 그룹 CEO, 역주행 음주 운전으로 징역형 선고"
   },
   {
    "s": "Straits Times",
@@ -88,15 +82,15 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "B.Grimm, NTT plan B113bn data centre",
-   "u": "https://www.bangkokpost.com/business/general/3360699/bgrimm-ntt-plan-b113bn-data-centre",
-   "k": "B.Grimm, NTT 1,130억 바트 규모 데이터 센터 계획"
+   "t": "Tech firms back in crosshairs as Huang rally reverses",
+   "u": "https://www.bangkokpost.com/business/general/3361046/tech-firms-back-in-crosshairs-as-huang-rally-reverses",
+   "k": "황 젠선 CEO의 랠리가 역전되면서 다시 주목받는 기술 기업들"
   },
   {
    "s": "Euronews",
-   "t": "Spain's economy is booming. Why are real wages still below their 2009 peak?",
-   "u": "https://www.euronews.com/2026/11/25/spains-economy-is-booming-why-are-real-wages-still-below-their-2009-peak",
-   "k": "스페인 경제는 호황을 누리고 있습니다. 실질 임금이 왜 여전히 2009년 최고치보다 낮은 걸까요?"
+   "t": "BYD plans car production in France to boost its push into the European market",
+   "u": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market",
+   "k": "BYD, 유럽 시장 진출을 가속화하기 위해 프랑스에서 자동차 생산 계획"
   },
   {
    "s": "MercoPress",
@@ -112,15 +106,21 @@
   },
   {
    "s": "SCMP",
-   "t": "Shein to pay US$100 million to settle US shipping, customer service claims",
-   "u": "https://www.scmp.com/tech/article/3375701/shein-pay-us100-million-settle-us-shipping-customer-service-claims",
-   "k": "Shein, 미국 내 배송 및 고객 서비스 관련 소송을 해결하기 위해 1억 달러 지급 예정"
+   "t": "Chinese private funds retreat from record highs as AI bubble jitters hit Nvidia backers",
+   "u": "https://www.scmp.com/business/markets/article/3375713/chinese-private-funds-retreat-record-highs-ai-bubble-jitters-hit-nvidia-backers",
+   "k": "AI 버블 우려로 엔비디아 투자자들 동요하며 중국 사모펀드, 사상 최고치에서 하락"
   },
   {
    "s": "Economic Times",
    "t": "Strata to invest Rs 250 cr in realty platform Reserve",
    "u": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/strata-to-invest-rs-250-crore-in-real-estate-platform-reserve/articleshow/136149879.cms",
    "k": "Strata, 부동산 플랫폼 Reserve에 250크로어(약 41억 6,000만원) 투자 예정"
+  },
+  {
+   "s": "CNN",
+   "t": "Breaking down Nvidia’s ‘boardroom blunder’",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZjliNVdia3R5RmxObzR5djl6SGZseWh3Z3pHdkJxQktIRVRxNXBXZnRHU1Y2VzF3TlE1TXZmTkNaNXRycHdBeDdJT0lTOEE4UlJCQl8tNC1jUFdLT1MyVHk5eU5oUG5jLUJyZk10cGxkdlNWOUE?oc=5",
+   "k": "Nvidia의 '이사회 실수' 분석"
   },
   {
    "s": "CNN",
@@ -136,9 +136,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-   "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-   "k": "아서 헤이즈, \"AI가 붕괴될 때 암호화폐 인재가 돌아올 것\"이라고 말함"
+   "t": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+   "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+   "k": "엔비디아의 반등이 빅테크 기업의 지출 압박을 가리는 가운데 AI 부채 우려가 커지고 있습니다."
   },
   {
    "s": "CNBC",
@@ -166,21 +166,21 @@
   },
   {
    "s": "TASS",
-   "t": "Silver price down below $40 per troy ounce first since last August",
-   "u": "https://tass.com/economy/2224387",
-   "k": "지난 8월 이후 처음으로 은 가격이 트로이 온스당 40달러 아래로 하락"
+   "t": "Houthis claim attack on oil refinery in Saudi Arabia",
+   "u": "https://tass.com/world/2224399",
+   "k": "후티 반군, 사우디아라비아 정유 공장 공격 주장"
   },
   {
    "s": "Al Jazeera",
-   "t": "Protesters clash with police over Venezuela’s poor minimum wage",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
-   "k": "베네수엘라의 낮은 최저임금에 항의하는 시위대와 경찰이 충돌하다"
+   "t": "UK warns companies of potential Russian sabotage threat",
+   "u": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+   "k": "영국, 기업들에 잠재적인 러시아의 사보타주 위협 경고"
   },
   {
    "s": "Arab News",
-   "t": "IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media",
-   "u": "https://www.arabnews.com/middle-east/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media-3013942",
-   "k": "이란혁명수비대 해군, 호르무즈 해협에서 유조선 2척이 기뢰에 맞아 화재 발생했다고 밝혀 - 국영 매체"
+   "t": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+   "u": "https://www.arabnews.com/middle-east/iran-says-it-is-prepared-to-withstand-us-blockade-seeks-to-curb-price-rises-3013958",
+   "k": "이란, 미국 제재에 맞설 준비가 되어 있다고 밝히며 물가 상승 억제 노력"
   }
  ]
 }
