@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:27:19+09:00",
+  "updated": "2026-11-25T12:02:12+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.633%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125090600008",
+      "published": "2026-11-25T11:40:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "코스피 장중 5%대 급락세 지속…삼전·닉스 8%대 하락",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125083800008",
+      "published": "2026-11-25T11:18:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "삼성동 옛 한국감정원 부지에 38층 업무·마이스 복합시설 들어선다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611258466i",
+      "published": "2026-11-25T11:15:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "중소기업 83% \"정년 연장보다 '퇴직 후 재고용' 선호\"",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261125053700030",
@@ -59,6 +80,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112587617",
       "published": "2026-11-25T09:59:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "사노피, 인스메드 410억달러에 인수…특허절벽 대비",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611258539i",
+      "published": "2026-11-25T09:20:00+09:00"
     },
     {
       "category": "부동산",
@@ -80,6 +108,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112581317",
       "published": "2026-11-25T06:16:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[속보] \"美 USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112480347",
+      "published": "2026-11-24T22:35:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -122,6 +157,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112476131",
       "published": "2026-11-24T17:17:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "공공택지 건물 4개월 내 넘기면 보상금 30% 더 받는다",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112476061",
+      "published": "2026-11-24T17:15:00+09:00"
     },
     {
       "category": "해외시장",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261123032251008",
       "published": "2026-11-23T09:36:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261123030651002",
-      "published": "2026-11-23T09:11:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "3기 신도시 첫 집들이 하는데…12월 전국 입주물량 '반토막'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112330506",
-      "published": "2026-11-23T08:39:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "고물가에도 지갑 여는 미국인들…연말 소비 1조달러 전망",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611232915i",
-      "published": "2026-11-23T08:11:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美민주, 한국 3500억달러 대미투자 들여다본다…관세 청문회 추진",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112329517",
-      "published": "2026-11-23T08:09:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "\"민주당 탓에 8000조 증발\"…'증시 폭락' 책임 돌린 트럼프",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112328777",
-      "published": "2026-11-23T07:45:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프 \"이란, 말만 하는 탭댄서…합의 없으면 새해 공격할 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112327967",
-      "published": "2026-11-23T06:42:00+09:00"
     }
   ]
 }
