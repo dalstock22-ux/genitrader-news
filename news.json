@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:11:19+09:00",
+  "updated": "2026-11-26T08:59:44+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "급락장에 자사주 1일 취득 한도 완화…증시 버팀목 효과는?",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125170400008",
+      "published": "2026-11-26T08:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "[마켓뷰] 추가 변동성? 반등 시도? 코스피 향배 주목",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261126000900008",
+      "published": "2026-11-26T07:58:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "[속보] 美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112506197",
+      "published": "2026-11-25T22:20:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "산업장관 \"중국에 밀릴 수도…52시간 특례 내일이라도 시작해야\"",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261125163400003",
@@ -59,6 +80,20 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112501581",
       "published": "2026-11-25T17:47:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "\"중산층도 사는 공적주택 年 24만가구 공급\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112503571",
+      "published": "2026-11-25T17:46:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美 연방은행 3분의 2…\"12월 금리인상 지지\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112502221",
+      "published": "2026-11-25T17:26:00+09:00"
     },
     {
       "category": "부동산",
@@ -87,6 +122,13 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261125149151008",
       "published": "2026-11-25T17:05:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울시, 도정법 개정안 철회 요구…\"권한 쪼갠다고 재건축 빨라지나\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611259424i",
+      "published": "2026-11-25T14:16:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611235359i",
       "published": "2026-11-23T23:58:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "젠슨 황 복귀에 엔비디아 30% 폭등…AI·반도체주 동반 급등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611235357i",
-      "published": "2026-11-23T23:47:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "초과세수 10조 지방에 푼다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112350731",
-      "published": "2026-11-23T17:42:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프에 칼 뺀 민주 \"韓 대미투자 세부내용 들여다볼 것\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112349971",
-      "published": "2026-11-23T17:31:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"내년에도 수출 1조달러 넘어…반도체 비중 첫 50% 돌파\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112349791",
-      "published": "2026-11-23T17:27:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "준공업지 임대비율 조정…재건축 사업성 높아지나",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112349041",
-      "published": "2026-11-23T17:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "강남3구·용산에 청약 '절반' 몰렸다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112349051",
-      "published": "2026-11-23T17:19:00+09:00"
     }
   ]
 }
