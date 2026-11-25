@@ -1,18 +1,24 @@
 {
- "updated": "2026-11-25T15:40+09:00",
+ "updated": "2026-11-25T16:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Breaking down Nvidia’s ‘boardroom blunder’",
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZjliNVdia3R5RmxObzR5djl6SGZseWh3Z3pHdkJxQktIRVRxNXBXZnRHU1Y2VzF3TlE1TXZmTkNaNXRycHdBeDdJT0lTOEE4UlJCQl8tNC1jUFdLT1MyVHk5eU5oUG5jLUJyZk10cGxkdlNWOUE?oc=5",
-   "k": "Nvidia의 '이사회 실수' 분석"
+   "t": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NLTNhb203Rk5zMHJDWlBqZ2RHbUdxYVJPQmFOTHFpQVhJTkw5a1RuSlp5cFhoSHNCSHBobGJCWm5CbHgtWVljT1NINTB6djBEWko0S1g1Z1lrMWt5c29kRE5ZY1RMbDdtSEl3d1hpZw?oc=5",
+   "k": "세계 최대 미인대회인 미스 유니버스가 또 한 번의 격동의 해를 보낸 후 우승자를 선정했습니다."
   },
   {
    "s": "CNN",
-   "t": "The Jensen Huang scandal has it all: sex, money and Trump",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZzhfQm9NT3RneXVlekJ3NjZmWlB5T2lZbkdYWGlmQTc5MlRpVy1ZTTVsVGJEZ3RuVFd5al9QOFlJNUNZMUpydHJWcHZIakdma0RYbEQ0eVdlWWdsRlhwN1JlQWk5YVhZRXBuNmQ3Y0E5Rjdz?oc=5",
-   "k": "젠슨 황 스캔들에는 섹스, 돈, 트럼프가 모두 등장합니다."
+   "t": "Americans to spend nearly $1 billion more on gas this Thanksgiving",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4ZFlhdVd5dDV6TE5OLWR5d0p2NXZVS2x1X1ZZVnZZWkpiZ3ZXMG1tejJUQVZCR082bnhROVczaUlwdXR1NWZqLTdJSmxJOUxkS2hKWlEzaW11SWl1M25kd3lueEdjTnVkdkR0TGdMZlZPSml2?oc=5",
+   "k": "미국인들이 이번 추수감사절에 휘발유에 거의 10억 달러를 더 지출할 것으로 예상"
+  },
+  {
+   "s": "BBC",
+   "t": "Energy bills to rise by 26% from January",
+   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+   "k": "1월부터 에너지 요금 26% 인상 예정"
   },
   {
    "s": "BBC",
@@ -22,9 +28,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-   "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-   "k": "아서 헤이즈, \"AI가 붕괴될 때 암호화폐 인재가 돌아올 것\"이라고 말함"
+   "t": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+   "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+   "k": "엔비디아의 반등이 빅테크 기업의 지출 압박을 가리는 가운데 AI 부채 우려가 커지고 있습니다."
   },
   {
    "s": "CNBC",
@@ -34,9 +40,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Standard owner Lord Lebedev cuts £5m off price of London mansion",
-   "u": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
-   "k": "스탠다드 소유주인 로드 레베데프, 런던 저택 가격에서 5백만 파운드 깎아"
+   "t": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
+   "u": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+   "k": "영국의 에너지 요금이 1월에 26% 인상되어 연간 요금이 2,000파운드 이상으로 오를 전망입니다."
   },
   {
    "s": "MarketWatch",
@@ -52,9 +58,9 @@
   },
   {
    "s": "TASS",
-   "t": "Pillars of international security remain relevant despite technological changes — Nebenzya",
-   "u": "https://tass.com/politics/2224327",
-   "k": "기술적 변화에도 불구하고 국제 안보의 핵심 요소는 여전히 유효 — 네벤지아 대사"
+   "t": "Russian stocks down as main trading session opens",
+   "u": "https://tass.com/economy/2224389",
+   "k": "러시아 주식, 주요 거래 세션 개장과 함께 하락"
   },
   {
    "s": "Al Jazeera",
@@ -64,21 +70,21 @@
   },
   {
    "s": "Arab News",
-   "t": "IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media",
-   "u": "https://www.arabnews.com/middle-east/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media-3013942",
-   "k": "이란혁명수비대 해군, 호르무즈 해협에서 유조선 2척이 기뢰에 맞아 화재 발생했다고 밝혀 - 국영 매체"
+   "t": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears",
+   "u": "https://www.arabnews.com/energy/oil-slips-over-1-as-supply-glut-prospect-offsets-middle-east-disruption-fears-3013948",
+   "k": "공급 과잉 전망이 중동 지역의 공급 차질 우려를 상쇄하면서 유가가 1% 이상 하락"
   },
   {
    "s": "CNA",
-   "t": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content",
-   "u": "https://www.channelnewsasia.com/business/malaysia-regulator-seeks-146-million-damages-google-over-harmful-content-6580801",
-   "k": "말레이시아 규제 당국, '유해' 콘텐츠로 인해 구글에 1억 4,600만 달러의 손해배상 청구"
+   "t": "Beyond business as usual",
+   "u": "https://www.channelnewsasia.com/brand-studio/beyond-business-usual-6458241",
+   "k": "일상적인 비즈니스를 넘어"
   },
   {
    "s": "Straits Times",
-   "t": "Bitcoin funds head for worst month as outflows near US$5 billion",
-   "u": "https://www.straitstimes.com/business/bitcoin-funds-head-for-worst-month-as-outflows-near-us5-billion",
-   "k": "비트코인 펀드, 유출액이 50억 달러에 육박하며 최악의 한 달을 맞이하다"
+   "t": "Australian regulator finds more suspected audit misconduct at Big Four firms",
+   "u": "https://www.straitstimes.com/business/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms",
+   "k": "호주 규제 당국, 빅4 회계법인에서 더 많은 회계 감사 위법 행위 의혹 발견"
   },
   {
    "s": "Bangkok Post",
@@ -88,9 +94,9 @@
   },
   {
    "s": "Euronews",
-   "t": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
-   "u": "https://www.euronews.com/2026/11/24/why-french-pharma-firm-sanofi-is-paying-41-billion-for-us-company-insmed",
-   "k": "프랑스 제약사 사노피가 미국 기업 인스메드에 410억 달러를 지불하는 이유"
+   "t": "Spain's economy is booming. Why are real wages still below their 2009 peak?",
+   "u": "https://www.euronews.com/2026/11/25/spains-economy-is-booming-why-are-real-wages-still-below-their-2009-peak",
+   "k": "스페인 경제는 호황을 누리고 있습니다. 실질 임금이 왜 여전히 2009년 최고치보다 낮은 걸까요?"
   },
   {
    "s": "MercoPress",
@@ -112,27 +118,27 @@
   },
   {
    "s": "Economic Times",
-   "t": "₹15K cr from Tata sparks bad news for APL Apollo shares",
-   "u": "https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-shares-in-focus-as-brokerages-downgrade-cut-target-price-by-44-after-tata-steels-purchase/articleshow/136146849.cms",
-   "k": "타타(Tata)로부터 1,500억 루피를 조달한 APL 아폴로(APL Apollo) 주식에 악재가 겹쳤습니다."
+   "t": "Strata to invest Rs 250 cr in realty platform Reserve",
+   "u": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/strata-to-invest-rs-250-crore-in-real-estate-platform-reserve/articleshow/136149879.cms",
+   "k": "Strata, 부동산 플랫폼 Reserve에 250크로어(약 41억 6,000만원) 투자 예정"
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "The Jensen Huang scandal has it all: sex, money and Trump",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZzhfQm9NT3RneXVlekJ3NjZmWlB5T2lZbkdYWGlmQTc5MlRpVy1ZTTVsVGJEZ3RuVFd5al9QOFlJNUNZMUpydHJWcHZIakdma0RYbEQ0eVdlWWdsRlhwN1JlQWk5YVhZRXBuNmQ3Y0E5Rjdz?oc=5",
+   "k": "젠슨 황 스캔들에는 섹스, 돈, 트럼프가 모두 등장합니다."
   },
   {
    "s": "BBC",
-   "t": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "t": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
    "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
    "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
   },
   {
    "s": "CNBC",
-   "t": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-   "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-   "k": "‘어떤 폭풍우에도 대비’: IMF가 경제 전망을 상향 조정하자 UAE 장관이 낙관적인 전망을 내놓다"
+   "t": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+   "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+   "k": "아서 헤이즈, \"AI가 붕괴될 때 암호화폐 인재가 돌아올 것\"이라고 말함"
   },
   {
    "s": "CNBC",
@@ -142,9 +148,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Compass’s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
-   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
-   "k": "컴패스의 미국 상장 논리는 허술하지만, 영국 장관들은 FTSE 상장 폐지 위험에 대해 각성해야 합니다 | 닐스 프랫리"
+   "t": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
+   "u": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+   "k": "'자연의 오젬픽': 소비자들이 GLP-1의 효과를 모방하는 식품을 찾으면서 귀리 판매량이 급증"
   },
   {
    "s": "MarketWatch",
@@ -160,9 +166,9 @@
   },
   {
    "s": "TASS",
-   "t": "Extra-regional countries wage proxy war against Pakistan using Afghans — ambassador",
-   "u": "https://tass.com/world/2224323",
-   "k": "아프간인을 이용해 파키스탄에 대리전을 벌이는 역외 국가들 — 대사"
+   "t": "Silver price down below $40 per troy ounce first since last August",
+   "u": "https://tass.com/economy/2224387",
+   "k": "지난 8월 이후 처음으로 은 가격이 트로이 온스당 40달러 아래로 하락"
   },
   {
    "s": "Al Jazeera",
@@ -172,15 +178,9 @@
   },
   {
    "s": "Arab News",
-   "t": "How Israel’s political uncertainty is shaping the debate over Iran and the West Bank",
-   "u": "https://www.arabnews.com/middle-east/how-israels-political-uncertainty-is-shaping-the-debate-over-iran-and-the-west-bank-3013832",
-   "k": "이스라엘의 정치적 불확실성이 이란과 요르단강 서안지구에 대한 논쟁에 어떤 영향을 미치고 있는지"
-  },
-  {
-   "s": "CNA",
-   "t": "Bangladesh raises garment workers' minimum wage 36% after protests",
-   "u": "https://www.channelnewsasia.com/asia/bangladesh-raises-garment-workers-minimum-wage-after-protests-6580411",
-   "k": "방글라데시, 시위 후 의류 노동자 최저임금 36% 인상"
+   "t": "IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media",
+   "u": "https://www.arabnews.com/middle-east/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media-3013942",
+   "k": "이란혁명수비대 해군, 호르무즈 해협에서 유조선 2척이 기뢰에 맞아 화재 발생했다고 밝혀 - 국영 매체"
   }
  ]
 }
