@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T22:40+09:00",
+ "updated": "2026-11-25T23:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Why it’s getting harder to tell first and business class cabins apart",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUW1nVHRxc3EzaFhWeFFwY29ObF9XdVUwczVPQVAzY2RRM2xWbjNMTXpYRUswWURMYVByQ0pqdUhHRmEyS1VwbXhBUFR6akhlUy02Qmczcl9mRWRPOGMxem9YamtuMjNiRk9xM0JObC0tMUNPcU1VLQ?oc=5",
-   "k": "퍼스트 클래스와 비즈니스 클래스 좌석을 구분하기가 점점 어려워지는 이유"
+   "t": "Trump targets China in new round of tariffs",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+   "k": "트럼프 대통령, 새로운 관세 부과 조치로 중국을 겨냥"
   },
   {
    "s": "BBC",
@@ -22,15 +22,15 @@
   },
   {
    "s": "CNBC",
-   "t": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-   "u": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "k": "연준이 선호하는 인플레이션 지표가 10월에 3.8%로 상승하며 금리 인상이 확실시됨"
+   "t": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "u": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "k": "젠슨 황, 직원들에게 엔비디아는 승계 계획이 필요 없다고 밝혀"
   },
   {
    "s": "CNBC",
-   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
+   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
   },
   {
    "s": "Guardian",
@@ -40,21 +40,21 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
+   "t": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+   "u": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+   "k": "월스트리트의 최신 강세론자들은 게임스탑이 트레이딩 카드와 심지어 롤렉스 시계 덕분에 살아남았다고 말합니다."
   },
   {
    "s": "Moscow Times",
-   "t": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
-   "u": "https://www.themoscowtimes.com/2026/11/25/one-killed-in-samara-region-as-ukraine-strikes-oil-refinery-a94368",
-   "k": "우크라이나가 정유소를 공격하면서 사마라 지역에서 1명 사망"
+   "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
+   "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
+   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Rosatom ready to offer Brunei nuclear industry creation package — CEO",
-   "u": "https://tass.com/economy/2224689",
-   "k": "로사톰, 브루나이 원자력 산업 구축 패키지 제공 준비 완료 — CEO"
+   "t": "IN BRIEF: Deputy PM Novak’s statements in Russian fuel market situation",
+   "u": "https://tass.com/economy/2224753",
+   "k": "요약: 러시아 연료 시장 상황에 대한 노박 부총리의 발언"
   },
   {
    "s": "Al Jazeera",
@@ -64,15 +64,15 @@
   },
   {
    "s": "Arab News",
-   "t": "GWC Group launches Europe–Saudi freight corridor to keep supply chains moving",
-   "u": "https://www.arabnews.com/business/gwc-group-launches-europesaudi-freight-corridor-to-keep-supply-chains-moving-3013978",
-   "k": "GWC 그룹, 공급망 가동 유지 차원에서 유럽-사우디아라비아 화물 운송 코리도 개설"
+   "t": "British household energy bills to jump 26 percent on Iran war shock",
+   "u": "https://www.arabnews.com/world/british-household-energy-bills-to-jump-26-percent-on-iran-war-shock-3014004",
+   "k": "이란 전쟁 충격으로 영국 가계 에너지 요금 26% 급등"
   },
   {
    "s": "CNA",
-   "t": "AI stocks slide on fears over infrastructure buildout costs",
-   "u": "https://www.channelnewsasia.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-6581691",
-   "k": "인프라 구축 비용에 대한 우려로 AI 관련주 하락"
+   "t": "Nio says AI use could lift gross margin by 10 %age points",
+   "u": "https://www.channelnewsasia.com/business/nio-says-ai-use-could-lift-gross-margin-10-age-points-6582061",
+   "k": "Nio, AI 활용으로 매출총이익률 10%p 향상 가능하다고 밝혀"
   },
   {
    "s": "Straits Times",
@@ -124,9 +124,9 @@
   },
   {
    "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용해요' - 에너지 비용을 절감하는 방법"
+   "t": "Energy bills to rise by 26% from January after gas prices surge",
+   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+   "k": "1월부터 에너지 요금 26% 인상 예정"
   },
   {
    "s": "BBC",
@@ -136,9 +136,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
+   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
   },
   {
    "s": "Guardian",
@@ -148,21 +148,21 @@
   },
   {
    "s": "MarketWatch",
-   "t": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
-   "u": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
-   "k": "젠슨 황의 엔비디아 복귀가 초래한 실제 비용: 기업 및 전체 AI 산업의 규제 비용 증가"
+   "t": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+   "u": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+   "k": "피곤함을 느끼고 탈모가 있나요? 이전에 '정상'으로 검사받은 적이 있더라도 철분 수치가 낮을 수 있습니다."
   },
   {
    "s": "Moscow Times",
-   "t": "Putin Says Ukraine Hits Russian Oil Plants Despite Trump's Requests, Promises Retaliation",
-   "u": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367",
-   "k": "푸틴 대통령, 트럼프 대통령의 요청에도 불구하고 우크라이나가 러시아 정유 공장을 공격했다고 밝히며 보복을 약속"
+   "t": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
+   "u": "https://www.themoscowtimes.com/2026/11/25/one-killed-in-samara-region-as-ukraine-strikes-oil-refinery-a94368",
+   "k": "우크라이나가 정유소를 공격하면서 사마라 지역에서 1명 사망"
   },
   {
    "s": "TASS",
-   "t": "Russia ready to assist Brunei with oil and gas extraction in challenging areas — Putin",
-   "u": "https://tass.com/politics/2224663",
-   "k": "러시아, 브루나이의 어려운 지역 석유 및 가스 채굴 지원 준비 완료 — 푸틴 대통령"
+   "t": "Russia may export 40 mln tons of grain in 2026 — minister",
+   "u": "https://tass.com/economy/2224749",
+   "k": "러시아, 2026년에 곡물 4천만 톤 수출 가능 — 장관"
   },
   {
    "s": "Al Jazeera",
@@ -172,15 +172,15 @@
   },
   {
    "s": "Arab News",
-   "t": "GCC economies show resilience amid conflict disruption: PwC",
-   "u": "https://www.arabnews.com/business/gcc-economies-show-resilience-amid-conflict-disruption-pwc-3013970",
-   "k": "PwC, 분쟁으로 인한 혼란 속에서도 회복력을 보이는 GCC 경제"
+   "t": "Saudi infrastructure investment pipeline estimated at $1tn, minister says",
+   "u": "https://www.arabnews.com/finance/saudi-infrastructure-investment-pipeline-estimated-at-1tn-minister-says-3013997",
+   "k": "사우디아라비아의 인프라 투자 계획, 1조 달러 규모로 추정 - 장관 발언"
   },
   {
    "s": "CNA",
-   "t": "Trump set to add new sweeping tariffs, undeterred by midterms defeat",
-   "u": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566",
-   "k": "트럼프, 중간선거 패배에도 불구하고 새로운 대대적인 관세 부과 예정"
+   "t": "AI stocks slide on fears over infrastructure buildout costs",
+   "u": "https://www.channelnewsasia.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-6581691",
+   "k": "인프라 구축 비용에 대한 우려로 AI 관련주 하락"
   }
  ]
 }
