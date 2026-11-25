@@ -1,84 +1,84 @@
 {
- "updated": "2026-11-26T00:40+09:00",
+ "updated": "2026-11-26T07:30+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
    "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "k": "자동화에서 자율성까지: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
    "t": "US stocks fall further as fears over AI intensify",
    "u": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-   "k": "AI에 대한 우려가 커지면서 미국 주식은 더욱 하락"
+   "k": "AI에 대한 우려가 커지면서 미국 주식 시장이 추가 하락"
   },
   {
    "s": "BBC",
-   "t": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-   "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
+   "t": "North Korea expels Swiss diplomat in sanctions row",
+   "u": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+   "k": "북한, 제재 갈등으로 스위스 외교관 추방"
   },
   {
    "s": "CNBC",
-   "t": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-   "u": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-   "k": "칼시(Kalshi)의 트레이더들은 주 정부가 데이터 센터 모라토리움을 시행할 가능성이 그렇지 않을 가능성보다 높다고 말합니다."
+   "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+   "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+   "k": "메이시스, 악천후로 인해 추수감사절 퍼레이드 연기"
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
+   "t": "Prediction markets push OpenAI IPO expectations later into 2027",
+   "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+   "k": "예측 시장, OpenAI IPO 기대치를 2027년 이후로 미룸"
   },
   {
    "s": "Guardian",
-   "t": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
-   "u": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
-   "k": "계속 유지할까, 아니면 전환할까? 1월 에너지 요금 인상을 극복하기 위한 영국 전기·가스 요금 납부자들의 고민"
+   "t": "UK food inflation could hit 5% next year, Bank of England says",
+   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "MarketWatch",
-   "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
+   "t": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+   "u": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+   "k": "오라클, CoreWeave 및 기타 기술주, 매도세 이후 반등"
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Russia, Brunei has good trend of trade and economic ties development — Putin",
-   "u": "https://tass.com/economy/2224817",
-   "k": "러시아와 브루나이, 무역 및 경제 관계 발전의 좋은 추세 보임 — 푸틴 대통령"
+   "t": "Russian, Kazakh presidents to attend AI Journey conference",
+   "u": "https://tass.com/economy/2224955",
+   "k": "러시아, 카자흐스탄 대통령이 AI 저니(AI Journey) 컨퍼런스에 참석할 예정"
   },
   {
    "s": "Al Jazeera",
-   "t": "Trump announces new trade tariffs: Which countries will they target?",
-   "u": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
-   "k": "트럼프 대통령, 새로운 무역 관세 발표: 대상 국가는 어디인가?"
+   "t": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+   "u": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+   "k": "호데이다 항에 대한 공격이 재개되면 예멘의 인도주의적 위기가 악화될 수 있을까요?"
   },
   {
    "s": "Arab News",
-   "t": "Titanium equipment for desalination and petrochemicals: what VSMPO-AVISMA offers Saudi industry",
-   "u": "https://www.arabnews.com/corporate-and-sponsored-content/titanium-equipment-for-desalination-and-petrochemicals-what-vsmpo-avisma-offers-saudi-industry-3014017",
-   "k": "담수화 및 석유화학용 티타늄 장비: VSMPO-AVISMA가 사우디 산업에 제공하는 것"
+   "t": "Brazil says proposed new US tariffs ‘unacceptable’",
+   "u": "https://www.arabnews.com/world/brazil-says-proposed-new-us-tariffs-unacceptable-3014062",
+   "k": "브라질, 미국이 제안한 새로운 관세 부과 '용납할 수 없다'고 밝혀"
   },
   {
    "s": "CNA",
-   "t": "Nio says AI use could lift gross margin by 10 %age points",
-   "u": "https://www.channelnewsasia.com/business/nio-says-ai-use-could-lift-gross-margin-10-age-points-6582061",
-   "k": "Nio, AI 활용으로 매출총이익률 10%p 향상 가능하다고 밝혀"
+   "t": "Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI",
+   "u": "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176",
+   "k": "해설: 문제 해결에서 '소화'까지: 수학자들이 AI의 극적인 변화에 적응할 수 있는 방법"
   },
   {
    "s": "Straits Times",
-   "t": "Radiant World creditor Incomlend files to withdraw lawsuit",
-   "u": "https://www.straitstimes.com/business/radiant-world-creditor-incomlend-files-to-withdraw-lawsuit",
-   "k": "Radiant World 채권자인 Incomlend, 소송 취하 신청"
+   "t": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "u": "https://www.straitstimes.com/business/companies-markets/nasdaq-sp-500-end-down-but-well-off-lows-as-investors-buy-bargains",
+   "k": "나스닥, S&P 500 지수 하락 마감, 하지만 투자자들이 저가 매수하면서 저점 대비 상승"
   },
   {
    "s": "Bangkok Post",
@@ -88,21 +88,21 @@
   },
   {
    "s": "Euronews",
-   "t": "Greek tourism revenues are up 9.7%, generating almost €22bn in nine months",
-   "u": "https://www.euronews.com/2026/11/25/greek-tourism-revenues-are-up-97-generating-almost-22bn-in-nine-months",
-   "k": "그리스 관광 수입이 9.7% 증가하며 9개월 만에 거의 220억 유로를 창출했습니다."
+   "t": "Indra unveils Forward2030 plan to more than double revenue to €12bn",
+   "u": "https://www.euronews.com/2026/11/25/indra-presents-forward2030-plan-to-exceed-12bn-in-revenue-and-more-than-double-size-by-203",
+   "k": "Indra, 매출을 2배 이상인 120억 유로로 끌어올리는 Forward2030 계획 발표"
   },
   {
    "s": "MercoPress",
    "t": "Falklands commissions independent review (and survey) of the Tax system",
    "u": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "포클랜드 제도가 조세제도에 대한 독립적인 검토(및 설문조사)를 의뢰함"
+   "k": "포클랜드, 조세제도에 대한 독립적 검토(및 설문조사) 위임"
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Key Milei ally Bullrich says re-election at risk unless Argentina's economy improves",
-   "u": "https://www.batimes.com.ar/news/argentina/key-milei-ally-bullrich-says-re-election-at-risk-unless-argentinas-economy-improves.phtml",
-   "k": "밀레이 대통령의 핵심 동맹인 불리치 의원, 아르헨티나 경제가 개선되지 않으면 재선이 위험에 처할 것이라고 말해"
+   "t": "Argentina's government rules out economic policy changes despite creeping recession",
+   "u": "https://www.batimes.com.ar/news/economy/argentinas-government-rules-out-economic-policy-changes-despite-creeping-recession.phtml",
+   "k": "아르헨티나 정부, 경기 침체에도 불구하고 경제 정책 변경 배제"
   },
   {
    "s": "SCMP",
@@ -112,51 +112,45 @@
   },
   {
    "s": "Economic Times",
-   "t": "Manchester City's post-Guardiola identity crisis",
-   "u": "https://economictimes.indiatimes.com/news/sports/football/manchester-citys-post-guardiola-identity-crisis-midfield-muddle-scoring-woes-and-a-financial-scandal-cloud-early-maresca-era/articleshow/136160892.cms",
-   "k": "맨체스터 시티의 과르디올라 이후 정체성 위기"
+   "t": "Trump's 25% tariff axe comes swinging down on India",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-india-six-other-economies-with-proposed-tariffs-of-up-to-25-in-fresh-trade-offensive-report/articleshow/136163453.cms",
+   "k": "트럼프 대통령의 25% 관세 폭탄이 인도에 떨어지다"
   },
   {
    "s": "CNN",
-   "t": "Tech stock selloff deepens as AI fears outweigh Huang’s Nvidia return",
-   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1FuS01WaVlhenhqc2I2M2hUckJlTm9fUjZ3N2ZjSmtTM3pCSkktYzlUM094TkV2NFROMjBseXlla2R3US1xRjh1QktLalI3dmVHZ2dpWGY4UEVXa2lKemFvX2doTXZ3d0FOTkV3NW5aYlZBWk9HZzhUa19aZW1GbWVmWFlvQQ?oc=5",
-   "k": "AI에 대한 우려가 황의 엔비디아 복귀보다 더 커지면서 기술주 매도가 심화"
+   "t": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN0dJdjVwenUzU1ZaV0l0cGVyeTRQUEZuOHlEdGpHVGFKc0xGcXVIWkJDbWRyc2R2X015X283NmViZmZBLUt6OGNQZDBUdkhKYldOYnV2RENtZThoVnhTRUxqQVZpR0dZb1ZnYWQ0VEtNMTU5TGow?oc=5",
+   "k": "러시아 석유 회사 루코일의 해외 자산, 미국 억만장자 토드 보엘리가 이끄는 투자자들에게 매각"
   },
   {
    "s": "BBC",
-   "t": "US announces new tariffs on host of countries including China",
-   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
-  },
-  {
-   "s": "BBC",
-   "t": "US attorney general dodges questions about Nvidia investigation",
-   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
+   "t": "Poundland collapses putting 11,000 jobs at risk",
+   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+   "k": "파운드랜드(Poundland)가 파산하면서 11,000명의 일자리가 위태로워졌습니다."
   },
   {
    "s": "CNBC",
-   "t": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-   "u": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-   "k": "수익률이 여전히 높은 수준을 유지하고 있는 가운데, 부유한 투자자들이 지자체 발행 채권에서 세금 절감 혜택을 찾고 있습니다."
+   "t": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+   "u": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+   "k": "리스먼: 그린스판이 생산성에 베팅할 수 있었던 이유 — 그리고 워시가 금리를 인상해야 하는 이유"
   },
   {
    "s": "CNBC",
-   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
+   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 이상의 것을 의미한다는 것을 보여줍니다."
   },
   {
    "s": "Guardian",
-   "t": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
-   "k": "영국의 에너지 요금이 2,166파운드로 인상되어 수백만 가구에 '감당할 수 없는 높은 수준'이 되었습니다. AI 랠리가 시들해지면서 주가가 급락했습니다 – 비즈니스 라이브"
+   "t": "US inflation hits highest since May after prices climb 3.8% over the last year",
+   "u": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+   "k": "지난 1년간 물가가 3.8% 상승하면서 미국 인플레이션이 5월 이후 최고치를 기록했습니다."
   },
   {
    "s": "MarketWatch",
-   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
+   "t": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+   "u": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+   "k": "엔비디아 주가가 하락 매수세에 힘입어 월요일 급등분의 상당 부분을 회복했습니다."
   },
   {
    "s": "Moscow Times",
@@ -166,21 +160,27 @@
   },
   {
    "s": "TASS",
-   "t": "Payments in national currencies help to protect trade from politics — Putin",
-   "u": "https://tass.com/economy/2224813",
-   "k": "푸틴 대통령, \"자국 통화 결제는 무역을 정치적 영향으로부터 보호하는 데 도움이 된다\"고 밝혀"
+   "t": "EU Council formally approves €45 billion for Kiev in 2027",
+   "u": "https://tass.com/economy/2224943",
+   "k": "EU 이사회, 2027년 키이우에 450억 유로 공식 승인"
   },
   {
    "s": "Al Jazeera",
-   "t": "Bangladesh garment workers protest over new wages",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-   "k": "방글라데시 의류 노동자들, 새로운 임금에 항의"
+   "t": "US grants SpaceX approval for 1 million space data centres",
+   "u": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+   "k": "미국, SpaceX에 100만 개의 우주 데이터 센터 승인"
   },
   {
    "s": "Arab News",
-   "t": "British household energy bills to jump 26 percent on Iran war shock",
-   "u": "https://www.arabnews.com/world/british-household-energy-bills-to-jump-26-percent-on-iran-war-shock-3014004",
-   "k": "이란 전쟁 충격으로 영국 가계 에너지 요금 26% 급등"
+   "t": "Bangladesh raises minimum wage for garment workers after weeks of protests",
+   "u": "https://www.arabnews.com/world/bangladesh-raises-minimum-wage-for-garment-workers-after-weeks-of-protests-3014060",
+   "k": "방글라데시, 수 주간의 시위 끝에 의류 노동자 최저임금 인상"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Fraud, scam claims against S’pore financial firms rise for third year",
+   "u": "https://www.straitstimes.com/business/fraud-scam-claims-against-spore-financial-firms-rise-for-third-year-half-of-victims-51-and-older",
+   "k": "싱가포르 금융사에 대한 사기, 사취 신고가 3년 연속 증가"
   }
  ]
 }
