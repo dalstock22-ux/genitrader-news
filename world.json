@@ -1,24 +1,30 @@
 {
- "updated": "2026-11-25T12:40+09:00",
+ "updated": "2026-11-25T13:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
+  },
+  {
+   "s": "CNN",
+   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
+   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
   },
   {
    "s": "BBC",
-   "t": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-   "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
+   "t": "US attorney general dodges questions about Nvidia investigation",
+   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
   },
   {
    "s": "CNBC",
-   "t": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-   "u": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-   "k": "미국 배심원단, 사기 및 영업 비밀 관련 형사 소송에서 화웨이에 유죄 판결"
+   "t": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "k": "‘어떤 폭풍우에도 대비’: IMF가 경제 전망을 상향 조정하자 UAE 장관이 낙관적인 전망을 내놓다"
   },
   {
    "s": "CNBC",
@@ -46,15 +52,15 @@
   },
   {
    "s": "TASS",
-   "t": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
-   "u": "https://tass.com/economy/2224307",
-   "k": "러시아, 초지능을 위한 에너지 자원 보유량에서 선두를 달리고 있다 — 드미트리예프"
+   "t": "Pillars of international security remain relevant despite technological changes — Nebenzya",
+   "u": "https://tass.com/politics/2224327",
+   "k": "기술적 변화에도 불구하고 국제 안보의 핵심 요소는 여전히 유효 — 네벤지아 대사"
   },
   {
    "s": "Al Jazeera",
-   "t": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
-   "u": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
-   "k": "토드 블랑슈 변호사, 엔비디아의 젠슨 황에 대한 수사 여부 확인 거부"
+   "t": "Protesters clash with police over Venezuela’s poor minimum wage",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+   "k": "베네수엘라의 낮은 최저임금에 항의하는 시위대와 경찰이 충돌하다"
   },
   {
    "s": "Arab News",
@@ -64,15 +70,15 @@
   },
   {
    "s": "CNA",
-   "t": "Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
-   "u": "https://www.channelnewsasia.com/business/starbucks-engage-banks-sale-japan-business-bloomberg-news-reports-6580461",
-   "k": "블룸버그 뉴스, 스타벅스가 일본 사업 매각을 위해 은행과 협력할 것이라고 보도"
+   "t": "Bangladesh raises garment workers' minimum wage 36% after protests",
+   "u": "https://www.channelnewsasia.com/asia/bangladesh-raises-garment-workers-minimum-wage-after-protests-6580411",
+   "k": "방글라데시, 시위 후 의류 노동자 최저임금 36% 인상"
   },
   {
    "s": "Straits Times",
-   "t": "Australian inflation hots up in October, core hits two-year high",
-   "u": "https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high",
-   "k": "10월 호주 물가상승률 상승, 근원물가지수 2년 만에 최고치 기록"
+   "t": "Starbucks to engage banks for sale of Japan business",
+   "u": "https://www.straitstimes.com/business/starbucks-to-engage-banks-for-sale-of-japan-business",
+   "k": "스타벅스, 일본 사업 매각을 위해 은행과 협력"
   },
   {
    "s": "Bangkok Post",
@@ -106,39 +112,27 @@
   },
   {
    "s": "Economic Times",
-   "t": "Iran accuses US of hypocrisy; OPCW faces budget crisis",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/iranian-fm-araghchi-accuses-washington-of-hypocrisy-as-opcw-faces-budget-crisis-over-us-arrears/articleshow/136145176.cms",
-   "k": "이란, 미국을 위선적이라고 비난; OPCW, 예산 위기 직면"
+   "t": "Nvidia CEO accused of violating US export control law",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/democratic-senate-leader-accuses-nvidia-ceo-huang-of-violating-us-export-control-law/articleshow/136146418.cms",
+   "k": "Nvidia CEO, 미국 수출 통제법 위반 혐의로 기소"
   },
   {
    "s": "CNN",
-   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
-  },
-  {
-   "s": "CNN",
-   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
-   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
+   "t": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY1VoSjVXdkRXRWpuaFRlRHgxOVZsY2V3OHNaOXJ1RlB5Nm8xWHRTcDNIRFVoYlJ1T21zTmstcFBjNjQwZFhrX0x3Y0EwbmRIaXdFaU1FVnYxTEdYbVlTekg0cktMdHREM01fc0x3?oc=5",
+   "k": "'가족 기업'과 같은: 젠슨 황을 해고했다가 다시 고용한 엔비디아 이사회 내부 이야기"
   },
   {
    "s": "BBC",
-   "t": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
-   "u": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-   "k": "트럼프의 엔비디아 개입은 그의 정치적 운명을 AI 붐과 연결시킨다"
-  },
-  {
-   "s": "BBC",
-   "t": "US attorney general dodges questions about Nvidia investigation",
-   "u": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-   "k": "미국 법무장관, 엔비디아 조사 관련 질문 회피"
+   "t": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "u": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+   "k": "화웨이, 영업 비밀 유출 혐의 유죄 판결, 조직적 범죄 혐의는 무죄 판결"
   },
   {
    "s": "CNBC",
-   "t": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-   "u": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-   "k": "후티 반군, 사우디아라비아 국부펀드 PIF 타워 공격으로 11명 부상"
+   "t": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+   "u": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "k": "월스트리트 AI 매도 여파가 아시아 기술주 전반에 미치면서 소프트뱅크 주가가 11% 이상 하락"
   },
   {
    "s": "CNBC",
@@ -166,21 +160,27 @@
   },
   {
    "s": "TASS",
-   "t": "Russia to supply Afghanistan with $200 mln worth of goods",
-   "u": "https://tass.com/economy/2224297",
-   "k": "러시아, 아프가니스탄에 2억 달러 상당의 물자 공급 예정"
+   "t": "Extra-regional countries wage proxy war against Pakistan using Afghans — ambassador",
+   "u": "https://tass.com/world/2224323",
+   "k": "아프간인을 이용해 파키스탄에 대리전을 벌이는 역외 국가들 — 대사"
   },
   {
    "s": "Al Jazeera",
-   "t": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-   "u": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-   "k": "중국의 화웨이, 미국 재판에서 영업 비밀 공모 및 사기 혐의로 유죄 판결"
+   "t": "Asia’s stock markets dive as doubts swirl over AI boom",
+   "u": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "k": "AI 붐에 대한 의구심이 커지면서 아시아 증시가 급락했습니다."
   },
   {
    "s": "Arab News",
    "t": "US jury convicts China tech giant Huawei of stealing trade secrets: media",
    "u": "https://www.arabnews.com/world/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets-media-3013927",
    "k": "미국 배심원단, 중국 IT 대기업 화웨이의 영업 비밀 유출 혐의 유죄 판결: 언론 보도"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Companies linked to restaurant chain Komala’s settle 20 CPF charges after paying dues",
+   "u": "https://www.straitstimes.com/business/companies-linked-to-restaurant-chain-komalas-settle-20-cpf-charges-after-paying-dues",
+   "k": "레스토랑 체인 Komala's와 관련된 회사들이 미납금을 납부한 후 20건의 CPF 위반 혐의를 해결하다"
   }
  ]
 }
