@@ -1,18 +1,12 @@
 {
- "updated": "2026-11-25T13:40+09:00",
+ "updated": "2026-11-25T14:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
-  },
-  {
-   "s": "CNN",
-   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
-   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "BBC",
@@ -58,15 +52,15 @@
   },
   {
    "s": "Al Jazeera",
-   "t": "Protesters clash with police over Venezuela’s poor minimum wage",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
-   "k": "베네수엘라의 낮은 최저임금에 항의하는 시위대와 경찰이 충돌하다"
+   "t": "UK warns companies of potential Russian sabotage threat",
+   "u": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+   "k": "영국, 기업들에 잠재적인 러시아의 사보타주 위협 경고"
   },
   {
    "s": "Arab News",
-   "t": "How Israel’s political uncertainty is shaping the debate over Iran and the West Bank",
-   "u": "https://www.arabnews.com/middle-east/how-israels-political-uncertainty-is-shaping-the-debate-over-iran-and-the-west-bank-3013832",
-   "k": "이스라엘의 정치적 불확실성이 이란과 요르단강 서안지구에 대한 논쟁에 어떤 영향을 미치고 있는지"
+   "t": "IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz, state media",
+   "u": "https://www.arabnews.com/middle-east/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media-3013942",
+   "k": "이란혁명수비대 해군, 호르무즈 해협에서 유조선 2척이 기뢰에 맞아 화재 발생했다고 밝혀 - 국영 매체"
   },
   {
    "s": "CNA",
@@ -106,9 +100,9 @@
   },
   {
    "s": "SCMP",
-   "t": "China’s biggest fund firms bet stocks to trough after state support runs on all cylinders",
-   "u": "https://www.scmp.com/business/china-business/article/3375678/chinas-biggest-fund-firms-bet-stocks-trough-after-state-support-runs-all-cylinders",
-   "k": "중국의 최대 자금 운용사들이 정부 지원이 최고조에 달한 후 주가가 바닥을 칠 것으로 예상"
+   "t": "Shein to pay US$100 million to settle US shipping, customer service claims",
+   "u": "https://www.scmp.com/tech/article/3375701/shein-pay-us100-million-settle-us-shipping-customer-service-claims",
+   "k": "Shein, 미국 내 배송 및 고객 서비스 관련 소송을 해결하기 위해 1억 달러 지급 예정"
   },
   {
    "s": "Economic Times",
@@ -118,9 +112,15 @@
   },
   {
    "s": "CNN",
-   "t": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY1VoSjVXdkRXRWpuaFRlRHgxOVZsY2V3OHNaOXJ1RlB5Nm8xWHRTcDNIRFVoYlJ1T21zTmstcFBjNjQwZFhrX0x3Y0EwbmRIaXdFaU1FVnYxTEdYbVlTekg0cktMdHREM01fc0x3?oc=5",
-   "k": "'가족 기업'과 같은: 젠슨 황을 해고했다가 다시 고용한 엔비디아 이사회 내부 이야기"
+   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
+  },
+  {
+   "s": "CNN",
+   "t": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
+   "k": "선거 유세 중 발생한 갈등 이후, 트럼프는 엘사예드와 만나 보편적 의료 서비스 제안에 대해 논의할 것이라고 밝혔습니다."
   },
   {
    "s": "BBC",
@@ -166,15 +166,15 @@
   },
   {
    "s": "Al Jazeera",
-   "t": "Asia’s stock markets dive as doubts swirl over AI boom",
-   "u": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-   "k": "AI 붐에 대한 의구심이 커지면서 아시아 증시가 급락했습니다."
+   "t": "Protesters clash with police over Venezuela’s poor minimum wage",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+   "k": "베네수엘라의 낮은 최저임금에 항의하는 시위대와 경찰이 충돌하다"
   },
   {
    "s": "Arab News",
-   "t": "US jury convicts China tech giant Huawei of stealing trade secrets: media",
-   "u": "https://www.arabnews.com/world/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets-media-3013927",
-   "k": "미국 배심원단, 중국 IT 대기업 화웨이의 영업 비밀 유출 혐의 유죄 판결: 언론 보도"
+   "t": "How Israel’s political uncertainty is shaping the debate over Iran and the West Bank",
+   "u": "https://www.arabnews.com/middle-east/how-israels-political-uncertainty-is-shaping-the-debate-over-iran-and-the-west-bank-3013832",
+   "k": "이스라엘의 정치적 불확실성이 이란과 요르단강 서안지구에 대한 논쟁에 어떤 영향을 미치고 있는지"
   },
   {
    "s": "Straits Times",
