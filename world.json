@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-25T10:40+09:00",
+ "updated": "2026-11-25T11:40+09:00",
  "label": "WORLD NEWS",
  "items": [
+  {
+   "s": "CNN",
+   "t": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+   "k": "미국 법원, 이란 사업 관련 대규모 재판에서 중국 화웨이에 사기 및 영업 비밀 절도 공모 혐의로 유죄 판결"
+  },
   {
    "s": "CNN",
    "t": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
@@ -16,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-   "u": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-   "k": "칼럼: 트럼프의 엔비디아 이사회 개입으로 국가 안보에 대가가 매겨졌다. 적대국들이 이를 주목할 것입니다."
+   "t": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+   "u": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+   "k": "후티 반군, 사우디아라비아 국부펀드 PIF 타워 공격으로 11명 부상"
   },
   {
    "s": "CNBC",
@@ -70,9 +76,9 @@
   },
   {
    "s": "Straits Times",
-   "t": "Shein to pay $100 million to settle US shipping, customer service claims",
-   "u": "https://www.straitstimes.com/business/shein-to-pay-100-million-to-settle-us-shipping-customer-service-claims",
-   "k": "쉬인, 미국 배송 및 고객 서비스 관련 소송을 1억 달러에 합의"
+   "t": "Japan's key services inflation gauge hits 36-year high",
+   "u": "https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high",
+   "k": "일본의 주요 서비스 물가 지표, 36년 만에 최고치 기록"
   },
   {
    "s": "Bangkok Post",
@@ -130,9 +136,9 @@
   },
   {
    "s": "CNBC",
-   "t": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
-   "u": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-   "k": "월스트리트 AI 매도 여파가 아시아 기술주 전반에 미치면서 소프트뱅크 주가가 11% 이상 하락"
+   "t": "Trump open to pardoning Jensen Huang if needed: NY Post",
+   "u": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+   "k": "트럼프, 필요하다면 젠슨 황에 대한 사면 가능성 시사: 뉴욕 포스트"
   },
   {
    "s": "CNBC",
@@ -175,12 +181,6 @@
    "t": "US jury convicts China tech giant Huawei of stealing trade secrets: media",
    "u": "https://www.arabnews.com/world/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets-media-3013927",
    "k": "미국 배심원단, 중국 IT 대기업 화웨이의 영업 비밀 유출 혐의 유죄 판결: 언론 보도"
-  },
-  {
-   "s": "CNA",
-   "t": "CNA Now: Nvidia, Anthropic shares tumble as AI sell-off resumes, plus other news as it happens",
-   "u": "https://www.channelnewsasia.com/singapore/cna-now-nov-25-live-blog-6578146",
-   "k": "CNA Now: AI 관련주 매도세가 재개되면서 엔비디아, 앤트로픽 주가 하락, 그 외 주요 뉴스"
   }
  ]
 }
