@@ -1,18 +1,12 @@
 {
- "updated": "2026-11-26T14:00+09:00",
+ "updated": "2026-11-26T14:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성까지: 산업용 AI의 핵심에 신뢰를 두기"
-  },
-  {
-   "s": "CNN",
-   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
-   "k": "북한의 김정은 위원장, 무기 시설 시찰 중 전술핵 배치 확대 촉구"
+   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
+   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
   },
   {
    "s": "BBC",
@@ -22,33 +16,27 @@
   },
   {
    "s": "CNBC",
-   "t": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "k": "기술주 반등에 힘입어 아시아 시장 상승, 한국 코스피가 선두"
-  },
-  {
-   "s": "CNBC",
-   "t": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+   "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
    "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
    "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
   },
   {
    "s": "Guardian",
-   "t": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
-   "u": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-   "k": "판사가 브렌단 카 위원장이 이끄는 FCC가 ABC의 방송 허가에 대해 더 이상 조치를 취하지 못하도록 차단"
+   "t": "UK food inflation could hit 5% next year, Bank of England says",
+   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "MarketWatch",
    "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "Nvidia의 젠슨 황이 401(k) 잔액을 좌우하는 위험한 시대를 살고 있습니다."
+   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
   },
   {
    "s": "TASS",
@@ -60,31 +48,31 @@
    "s": "Al Jazeera",
    "t": "Brazil blasts ‘unacceptable’ new US tariff proposals",
    "u": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
-   "k": "브라질, 미국의 새로운 관세 인상안을 '용납할 수 없는' 조치라고 비난"
+   "k": "브라질, 미국의 새로운 관세 부과안을 '용납할 수 없는' 조치라고 비난"
   },
   {
    "s": "Arab News",
    "t": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
    "u": "https://www.arabnews.com/world/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade-3014077",
-   "k": "미국, '불공정' 무역을 이유로 EU, 중국 등 대상 관세 부과 발표"
+   "k": "미국, '불공정' 무역을 이유로 EU, 중국 및 기타 국가에 대한 관세 부과 발표"
   },
   {
    "s": "CNA",
-   "t": "Musk says every child in the US will get two SpaceX shares",
-   "u": "https://www.channelnewsasia.com/business/musk-says-every-child-in-us-will-get-two-spacex-shares-6584096",
-   "k": "머스크는 미국 내 모든 어린이가 SpaceX 주식 2주를 받게 될 것이라고 말합니다."
+   "t": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+   "u": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
+   "k": "파이낸셜타임스, 엔비디아가 동남아시아로의 칩 출하를 중단했다고 보도"
   },
   {
    "s": "Straits Times",
-   "t": "Singapore ‘very disappointed’ by proposed US tariffs, says move overlooks its economic structure",
-   "u": "https://www.straitstimes.com/business/singapore-very-disappointed-by-proposed-us-tariffs-says-move-overlooks-its-economic-structure",
-   "k": "싱가포르, 미국의 관세 부과안에 '매우 실망'하며 이 조치가 자국의 경제 구조를 간과하고 있다고 지적"
+   "t": "Asian stocks enjoy another bounce as tech holds court",
+   "u": "https://www.straitstimes.com/business/asian-stocks-enjoy-another-bounce-as-tech-holds-court",
+   "k": "기술주가 강세를 보이며 아시아 증시가 또 한 번 반등"
   },
   {
    "s": "Bangkok Post",
-   "t": "New US tariffs worry Thai exporters",
-   "u": "https://www.bangkokpost.com/business/general/3361264/new-us-tariffs-worry-thai-exporters",
-   "k": "미국의 새로운 관세 부과에 태국 수출업체들 우려"
+   "t": "Samitivej Envisions the Future of Hospitals: Treating People, Not Just Diseases, to Extend Healthspan",
+   "u": "https://www.bangkokpost.com/business/general/3361620/samitivej-envisions-the-future-of-hospitals-treating-people-not-just-diseases-to-extend-healthspan",
+   "k": "사미티베즈, 병원의 미래를 내다보다: 질병뿐만 아니라 사람을 치료하여 건강 수명 연장"
   },
   {
    "s": "Euronews",
@@ -96,7 +84,7 @@
    "s": "MercoPress",
    "t": "Colombia drops its bid to join the BRICS bank in a new shift towards the United States",
    "u": "https://en.mercopress.com/2026/11/26/colombia-drops-its-bid-to-join-the-brics-bank-in-a-new-shift-towards-the-united-states?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "콜롬비아가 미국과의 관계 개선을 위해 브릭스(BRICS) 은행 가입 신청을 철회하다"
+   "k": "콜롬비아, 미국으로의 새로운 전환을 맞아 브릭스(BRICS) 은행 가입 신청 철회"
   },
   {
    "s": "Buenos Aires Times",
@@ -106,21 +94,27 @@
   },
   {
    "s": "SCMP",
-   "t": "China’s CATL faces a trillion-yuan question: how to win back investor confidence",
-   "u": "https://www.scmp.com/business/climate-and-energy/article/3375822/chinas-catl-faces-trillion-yuan-question-how-win-back-investor-confidence",
-   "k": "중국의 CATL, 1조 위안 규모의 난제에 직면: 투자자 신뢰 회복 방법은?"
+   "t": "Falling knife or bottom-fishing? Gold investors seek answers from Fed and PBOC",
+   "u": "https://www.scmp.com/business/commodities/article/3375873/falling-knife-or-bottom-fishing-gold-investors-seek-answers-fed-and-pboc",
+   "k": "하락하는 주식을 매수하는 것일까요, 아니면 바닥을 찍은 주식을 매수하는 것일까요? 금 투자자들, 연준과 중국 인민은행의 답변을 기다려"
   },
   {
    "s": "Economic Times",
-   "t": "Gold down by Rs 52K from Jan high? Should you invest?",
-   "u": "https://economictimes.indiatimes.com/wealth/invest/rs-51700-fall-in-mcx-10g-gold-rate-price-today-from-january-peaks-should-you-invest-now/articleshow/136166158.cms",
-   "k": "금값이 1월 고점 대비 52,000루피 하락? 지금 투자해야 할까요?"
+   "t": "Gold and silver rates today: Check latest updates",
+   "u": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-november-26-2026in-delhi-hyderabad-chennai-bengaluru-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/136178335.cms",
+   "k": "오늘의 금값과 은값: 최신 업데이트 확인하기"
   },
   {
    "s": "CNN",
-   "t": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN0dJdjVwenUzU1ZaV0l0cGVyeTRQUEZuOHlEdGpHVGFKc0xGcXVIWkJDbWRyc2R2X015X283NmViZmZBLUt6OGNQZDBUdkhKYldOYnV2RENtZThoVnhTRUxqQVZpR0dZb1ZnYWQ0VEtNMTU5TGow?oc=5",
-   "k": "러시아 석유 회사 루코일의 해외 자산, 미국 억만장자 토드 보엘리가 이끄는 투자자들에게 매각"
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+  },
+  {
+   "s": "CNN",
+   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
+   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
   },
   {
    "s": "BBC",
@@ -136,21 +130,21 @@
   },
   {
    "s": "CNBC",
-   "t": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
-   "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-   "k": "헤지펀드는 더 이상 부유층만을 위한 것이 아닙니다. 이제 헤지펀드는 일반 투자자들을 유치하고 있습니다."
+   "t": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+   "u": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+   "k": "북한의 김정은, 핵무기 확충 촉구하며 '절대 변하지 않을 것'이라고 밝혀"
   },
   {
    "s": "CNBC",
    "t": "Prediction markets push OpenAI IPO expectations later into 2027",
    "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "k": "예측 시장, OpenAI IPO 기대치를 2027년 이후로 미룸"
+   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
   },
   {
    "s": "Guardian",
-   "t": "UK food inflation could hit 5% next year, Bank of England says",
-   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
+   "t": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+   "k": "장관들은 가스 가격을 통제할 수 없지만, 다른 에너지 비용에는 더 가차 없이 개입할 수 있습니다."
   },
   {
    "s": "MarketWatch",
@@ -174,13 +168,19 @@
    "s": "Al Jazeera",
    "t": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
    "u": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-   "k": "앤트로픽(Anthropic)의 CEO 아모데이는 인류가 AI에 자유 의지를 ‘포기’하기를 바란다는 주장을 부인합니다."
+   "k": "앤트로픽의 CEO 아모데이가 인류가 AI에 자유 의지를 '포기'하기를 바란다는 주장을 부인했습니다."
   },
   {
    "s": "Arab News",
    "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
    "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
-   "k": "미 연방통신위원회(FCC), SpaceX가 우주에 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝힘. 과학자들은 이에 대해 회의적임"
+   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
+  },
+  {
+   "s": "CNA",
+   "t": "Musk says every child in the US will get two SpaceX shares",
+   "u": "https://www.channelnewsasia.com/business/musk-says-every-child-in-us-will-get-two-spacex-shares-6584096",
+   "k": "머스크는 미국에 있는 모든 어린이가 SpaceX 주식 2주를 받게 될 것이라고 말합니다."
   }
  ]
 }
