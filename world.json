@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:40+09:00",
+ "updated": "2026-11-26T22:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -9,8 +9,8 @@
   },
   {
    "s": "CNN",
-   "t": "Trump’s midterms debacle hasn’t dimmed his designs on Cuba. Or those of ‘President’ Rubio",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEVoSHBXNGhMTGNBZmRWbEdLOTczSHlmWmJfU3hITm03dkR4N0dVN1Npb0VTRXhTMGI5elI3VjNRV2NSeXNTTXBHQjBNaFpvUmpxRnhxUzRDdGtfX2FVT0RucENabDhOci1WTVp6OHRIYlpyNHVnOXZQNXQwWlJ5YXhncWVVeHNGSVJjZEVR?oc=5"
+   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
   },
   {
    "s": "BBC",
@@ -34,44 +34,43 @@
   },
   {
    "s": "Guardian",
-   "t": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
+   "t": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+   "u": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm"
   },
   {
    "s": "MarketWatch",
-   "t": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
-   "u": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories"
+   "t": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+   "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
-   "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
-   "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
+   "t": "Russian TV Star With Ties to VTB Chief Backed Telegram’s Failed Crypto Venture – Report",
+   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384"
   },
   {
    "s": "TASS",
-   "t": "Russia to introduce preferential loans for Russian companies at Dushanbe technopark",
-   "u": "https://tass.com/economy/2225295"
+   "t": "Russia’s international reserves down $19.5 bln one week to $699 bln — Central Bank",
+   "u": "https://tass.com/economy/2225351"
   },
   {
    "s": "Al Jazeera",
-   "t": "With the rise of AI, are we close to having universal basic income",
-   "u": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss"
+   "t": "Is UBI the solution to mass unemployment in an AI economy?",
+   "u": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Aramco, Sabic among Saudi-listed firms expecting limited impact from new top-up tax",
-   "u": "https://www.arabnews.com/business/aramco-sabic-among-saudi-listed-firms-expecting-limited-impact-from-new-top-up-tax-3014113"
+   "t": "Israel defense minister threatens to displace 1 million Gazans if Hamas won’t disarm",
+   "u": "https://www.arabnews.com/middle-east/israel-defense-minister-threatens-to-displace-1-million-gazans-if-hamas-wont-disarm-3014132"
   },
   {
    "s": "CNA",
-   "t": "AI agents used in five cyber attacks in Switzerland, government says",
-   "u": "https://www.channelnewsasia.com/business/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says-6585191"
+   "t": "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
+   "u": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316"
   },
   {
    "s": "Straits Times",
-   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
-   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs"
+   "t": "2 companies linked to lash, hair and nails chain Milly’s wound up after outlets closed",
+   "u": "https://www.straitstimes.com/business/2-companies-linked-to-lash-hair-and-nails-chain-millys-wound-up-after-outlets-closed"
   },
   {
    "s": "Bangkok Post",
@@ -91,14 +90,13 @@
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Santilli says Argentina's gold reserves are 'perfectly safe'",
-   "u": "https://www.batimes.com.ar/news/economy/santilli-says-argentinas-gold-reserves-are-perfectly-safe.phtml",
-   "k": "산틸리 장관, 아르헨티나의 금 보유고가 '완전히 안전'하다고 밝혀"
+   "t": "Caputo: Argentina has activated US$5-billion Chinese currency swap to guarantee debt repayments",
+   "u": "https://www.batimes.com.ar/news/economy/caputo-argentina-has-activated-us5-billion-chinese-currency-swap-to-guarantee-debt-payments.phtml"
   },
   {
    "s": "SCMP",
-   "t": "Hong Kong’s home prices fall in October as rents hit a record high",
-   "u": "https://www.scmp.com/business/markets/article/3375931/hong-kongs-home-prices-fall-october-rents-hit-record-high"
+   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
   },
   {
    "s": "Economic Times",
@@ -110,11 +108,6 @@
    "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
    "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
-  },
-  {
-   "s": "CNN",
-   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
   },
   {
    "s": "BBC",
@@ -140,24 +133,29 @@
   },
   {
    "s": "Guardian",
-   "t": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
-   "u": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns"
+   "t": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
   },
   {
    "s": "MarketWatch",
-   "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-   "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
+   "t": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+   "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
-   "t": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
-   "u": "https://www.themoscowtimes.com/2026/11/25/one-killed-in-samara-region-as-ukraine-strikes-oil-refinery-a94368",
-   "k": "우크라이나가 정유소를 공격하면서 사마라 지역에서 1명 사망"
+   "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
+   "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
+   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Tajikistan plans to fully switch to renewable energy by 2032 — Prime Minister",
-   "u": "https://tass.com/world/2225289"
+   "t": "Impossible to eradicate doping abuse in sports, says WADA chief Banka",
+   "u": "https://tass.com/sports/2225347"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "FIFA says personal and business information stolen in cyberattack",
+   "u": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
   }
  ]
 }
