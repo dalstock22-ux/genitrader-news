@@ -1,161 +1,186 @@
 {
- "updated": "2026-11-27T00:40+09:00",
+ "updated": "2026-11-27T08:50+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5"
+   "t": "‘Freezing my butt off’: CNN’s business reporter takes cold plunge for charity",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSG1jWWtrc3laWUpFQWlmM0p3VFZuYjJpQ3VUZ3ZpbW5wMTVldlFLUklaWEF0OHZKbFVXRTZwYjlyMzlXWGtuMmZNYzRSeXVRSjZVaTd1NzZRZ1ozUzgwLTdScHRIQ1pKbnVZRWFEZEw3bWxDU3NQOXlYSVF1YmpFN245M014dHlQckJENmR6X1c2RmJZOWxrNjJFYw?oc=5",
+   "k": "‘엉덩이가 얼어붙을 것 같아요’: CNN 비즈니스 기자가 자선 활동을 위해 냉수욕을 하다"
+  },
+  {
+   "s": "CNN",
+   "t": "European Central Bank set to appoint its first Spanish leader",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzZnS2tTME93WGtEeHFtb3VqQVBTb3g0eWFoa19jV3ByclEwTjh0em8wZC1OLXgxWVJ6WWlPV1BMVkRoeERyMU41Q2FuMi1QdV9Cd3JXS1k5VDVmV0kzLVV3QjdFXzhtbEM4S2NWZzhEUVl5cjVlazVwRjVxNTlzd2tzbHR3T3lp?oc=5",
+   "k": "유럽중앙은행, 첫 스페인인 총재 임명 예정"
   },
   {
    "s": "BBC",
-   "t": "New UK-EU treaty has 10-year termination clause",
-   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
+   "t": "Asia made a big AI bet on Nvidia. What happens now?",
+   "u": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+   "k": "아시아는 엔비디아에 큰 AI 베팅을 했습니다. 이제 어떻게 될까요?"
   },
   {
    "s": "BBC",
-   "t": "Seven injured, four critically, after Bangkok oil refinery explosion",
-   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+   "t": "Nine injured, three critically, after Bangkok oil refinery explosion",
+   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+   "k": "방콕 정유소 폭발로 7명 부상, 이 중 4명은 위중한 상태"
   },
   {
    "s": "CNBC",
-   "t": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-   "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+   "t": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "u": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "k": "트럼프 대통령, 3분기 GDP 데이터가 대폭 상향 수정된 후 '기록적인 오류'에 대한 조사를 요구"
   },
   {
    "s": "CNBC",
    "t": "Semiconductor chips are the new oil. Here's why",
-   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "k": "반도체 칩이 새로운 석유가 된 이유"
   },
   {
    "s": "Guardian",
-   "t": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-   "u": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm"
+   "t": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "k": "중국, 트럼프 대통령의 새로운 관세 부과안에 대해 '필요한 조치'를 취할 권리를 보유한다고 밝혀"
   },
   {
    "s": "MarketWatch",
-   "t": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
+   "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "k": "젠슨 황이 엔비디아로 돌아온 것이 마음에 들지 않지만, 그가 제 401(k)에 기여한 바는 마음에 듭니다. 제가 위선자인가요?"
   },
   {
    "s": "Moscow Times",
    "t": "Russian TV Star With Ties to VTB Chief Backed Telegram’s Failed Crypto Venture – Report",
-   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384"
+   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384",
+   "k": "VTB 은행장과 연관된 러시아 TV 스타, 텔레그램의 실패한 암호화폐 벤처 지원 – 보도"
   },
   {
    "s": "TASS",
-   "t": "Credit to Russian economy up 1.7% in October — Central Bank",
-   "u": "https://tass.com/economy/2225447"
+   "t": "Russia’s trade with CIS countries amounts to $110 billion — secretary-general",
+   "u": "https://tass.com/economy/2225597",
+   "k": "러시아의 CIS 국가와의 교역액은 1,100억 달러에 달함 — 사무총장"
   },
   {
    "s": "Al Jazeera",
-   "t": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-   "u": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+   "t": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+   "u": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+   "k": "이스라엘 정착민들이 요르단강 서안지구 공격에서 팔레스타인 가족의 주택을 파손했습니다."
   },
   {
    "s": "Arab News",
-   "t": "Spain races to stop oil spill after ship capsizes off Ibiza",
-   "u": "https://www.arabnews.com/world/spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza-3014155"
+   "t": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
+   "u": "https://www.arabnews.com/world/eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine-3014203",
+   "k": "EU 정상들, 예산 지출 및 우크라이나에 대한 490억 달러 대출 문제로 의견 분열"
   },
   {
    "s": "CNA",
-   "t": "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
-   "u": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316"
+   "t": "Core inflation in Japan's capital accelerates in November",
+   "u": "https://www.channelnewsasia.com/business/core-inflation-in-japans-capital-accelerates-in-november-6586101",
+   "k": "11월 일본 수도권의 핵심 인플레이션 가속화"
   },
   {
    "s": "Straits Times",
-   "t": "2 companies linked to lash, hair and nails chain Milly’s wound up after outlets closed",
-   "u": "https://www.straitstimes.com/business/2-companies-linked-to-lash-hair-and-nails-chain-millys-wound-up-after-outlets-closed"
+   "t": "SAP weighs cutting at least 10,000 positions in AI restructuring",
+   "u": "https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring",
+   "k": "SAP, AI 재편 과정에서 최소 10,000명 감원 검토"
   },
   {
    "s": "Bangkok Post",
-   "t": "Status update: Asian nations’ trade talks with US",
-   "u": "https://www.bangkokpost.com/business/general/3361701/status-update-asian-nations-trade-talks-with-us"
+   "t": "Executives wary of tariff effect on exports",
+   "u": "https://www.bangkokpost.com/business/general/3362039/executives-wary-of-tariff-effect-on-exports",
+   "k": "관세가 수출에 미치는 영향에 대해 우려하는 경영진"
   },
   {
    "s": "Euronews",
-   "t": "From volume to value: making tourism work for more of Europe",
-   "u": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe"
+   "t": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
+   "u": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
+   "k": "아르헨티나, 소비 부진으로 인해 밀레이 대통령의 경제적 성과가 약화되면서 기술적 경기 침체에 진입"
   },
   {
    "s": "MercoPress",
    "t": "Colombia drops its bid to join the BRICS bank in a new shift towards the United States",
    "u": "https://en.mercopress.com/2026/11/26/colombia-drops-its-bid-to-join-the-brics-bank-in-a-new-shift-towards-the-united-states?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "콜롬비아, 미국으로의 새로운 전환을 맞아 브릭스(BRICS) 은행 가입 신청 철회"
+   "k": "콜롬비아가 미국과의 관계 개선을 위해 브릭스(BRICS) 은행 가입 신청을 철회하다"
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Caputo: Argentina has activated US$5-billion Chinese currency swap to guarantee debt repayments",
-   "u": "https://www.batimes.com.ar/news/economy/caputo-argentina-has-activated-us5-billion-chinese-currency-swap-to-guarantee-debt-payments.phtml"
+   "t": "Milei’s overhaul of Argentina’s Central Bank wins final approval in Congress",
+   "u": "https://www.batimes.com.ar/news/economy/mileis-overhaul-of-argentinas-central-bank-wins-final-approval-in-congress.phtml",
+   "k": "밀레이 대통령의 아르헨티나 중앙은행 개혁안, 의회에서 최종 승인"
   },
   {
    "s": "SCMP",
    "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
-   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+   "k": "상하이 당 서기 해임에도 불구하고 중국의 기술 분야 야망은 변함없을 것: 분석가들"
   },
   {
    "s": "Economic Times",
-   "t": "Finmin chairs final pre-Budget consultation",
-   "u": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-final-pre-budget-consultation-with-youth-ahead-of-union-budget-2027-28/articleshow/136193260.cms"
+   "t": "SC asks HDFC Bank, 3 others to ok staff prosecution",
+   "u": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136202807.cms",
+   "k": "대법원, HDFC 은행 및 기타 3개 은행에 직원 기소 승인 요청"
   },
   {
    "s": "CNN",
-   "t": "At the gym with the CEO who made us wait 13 years for GTA VI",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncVlCY1gweDdIUkFLM3luWThNdGtIbHFlMDRPWTc3X2lpQ2hVbncxTzRheVVxY2RPX1k2aFpNS2Mxdkx0RjRuYUlWeUFQUFY2Wi1Hcjk2WTRmWThlbW5pRm9ZeXpTbzNLVE5Pc01Za19iMGREc0R5Y1hNckY3R2M?oc=5"
+   "t": "Deadly flooding traps workers in Indonesian gold mine",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFRxbXNudU1BbUl3Rkg4dlFLLTZzaDVrZEo3V2diMzJEbjNiZlRBeGVnYnQ5U1dmYllERWpaelVDbWwwWVBXN2M5YXRYRUpwWG5Kc2pJTkNTU2lOQVVacnRBeGtLbVEwLWtkeW92UVZRdGc2SXo1MHJiNnFoSlBDS3BmVWo5SXJNakpJel95NlBlTWRNUW4zTzJZU3Y4NFREMC0xX1pYU3dLR19fZzY3RmFB?oc=5",
+   "k": "인도네시아 금광에서 발생한 치명적인 홍수로 인해 근로자들이 고립됨"
   },
   {
    "s": "BBC",
-   "t": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "u": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+   "t": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "u": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+   "k": "파이살 이슬람: 트럼프의 새로운 관세가 덜 위협적인 이유"
   },
   {
    "s": "BBC",
    "t": "Musk's plan to send a million SpaceX data satellites into space approved",
    "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
+   "k": "머스크의 스페이스X 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
-   "t": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-   "u": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html"
+   "t": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+   "u": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+   "k": "할리우드가 짧은 형식의 세로형 동영상으로 전환함에 따라 마이크로드라마 앱이 수익을 추구합니다."
   },
   {
    "s": "CNBC",
-   "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+   "t": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+   "u": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+   "k": "구매자 주의? Nvidia의 변동성 변동은 단일 주식 ETF의 위험을 노출합니다."
   },
   {
    "s": "Guardian",
-   "t": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-   "u": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps"
+   "t": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+   "u": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+   "k": "판사가 브렌단 카 위원장이 이끄는 FCC가 ABC의 방송 허가에 대해 더 이상 조치를 취하지 못하도록 차단"
   },
   {
    "s": "MarketWatch",
-   "t": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-   "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories"
+   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재정을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Fire breaks out at refinery in Krasnodar Region following drone attack, oil spill reported",
-   "u": "https://tass.com/politics/2225443"
+   "t": "EU unable to agree on next seven-year budget — German chancellor",
+   "u": "https://tass.com/world/2225587",
+   "k": "EU, 차기 7개년 예산에 합의하지 못해 — 독일 총리"
   },
   {
    "s": "Al Jazeera",
-   "t": "Inside Liberland, the crypto ‘country’ few have heard of",
-   "u": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "Saudi Arabia calls for continued human oversight over AI advances at UN",
-   "u": "https://www.arabnews.com/saudi-arabia/saudi-arabia-calls-for-continued-human-oversight-over-ai-advances-at-un-3014125"
+   "t": "Bangladesh garment workers clash with police over low wages",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+   "k": "방글라데시 의류 노동자, 저임금 문제로 경찰과 충돌"
   }
  ]
 }
