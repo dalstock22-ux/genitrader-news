@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:40+09:00",
+ "updated": "2026-11-26T20:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -9,9 +9,14 @@
    "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
   },
   {
+   "s": "CNN",
+   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
+  },
+  {
    "s": "BBC",
-   "t": "What's gone wrong at Poundland?",
-   "u": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o"
+   "t": "Norse Atlantic suspends all flights as it faces potential collapse",
+   "u": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
   },
   {
    "s": "BBC",
@@ -21,8 +26,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+   "t": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+   "u": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
   },
   {
    "s": "CNBC",
@@ -31,8 +36,8 @@
   },
   {
    "s": "Guardian",
-   "t": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
-   "u": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea"
+   "t": "Nvidia reportedly halts chip shipments to south-east Asia as stock sell-off eases – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
   },
   {
    "s": "MarketWatch",
@@ -47,8 +52,8 @@
   },
   {
    "s": "TASS",
-   "t": "Metals account for about 10% of Russia’s exports to Tajikistan — minister",
-   "u": "https://tass.com/economy/2225193"
+   "t": "Putin, Tokayev to ‘dive deep’ in AI topic at Sber conference — Kremlin",
+   "u": "https://tass.com/politics/2225233"
   },
   {
    "s": "Al Jazeera",
@@ -57,28 +62,28 @@
   },
   {
    "s": "Arab News",
-   "t": "Iraq jails 11 for oil smuggling under anti-terrorism law",
-   "u": "https://www.arabnews.com/middle-east/iraq-jails-11-for-oil-smuggling-under-anti-terrorism-law-3014114"
+   "t": "Bahrain inflation rises to 4% in October as transport costs climb",
+   "u": "https://www.arabnews.com/business/bahrain-inflation-rises-to-4-in-october-as-transport-costs-climb-3014118"
   },
   {
    "s": "CNA",
-   "t": "Indian trade body urges retaliatory tariffs on US goods, warns 500,000 jobs at risk",
-   "u": "https://www.channelnewsasia.com/asia/indian-trade-body-urges-retaliatory-tariffs-us-goods-warns-500000-jobs-risk-6584816"
+   "t": "Exclusive-StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
+   "u": "https://www.channelnewsasia.com/business/exclusive-stancharts-crypto-unit-zodia-custody-hit-security-breach-some-client-data-exposed-6584906"
   },
   {
    "s": "Straits Times",
-   "t": "Malaysia wants priority over other lenders if it backs AirAsia",
-   "u": "https://www.straitstimes.com/business/malaysia-wants-priority-over-other-lenders-if-it-backs-airasia"
+   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
+   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says"
   },
   {
    "s": "Bangkok Post",
-   "t": "Nvidia halts server shipments to Southeast Asia",
-   "u": "https://www.bangkokpost.com/business/general/3361629/nvidia-halts-server-shipments-to-southeast-asia"
+   "t": "SEC data breach affects 155 users",
+   "u": "https://www.bangkokpost.com/business/general/3361696/sec-data-breach-affects-155-users"
   },
   {
    "s": "Euronews",
-   "t": "UniCredit secures final Polish approval for Commerzbank takeover bid",
-   "u": "https://www.euronews.com/2026/11/26/unicredit-secures-final-polish-approval-for-commerzbank-takeover-bid"
+   "t": "Musk says will give two SpaceX shares to 'every child in America'",
+   "u": "https://www.euronews.com/2026/11/26/musk-says-will-give-two-spacex-shares-to-every-child-in-america"
   },
   {
    "s": "MercoPress",
@@ -94,8 +99,8 @@
   },
   {
    "s": "SCMP",
-   "t": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
-   "u": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market"
+   "t": "Hong Kong’s home prices fall in October as rents hit a record high",
+   "u": "https://www.scmp.com/business/markets/article/3375931/hong-kongs-home-prices-fall-october-rents-hit-record-high"
   },
   {
    "s": "Economic Times",
@@ -109,16 +114,9 @@
    "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
-   "s": "CNN",
-   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
-   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
-  },
-  {
    "s": "BBC",
-   "t": "New UK-EU treaty has 10-year termination clause",
-   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
+   "t": "Drivers over 70 face eye tests every three years under new plans",
+   "u": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo"
   },
   {
    "s": "BBC",
@@ -127,8 +125,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-   "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
   },
   {
    "s": "CNBC",
@@ -138,8 +136,8 @@
   },
   {
    "s": "Guardian",
-   "t": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-   "u": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+   "t": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+   "u": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents"
   },
   {
    "s": "MarketWatch",
@@ -154,8 +152,8 @@
   },
   {
    "s": "TASS",
-   "t": "As many as 63% of employed Russians support using AI in their work — pollster",
-   "u": "https://tass.com/society/2225177"
+   "t": "Metals account for about 10% of Russia’s exports to Tajikistan — minister",
+   "u": "https://tass.com/economy/2225193"
   },
   {
    "s": "Al Jazeera",
