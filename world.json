@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:40+09:00",
+ "updated": "2026-11-26T17:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,9 +10,19 @@
   },
   {
    "s": "BBC",
+   "t": "Poundland collapses putting 11,000 jobs at risk",
+   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+  },
+  {
+   "s": "BBC",
    "t": "US announces new tariffs on host of countries including China",
    "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
    "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
+  },
+  {
+   "s": "CNBC",
+   "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+   "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
   },
   {
    "s": "CNBC",
@@ -20,15 +30,9 @@
    "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
   },
   {
-   "s": "CNBC",
-   "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
-  },
-  {
    "s": "Guardian",
-   "t": "Elon Musk pledges to give two SpaceX shares to every child in the US",
-   "u": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
+   "t": "Nvidia reportedly halts chip shipments to south-east Asia as stock sell-off eases – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
   },
   {
    "s": "MarketWatch",
@@ -43,30 +47,28 @@
   },
   {
    "s": "TASS",
-   "t": "Lukoil hopes to return to international market — founder",
-   "u": "https://tass.com/economy/2225059"
+   "t": "Nvidia suspends chip shipments to Southeast Asia due to tighter controls — FT",
+   "u": "https://tass.com/economy/2225095"
   },
   {
    "s": "Al Jazeera",
-   "t": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-   "u": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
-   "k": "ICC 판사 킴벌리 프로스트가 전쟁범죄를 재판합니다. 그녀는 미국 제재의 대상입니다."
+   "t": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Kuwait Fund hosts panel discussion for UN Undersecretary-General for Humanitarian Affairs Tom Fletcher",
-   "u": "https://www.arabnews.com/corporate-and-sponsored-content/kuwait-fund-hosts-panel-discussion-for-un-undersecretary-general-for-humanitarian-affairs-tom-fletcher-3014092"
+   "t": "Saudi gaming accelerator graduates 21 startups with $6m in investments",
+   "u": "https://www.arabnews.com/business/saudi-gaming-accelerator-graduates-21-startups-with-6m-in-investments-3014101"
   },
   {
    "s": "CNA",
-   "t": "Nvidia halts chip shipments to Southeast Asia: Report",
-   "u": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
-   "k": "엔비디아, 동남아시아로의 칩 출하 중단: 보도"
+   "t": "China says reserves right to take 'measures' after new US tariffs",
+   "u": "https://www.channelnewsasia.com/east-asia/china-threaten-measures-after-new-us-tariffs-6584526"
   },
   {
    "s": "Straits Times",
-   "t": "MAS greenlights retail investor access to wider range of complex funds, but excludes private-market funds",
-   "u": "https://www.straitstimes.com/business/mas-greenlights-retail-investor-access-to-wider-range-of-complex-funds-but-excludes-private-market"
+   "t": "Investment-linked insurance v participating plans: What drives demand and which suits you better",
+   "u": "https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better"
   },
   {
    "s": "Bangkok Post",
@@ -97,8 +99,8 @@
   },
   {
    "s": "Economic Times",
-   "t": "Can pensioners claim tax deduction for rent paid?",
-   "u": "https://economictimes.indiatimes.com/wealth/tax/i-am-retired-and-live-on-rent-am-i-eligible-for-any-income-tax-deduction-or-exemption-like-hra/articleshow/136179997.cms"
+   "t": "Tariff tango: India resists, China protests",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-proposes-tariffs-on-countries-india-china-japan-singapore-vietnam-brazil-react-/articleshow/136181116.cms"
   },
   {
    "s": "CNN",
@@ -114,31 +116,31 @@
   },
   {
    "s": "BBC",
-   "t": "New UK-EU treaties have 10-year termination clause, BBC understands",
+   "t": "New UK-EU treaty has 10-year termination clause, BBC understands",
    "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
    "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
   },
   {
    "s": "BBC",
-   "t": "North Korea expels Swiss diplomat in sanctions row",
-   "u": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
-   "k": "북한, 제재 갈등으로 스위스 외교관 추방"
+   "t": "US approves SpaceX plan to send a million data satellites to space",
+   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
-   "t": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
-   "u": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html"
+   "t": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
   },
   {
    "s": "CNBC",
-   "t": "Prediction markets push OpenAI IPO expectations later into 2027",
-   "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
+   "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
   },
   {
    "s": "Guardian",
-   "t": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
-   "u": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling"
+   "t": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+   "u": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market"
   },
   {
    "s": "MarketWatch",
@@ -154,18 +156,13 @@
   },
   {
    "s": "TASS",
-   "t": "Nvidia cedes second place to Microsoft in most expensive companies list",
-   "u": "https://tass.com/economy/2225053"
+   "t": "IN BRIEF: Russian forces hit defense industry sites in Kiev in massive overnight strike",
+   "u": "https://tass.com/politics/2225093"
   },
   {
    "s": "Al Jazeera",
-   "t": "South Korea’s central bank hikes interest rates amid AI chip boom",
-   "u": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "Oil rises on supply concerns as Iran claims 9 strikes on ships",
-   "u": "https://www.arabnews.com/energy/oil-rises-on-supply-concerns-as-iran-claims-9-strikes-on-ships-3014091"
+   "t": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+   "u": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss"
   }
  ]
 }
