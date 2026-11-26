@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-26T10:40+09:00",
+ "updated": "2026-11-26T11:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
+   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
   },
   {
-   "s": "CNN",
-   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
-   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
+   "s": "BBC",
+   "t": "UK government set to publish new treaties agreed with EU",
+   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
   },
   {
    "s": "BBC",
@@ -22,15 +22,15 @@
   },
   {
    "s": "CNBC",
-   "t": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
+   "t": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "k": "SpaceX, 100만 개의 궤도 데이터 센터 위성 배치에 대한 FCC 승인 획득"
   },
   {
    "s": "CNBC",
-   "t": "Prediction markets push OpenAI IPO expectations later into 2027",
-   "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
+   "t": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
   },
   {
    "s": "Guardian",
@@ -57,12 +57,6 @@
    "k": "미 국무부, 6억 2,190만 달러 상당의 F-16 정비 키트 키이우 판매 승인"
   },
   {
-   "s": "Al Jazeera",
-   "t": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-   "u": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-   "k": "호데이다 항에 대한 공격이 재개되면 예멘의 인도주의적 위기가 악화될 수 있을까요?"
-  },
-  {
    "s": "Arab News",
    "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
    "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
@@ -70,9 +64,9 @@
   },
   {
    "s": "CNA",
-   "t": "Asian economies respond to Trump’s new tariffs",
-   "u": "https://www.channelnewsasia.com/asia/asian-economies-respond-trump-new-tariffs-6583496",
-   "k": "트럼프 대통령의 새로운 관세 부과에 대응하는 아시아 경제권"
+   "t": "Data centre rush drives biggest rise in Australian business investment since mining boom",
+   "u": "https://www.channelnewsasia.com/business/data-centre-rush-drives-biggest-rise-in-australian-business-investment-mining-boom-6583791",
+   "k": "데이터 센터 붐이 광업 붐 이후 호주 기업 투자에서 가장 큰 증가를 이끌어내다"
   },
   {
    "s": "Straits Times",
@@ -100,9 +94,9 @@
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Argentina's government rules out economic policy changes despite creeping recession",
-   "u": "https://www.batimes.com.ar/news/economy/argentinas-government-rules-out-economic-policy-changes-despite-creeping-recession.phtml",
-   "k": "아르헨티나 정부, 경기 침체에도 불구하고 경제 정책 변경 불가 방침"
+   "t": "Santilli says Argentina's gold reserves are 'perfectly safe'",
+   "u": "https://www.batimes.com.ar/news/economy/santilli-says-argentinas-gold-reserves-are-perfectly-safe.phtml",
+   "k": "산틸리 장관, 아르헨티나의 금 보유고가 '완전히 안전'하다고 밝혀"
   },
   {
    "s": "SCMP",
@@ -112,21 +106,21 @@
   },
   {
    "s": "Economic Times",
-   "t": "Trump's 25% tariff axe comes swinging down on India",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-india-six-other-economies-with-proposed-tariffs-of-up-to-25-in-fresh-trade-offensive-report/articleshow/136163453.cms",
-   "k": "트럼프 대통령의 25% 관세 폭탄이 인도에 떨어지다"
+   "t": "Trump's tariff move is about power, not popularity",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity/articleshow/136176235.cms",
+   "k": "트럼프의 관세 조치는 인기가 아닌 권력에 관한 것이다"
   },
   {
    "s": "CNN",
-   "t": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN0dJdjVwenUzU1ZaV0l0cGVyeTRQUEZuOHlEdGpHVGFKc0xGcXVIWkJDbWRyc2R2X015X283NmViZmZBLUt6OGNQZDBUdkhKYldOYnV2RENtZThoVnhTRUxqQVZpR0dZb1ZnYWQ0VEtNMTU5TGow?oc=5",
-   "k": "러시아 석유 회사 루코일의 해외 자산, 미국 억만장자 토드 보엘리가 이끄는 투자자들에게 매각"
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
-   "s": "BBC",
-   "t": "US approves SpaceX plan to send a million data satellites to space",
-   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
+   "s": "CNN",
+   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
+   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
   },
   {
    "s": "BBC",
@@ -136,15 +130,15 @@
   },
   {
    "s": "CNBC",
-   "t": "South Korea raises rates to highest in two years, as inflation remains above target",
-   "u": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-   "k": "인플레이션이 목표치를 웃도는 가운데 한국, 2년 만에 최고 금리 인상"
+   "t": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+   "u": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+   "k": "‘당신의 자리가 기다리고 있습니다’: 데니스가 엔비디아 CEO 젠슨 황을 다시 맞이하다"
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
+   "t": "Prediction markets push OpenAI IPO expectations later into 2027",
+   "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
   },
   {
    "s": "Guardian",
@@ -178,9 +172,15 @@
   },
   {
    "s": "CNA",
-   "t": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
-   "u": "https://www.channelnewsasia.com/business/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-6583511",
-   "k": "일본은행의 다무라 이사, 더 빠른 속도의 금리 인상 가능성 시사"
+   "t": "Asian economies respond to Trump’s new tariffs",
+   "u": "https://www.channelnewsasia.com/asia/asian-economies-respond-trump-new-tariffs-6583496",
+   "k": "트럼프 대통령의 새로운 관세 부과에 대응하는 아시아 경제권"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "u": "https://www.straitstimes.com/business/companies-markets/nasdaq-sp-500-end-down-but-well-off-lows-as-investors-buy-bargains",
+   "k": "나스닥, S&P 500 지수 하락 마감, 하지만 투자자들이 저가 매수에 나서면서 저점에서는 크게 벗어남"
   }
  ]
 }
