@@ -1,16 +1,11 @@
 {
- "updated": "2026-11-26T22:40+09:00",
+ "updated": "2026-11-26T23:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "symbol__ Stock Quote Price and Forecast",
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JdE9PNUxaYjRYazNVc3FDbGx1U002SW9tWFhoVnJKY1JQT1ZQS01xaXpwaWVIaUczalg3c1ZNTUw0Rms2aTVfTS1yMmtGMEtv?oc=5"
-  },
-  {
-   "s": "CNN",
-   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
+   "t": "At the gym with the CEO who made us wait 13 years for GTA VI",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncVlCY1gweDdIUkFLM3luWThNdGtIbHFlMDRPWTc3X2lpQ2hVbncxTzRheVVxY2RPX1k2aFpNS2Mxdkx0RjRuYUlWeUFQUFY2Wi1Hcjk2WTRmWThlbW5pRm9ZeXpTbzNLVE5Pc01Za19iMGREc0R5Y1hNckY3R2M?oc=5"
   },
   {
    "s": "BBC",
@@ -24,23 +19,23 @@
   },
   {
    "s": "CNBC",
-   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+   "t": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+   "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
   },
   {
    "s": "CNBC",
-   "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+   "t": "Semiconductor chips are the new oil. Here's why",
+   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
   },
   {
    "s": "Guardian",
-   "t": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-   "u": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm"
+   "t": "Marlboro maker Altria says considering takeover of Davidoff maker Imperial Bands – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
   },
   {
    "s": "MarketWatch",
-   "t": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-   "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
+   "t": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+   "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -49,18 +44,18 @@
   },
   {
    "s": "TASS",
-   "t": "Russia’s international reserves down $19.5 bln one week to $699 bln — Central Bank",
-   "u": "https://tass.com/economy/2225351"
+   "t": "Qatar’s LNG exports hit highest level since start of US-Iran conflict",
+   "u": "https://tass.com/economy/2225397"
   },
   {
    "s": "Al Jazeera",
-   "t": "Is UBI the solution to mass unemployment in an AI economy?",
-   "u": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss"
+   "t": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+   "u": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Israel defense minister threatens to displace 1 million Gazans if Hamas won’t disarm",
-   "u": "https://www.arabnews.com/middle-east/israel-defense-minister-threatens-to-displace-1-million-gazans-if-hamas-wont-disarm-3014132"
+   "t": "Saudi Arabia calls for continued human oversight over AI advances at UN",
+   "u": "https://www.arabnews.com/saudi-arabia/saudi-arabia-calls-for-continued-human-oversight-over-ai-advances-at-un-3014125"
   },
   {
    "s": "CNA",
@@ -100,19 +95,23 @@
   },
   {
    "s": "Economic Times",
-   "t": "17% US trade tariff offers little export advantage: FIEO",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms"
+   "t": "Finmin chairs final pre-Budget consultation",
+   "u": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-final-pre-budget-consultation-with-youth-ahead-of-union-budget-2027-28/articleshow/136193260.cms"
   },
   {
    "s": "CNN",
-   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
-   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
+   "t": "symbol__ Stock Quote Price and Forecast",
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JdE9PNUxaYjRYazNVc3FDbGx1U002SW9tWFhoVnJKY1JQT1ZQS01xaXpwaWVIaUczalg3c1ZNTUw0Rms2aTVfTS1yMmtGMEtv?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
   },
   {
    "s": "BBC",
-   "t": "Drivers over 70 face eye tests every three years under new plans",
-   "u": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo"
+   "t": "When will Poundland close? Five questions about its future",
+   "u": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo"
   },
   {
    "s": "BBC",
@@ -122,24 +121,23 @@
   },
   {
    "s": "CNBC",
-   "t": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-   "u": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html"
+   "t": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
+   "u": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html"
   },
   {
    "s": "CNBC",
-   "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
+   "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
   },
   {
    "s": "Guardian",
-   "t": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
+   "t": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit"
   },
   {
    "s": "MarketWatch",
-   "t": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-   "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories"
+   "t": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+   "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -149,13 +147,13 @@
   },
   {
    "s": "TASS",
-   "t": "Impossible to eradicate doping abuse in sports, says WADA chief Banka",
-   "u": "https://tass.com/sports/2225347"
+   "t": "Sandu preparing Moldova to become supply hub for Kiev — Russian MFA",
+   "u": "https://tass.com/politics/2225395"
   },
   {
    "s": "Al Jazeera",
-   "t": "FIFA says personal and business information stolen in cyberattack",
-   "u": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
+   "t": "Inside Liberland, the crypto ‘country’ few have heard of",
+   "u": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
   }
  ]
 }
