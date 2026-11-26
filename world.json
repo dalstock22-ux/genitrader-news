@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:40+09:00",
+ "updated": "2026-11-26T12:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,21 +10,15 @@
   },
   {
    "s": "BBC",
-   "t": "UK government set to publish new treaties agreed with EU",
-   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
-  },
-  {
-   "s": "BBC",
    "t": "US announces new tariffs on host of countries including China",
    "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
    "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "CNBC",
-   "t": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "k": "SpaceX, 100만 개의 궤도 데이터 센터 위성 배치에 대한 FCC 승인 획득"
+   "t": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+   "u": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "k": "인플레이션이 목표치를 웃도는 가운데 한국, 2년 만에 최고 금리 인상"
   },
   {
    "s": "CNBC",
@@ -58,9 +52,9 @@
   },
   {
    "s": "Arab News",
-   "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-   "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
-   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
+   "t": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
+   "u": "https://www.arabnews.com/world/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade-3014077",
+   "k": "미국, '불공정' 무역을 이유로 EU, 중국 및 기타 국가에 대한 관세 부과 발표"
   },
   {
    "s": "CNA",
@@ -70,9 +64,9 @@
   },
   {
    "s": "Straits Times",
-   "t": "S&P warns Nvidia’s board may be compromised, puts chipmaker’s rating on downgrade watch",
-   "u": "https://www.straitstimes.com/business/sp-warns-nvidias-board-may-be-compromised-puts-chipmakers-rating-on-downgrade-watch",
-   "k": "S&P, 엔비디아 이사회가 타격을 입을 수 있다고 경고하며 칩 제조업체의 신용등급을 하향 조정 가능성 관찰 대상에 포함"
+   "t": "Air India chief seeks to cut $838 million in costs in 2026",
+   "u": "https://www.straitstimes.com/business/air-india-chief-seeks-to-cut-838-million-in-costs-in-2026",
+   "k": "에어 인디아 CEO, 2026년까지 비용 8억 3,800만 달러 감축 목표"
   },
   {
    "s": "Bangkok Post",
@@ -106,9 +100,9 @@
   },
   {
    "s": "Economic Times",
-   "t": "Trump's tariff move is about power, not popularity",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity/articleshow/136176235.cms",
-   "k": "트럼프의 관세 조치는 인기가 아닌 권력에 관한 것이다"
+   "t": "Gold down by Rs 52K from Jan high? Should you invest?",
+   "u": "https://economictimes.indiatimes.com/wealth/invest/rs-51700-fall-in-mcx-10g-gold-rate-price-today-from-january-peaks-should-you-invest-now/articleshow/136166158.cms",
+   "k": "금값이 1월 고점 대비 52,000루피 하락? 지금 투자해야 할까요?"
   },
   {
    "s": "CNN",
@@ -124,15 +118,21 @@
   },
   {
    "s": "BBC",
+   "t": "UK government set to publish new treaties agreed with EU",
+   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
+  },
+  {
+   "s": "BBC",
    "t": "North Korea expels Swiss diplomat in sanctions row",
    "u": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
    "k": "북한, 제재 갈등으로 스위스 외교관 추방"
   },
   {
    "s": "CNBC",
-   "t": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-   "u": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-   "k": "‘당신의 자리가 기다리고 있습니다’: 데니스가 엔비디아 CEO 젠슨 황을 다시 맞이하다"
+   "t": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "u": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+   "k": "S&P, '증가하는' 경영 및 거버넌스 리스크로 인해 엔비디아 신용등급이 하향 조정될 수 있다고 경고"
   },
   {
    "s": "CNBC",
@@ -166,21 +166,21 @@
   },
   {
    "s": "Arab News",
-   "t": "Brazil says proposed new US tariffs ‘unacceptable’",
-   "u": "https://www.arabnews.com/world/brazil-says-proposed-new-us-tariffs-unacceptable-3014062",
-   "k": "브라질, 미국이 제안한 새로운 관세 부과 '용납할 수 없다'고 밝혀"
+   "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+   "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
+   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
   },
   {
    "s": "CNA",
-   "t": "Asian economies respond to Trump’s new tariffs",
-   "u": "https://www.channelnewsasia.com/asia/asian-economies-respond-trump-new-tariffs-6583496",
-   "k": "트럼프 대통령의 새로운 관세 부과에 대응하는 아시아 경제권"
+   "t": "From rising star to investigation: Why Shanghai party boss Chen Jining’s case matters for China’s leadership",
+   "u": "https://www.channelnewsasia.com/east-asia/chen-jining-investigation-shanghai-party-secretary-politburo-6581296",
+   "k": "떠오르는 별에서 수사 대상까지: 첸지닝 상하이 당 서기의 사건이 중국 지도부에 중요한 이유"
   },
   {
    "s": "Straits Times",
-   "t": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-   "u": "https://www.straitstimes.com/business/companies-markets/nasdaq-sp-500-end-down-but-well-off-lows-as-investors-buy-bargains",
-   "k": "나스닥, S&P 500 지수 하락 마감, 하지만 투자자들이 저가 매수에 나서면서 저점에서는 크게 벗어남"
+   "t": "S&P warns Nvidia’s board may be compromised, puts chipmaker’s rating on downgrade watch",
+   "u": "https://www.straitstimes.com/business/sp-warns-nvidias-board-may-be-compromised-puts-chipmakers-rating-on-downgrade-watch",
+   "k": "S&P, 엔비디아 이사회가 타격을 입을 수 있다고 경고하며 칩 제조업체의 신용등급을 하향 조정 가능성 관찰 대상에 포함"
   }
  ]
 }
