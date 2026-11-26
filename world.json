@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:40+09:00",
+ "updated": "2026-11-26T18:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,14 +10,9 @@
   },
   {
    "s": "BBC",
-   "t": "Poundland collapses putting 11,000 jobs at risk",
-   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
-  },
-  {
-   "s": "BBC",
-   "t": "US announces new tariffs on host of countries including China",
-   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
+   "t": "Musk's plan to send a million SpaceX data satellites into space approved",
+   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
@@ -47,28 +42,28 @@
   },
   {
    "s": "TASS",
-   "t": "Nvidia suspends chip shipments to Southeast Asia due to tighter controls — FT",
-   "u": "https://tass.com/economy/2225095"
+   "t": "Russian businesses lose over $48.6 mln per month due to Google Play blocks — Rostelecom",
+   "u": "https://tass.com/economy/2225129"
   },
   {
    "s": "Al Jazeera",
-   "t": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss"
+   "t": "Explosion occurs at oil facility in Thailand’s Bangkok",
+   "u": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Saudi gaming accelerator graduates 21 startups with $6m in investments",
-   "u": "https://www.arabnews.com/business/saudi-gaming-accelerator-graduates-21-startups-with-6m-in-investments-3014101"
+   "t": "Dubai Islamic Bank acquires Emirates Islamic to make second-largest Islamic banking group",
+   "u": "https://www.arabnews.com/business/dubai-islamic-bank-acquires-emirates-islamic-to-make-second-largest-islamic-banking-group-3014100"
   },
   {
    "s": "CNA",
-   "t": "China says reserves right to take 'measures' after new US tariffs",
-   "u": "https://www.channelnewsasia.com/east-asia/china-threaten-measures-after-new-us-tariffs-6584526"
+   "t": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships",
+   "u": "https://www.channelnewsasia.com/business/oil-little-changed-supply-concerns-linger-after-iran-claims-mine-strikes-ships-6583906"
   },
   {
    "s": "Straits Times",
-   "t": "Investment-linked insurance v participating plans: What drives demand and which suits you better",
-   "u": "https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better"
+   "t": "Indonesian nickel tycoon Arif Kurniawan named suspect in money laundering probe",
+   "u": "https://www.straitstimes.com/business/indonesian-nickel-tycoon-arif-kurniawan-named-suspect-in-money-laundering-probe"
   },
   {
    "s": "Bangkok Post",
@@ -99,8 +94,8 @@
   },
   {
    "s": "Economic Times",
-   "t": "Tariff tango: India resists, China protests",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-proposes-tariffs-on-countries-india-china-japan-singapore-vietnam-brazil-react-/articleshow/136181116.cms"
+   "t": "How Trump's tariff salvo for India compare with rivals",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
   },
   {
    "s": "CNN",
@@ -116,19 +111,17 @@
   },
   {
    "s": "BBC",
-   "t": "New UK-EU treaty has 10-year termination clause, BBC understands",
-   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
+   "t": "Poundland collapses putting 11,000 jobs at risk",
+   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
   },
   {
    "s": "BBC",
-   "t": "US approves SpaceX plan to send a million data satellites to space",
-   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
+   "t": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "u": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro"
   },
   {
    "s": "CNBC",
-   "t": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
    "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
   },
   {
@@ -139,8 +132,8 @@
   },
   {
    "s": "Guardian",
-   "t": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
-   "u": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market"
+   "t": "UK regulator admits error in calculating car finance compensation payments",
+   "u": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments"
   },
   {
    "s": "MarketWatch",
@@ -156,13 +149,18 @@
   },
   {
    "s": "TASS",
-   "t": "IN BRIEF: Russian forces hit defense industry sites in Kiev in massive overnight strike",
-   "u": "https://tass.com/politics/2225093"
+   "t": "Gas stocks in leading European countries at all-time low",
+   "u": "https://tass.com/economy/2225109"
   },
   {
    "s": "Al Jazeera",
-   "t": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-   "u": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss"
+   "t": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss"
+  },
+  {
+   "s": "Arab News",
+   "t": "Japan, China trade accusations over ships near disputed islands",
+   "u": "https://www.arabnews.com/world/japan-china-trade-accusations-over-ships-near-disputed-islands-3014105"
   }
  ]
 }
