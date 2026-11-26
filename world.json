@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:40+09:00",
+ "updated": "2026-11-26T15:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -16,15 +16,21 @@
   },
   {
    "s": "CNBC",
+   "t": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+   "u": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+   "k": "SpaceX, 머스크, 트럼프의 현직 계정에 각각 지분 기부 약속"
+  },
+  {
+   "s": "CNBC",
    "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
    "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
    "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
   },
   {
    "s": "Guardian",
-   "t": "UK food inflation could hit 5% next year, Bank of England says",
-   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
+   "t": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+   "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "k": "브라질, 트럼프의 관세 부과 위협을 '용납할 수 없는' 조치라고 비판. 중국은 관세 부과를 근거 없는 조치라고 비난"
   },
   {
    "s": "MarketWatch",
@@ -40,15 +46,15 @@
   },
   {
    "s": "TASS",
-   "t": "Colombian authorities decide to reject joining BRICS bank — Foreign Ministry",
-   "u": "https://tass.com/economy/2225001",
-   "k": "콜롬비아 당국, 브릭스(BRICS) 은행 가입 거부 결정 — 외교부"
+   "t": "Russian stock market declines in early trading hours",
+   "u": "https://tass.com/economy/2225035",
+   "k": "러시아 주식 시장, 개장 초 하락세"
   },
   {
    "s": "Al Jazeera",
-   "t": "Brazil blasts ‘unacceptable’ new US tariff proposals",
-   "u": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
-   "k": "브라질, 미국의 새로운 관세 부과안을 '용납할 수 없는' 조치라고 비난"
+   "t": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+   "u": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+   "k": "ICC 판사 킴벌리 프로스트가 전쟁범죄를 재판합니다. 그녀는 미국 제재의 대상입니다."
   },
   {
    "s": "Arab News",
@@ -58,9 +64,9 @@
   },
   {
    "s": "CNA",
-   "t": "Nvidia halts chip shipments to Southeast Asia, FT reports",
-   "u": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
-   "k": "파이낸셜타임스, 엔비디아가 동남아시아로의 칩 출하를 중단했다고 보도"
+   "t": "Nvidia halts chip shipments to Southeast Asia: Report",
+   "u": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+   "k": "엔비디아, 동남아시아로의 칩 출하 중단: 보도"
   },
   {
    "s": "Straits Times",
@@ -70,9 +76,9 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Samitivej Envisions the Future of Hospitals: Treating People, Not Just Diseases, to Extend Healthspan",
-   "u": "https://www.bangkokpost.com/business/general/3361620/samitivej-envisions-the-future-of-hospitals-treating-people-not-just-diseases-to-extend-healthspan",
-   "k": "사미티베즈, 병원의 미래를 내다보다: 질병뿐만 아니라 사람을 치료하여 건강 수명 연장"
+   "t": "Nvidia reportedly halts chip shipments to Southeast Asia",
+   "u": "https://www.bangkokpost.com/business/general/3361629/nvidia-reportedly-halts-chip-shipments-to-southeast-asia",
+   "k": "Nvidia, 동남아시아로의 칩 출하 중단 보도"
   },
   {
    "s": "Euronews",
@@ -94,9 +100,9 @@
   },
   {
    "s": "SCMP",
-   "t": "Falling knife or bottom-fishing? Gold investors seek answers from Fed and PBOC",
-   "u": "https://www.scmp.com/business/commodities/article/3375873/falling-knife-or-bottom-fishing-gold-investors-seek-answers-fed-and-pboc",
-   "k": "하락하는 주식을 매수하는 것일까요, 아니면 바닥을 찍은 주식을 매수하는 것일까요? 금 투자자들, 연준과 중국 인민은행의 답변을 기다려"
+   "t": "Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut",
+   "u": "https://www.scmp.com/business/china-business/article/3375856/chinese-ai-trade-turns-cautious-after-wall-street-volatility-anthropics-rocky-debut",
+   "k": "월스트리트 변동성, 앤트로픽의 불안한 데뷔 이후 중국 AI 거래 신중해져"
   },
   {
    "s": "Economic Times",
@@ -106,19 +112,13 @@
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
-  },
-  {
-   "s": "CNN",
    "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
    "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
   },
   {
    "s": "BBC",
-   "t": "UK government set to publish new treaties agreed with EU",
+   "t": "New UK-EU treaties have 10-year termination clause, BBC understands",
    "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
    "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
   },
@@ -142,9 +142,8 @@
   },
   {
    "s": "Guardian",
-   "t": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
-   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
-   "k": "장관들은 가스 가격을 통제할 수 없지만, 다른 에너지 비용에는 더 가차 없이 개입할 수 있습니다."
+   "t": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+   "u": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
   },
   {
    "s": "MarketWatch",
@@ -160,15 +159,13 @@
   },
   {
    "s": "TASS",
-   "t": "CIS countries overcome Western sanctions by switching to national currencies — chief",
-   "u": "https://tass.com/economy/2224999",
-   "k": "CIS 국가들, 자국 통화로 전환하여 서방 제재 극복 — 수석"
+   "t": "Brent oil prices hit $96 per barrel on London’s ICE",
+   "u": "https://tass.com/economy/2225021"
   },
   {
    "s": "Al Jazeera",
-   "t": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-   "u": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-   "k": "앤트로픽의 CEO 아모데이가 인류가 AI에 자유 의지를 '포기'하기를 바란다는 주장을 부인했습니다."
+   "t": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+   "u": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss"
   },
   {
    "s": "Arab News",
@@ -178,9 +175,8 @@
   },
   {
    "s": "CNA",
-   "t": "Musk says every child in the US will get two SpaceX shares",
-   "u": "https://www.channelnewsasia.com/business/musk-says-every-child-in-us-will-get-two-spacex-shares-6584096",
-   "k": "머스크는 미국에 있는 모든 어린이가 SpaceX 주식 2주를 받게 될 것이라고 말합니다."
+   "t": "Balestier Market to undergo revamp with 'diverse F&B and retail offerings'",
+   "u": "https://www.channelnewsasia.com/dining/balestier-market-revamp-6584156"
   }
  ]
 }
