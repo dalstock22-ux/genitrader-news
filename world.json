@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-26T20:40+09:00",
+ "updated": "2026-11-26T21:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
-   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
+   "t": "symbol__ Stock Quote Price and Forecast",
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JdE9PNUxaYjRYazNVc3FDbGx1U002SW9tWFhoVnJKY1JQT1ZQS01xaXpwaWVIaUczalg3c1ZNTUw0Rms2aTVfTS1yMmtGMEtv?oc=5"
   },
   {
    "s": "CNN",
-   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
+   "t": "Trump’s midterms debacle hasn’t dimmed his designs on Cuba. Or those of ‘President’ Rubio",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEVoSHBXNGhMTGNBZmRWbEdLOTczSHlmWmJfU3hITm03dkR4N0dVN1Npb0VTRXhTMGI5elI3VjNRV2NSeXNTTXBHQjBNaFpvUmpxRnhxUzRDdGtfX2FVT0RucENabDhOci1WTVp6OHRIYlpyNHVnOXZQNXQwWlJ5YXhncWVVeHNGSVJjZEVR?oc=5"
   },
   {
    "s": "BBC",
@@ -20,14 +19,13 @@
   },
   {
    "s": "BBC",
-   "t": "Musk's plan to send a million SpaceX data satellites into space approved",
-   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
+   "t": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
   },
   {
    "s": "CNBC",
-   "t": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-   "u": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
   },
   {
    "s": "CNBC",
@@ -36,13 +34,13 @@
   },
   {
    "s": "Guardian",
-   "t": "Nvidia reportedly halts chip shipments to south-east Asia as stock sell-off eases – business live",
+   "t": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
    "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
   },
   {
    "s": "MarketWatch",
-   "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-   "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
+   "t": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+   "u": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -52,38 +50,38 @@
   },
   {
    "s": "TASS",
-   "t": "Putin, Tokayev to ‘dive deep’ in AI topic at Sber conference — Kremlin",
-   "u": "https://tass.com/politics/2225233"
+   "t": "Russia to introduce preferential loans for Russian companies at Dushanbe technopark",
+   "u": "https://tass.com/economy/2225295"
   },
   {
    "s": "Al Jazeera",
-   "t": "Explosion rocks Bangkok oil depot",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
+   "t": "With the rise of AI, are we close to having universal basic income",
+   "u": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Bahrain inflation rises to 4% in October as transport costs climb",
-   "u": "https://www.arabnews.com/business/bahrain-inflation-rises-to-4-in-october-as-transport-costs-climb-3014118"
+   "t": "Aramco, Sabic among Saudi-listed firms expecting limited impact from new top-up tax",
+   "u": "https://www.arabnews.com/business/aramco-sabic-among-saudi-listed-firms-expecting-limited-impact-from-new-top-up-tax-3014113"
   },
   {
    "s": "CNA",
-   "t": "Exclusive-StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
-   "u": "https://www.channelnewsasia.com/business/exclusive-stancharts-crypto-unit-zodia-custody-hit-security-breach-some-client-data-exposed-6584906"
+   "t": "AI agents used in five cyber attacks in Switzerland, government says",
+   "u": "https://www.channelnewsasia.com/business/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says-6585191"
   },
   {
    "s": "Straits Times",
-   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
-   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says"
+   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
+   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs"
   },
   {
    "s": "Bangkok Post",
-   "t": "SEC data breach affects 155 users",
-   "u": "https://www.bangkokpost.com/business/general/3361696/sec-data-breach-affects-155-users"
+   "t": "Status update: Asian nations’ trade talks with US",
+   "u": "https://www.bangkokpost.com/business/general/3361701/status-update-asian-nations-trade-talks-with-us"
   },
   {
    "s": "Euronews",
-   "t": "Musk says will give two SpaceX shares to 'every child in America'",
-   "u": "https://www.euronews.com/2026/11/26/musk-says-will-give-two-spacex-shares-to-every-child-in-america"
+   "t": "TUI boss wants EU to cut bureaucracy, attract talent and expand green energy",
+   "u": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy"
   },
   {
    "s": "MercoPress",
@@ -104,14 +102,19 @@
   },
   {
    "s": "Economic Times",
-   "t": "Seven hurt in Bangkok oil facility explosion",
-   "u": "https://economictimes.indiatimes.com/nri/latest-updates/bangkok-oil-depot-explosion-injures-seven-four-critical-nearby-schools-evacuated-as-fire-breaks-out/articleshow/136186497.cms"
+   "t": "17% US trade tariff offers little export advantage: FIEO",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms"
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
+   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
+  },
+  {
+   "s": "CNN",
+   "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
   },
   {
    "s": "BBC",
@@ -120,13 +123,14 @@
   },
   {
    "s": "BBC",
-   "t": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-   "u": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro"
+   "t": "Musk's plan to send a million SpaceX data satellites into space approved",
+   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
-   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+   "t": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+   "u": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html"
   },
   {
    "s": "CNBC",
@@ -136,13 +140,13 @@
   },
   {
    "s": "Guardian",
-   "t": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
-   "u": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents"
+   "t": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
+   "u": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns"
   },
   {
    "s": "MarketWatch",
-   "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-   "u": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories"
+   "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+   "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -152,13 +156,8 @@
   },
   {
    "s": "TASS",
-   "t": "Metals account for about 10% of Russia’s exports to Tajikistan — minister",
-   "u": "https://tass.com/economy/2225193"
-  },
-  {
-   "s": "Al Jazeera",
-   "t": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
-   "u": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
+   "t": "Tajikistan plans to fully switch to renewable energy by 2032 — Prime Minister",
+   "u": "https://tass.com/world/2225289"
   }
  ]
 }
