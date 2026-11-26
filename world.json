@@ -1,12 +1,18 @@
 {
- "updated": "2026-11-26T13:40+09:00",
+ "updated": "2026-11-26T14:00+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
-   "k": "판사가 트럼프의 FCC가 ABC 방송국을 겨냥하는 것을 차단: '이것은 명확하지 않은 사안입니다'"
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성까지: 산업용 AI의 핵심에 신뢰를 두기"
+  },
+  {
+   "s": "CNN",
+   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
+   "k": "북한의 김정은 위원장, 무기 시설 시찰 중 전술핵 배치 확대 촉구"
   },
   {
    "s": "BBC",
@@ -16,9 +22,9 @@
   },
   {
    "s": "CNBC",
-   "t": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
-   "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-   "k": "헤지펀드는 더 이상 부유층만을 위한 것이 아닙니다. 이제 헤지펀드는 일반 투자자들을 유치하고 있습니다."
+   "t": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "k": "기술주 반등에 힘입어 아시아 시장 상승, 한국 코스피가 선두"
   },
   {
    "s": "CNBC",
@@ -28,51 +34,51 @@
   },
   {
    "s": "Guardian",
-   "t": "UK food inflation could hit 5% next year, Bank of England says",
-   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
+   "t": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+   "u": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+   "k": "판사가 브렌단 카 위원장이 이끄는 FCC가 ABC의 방송 허가에 대해 더 이상 조치를 취하지 못하도록 차단"
   },
   {
    "s": "MarketWatch",
    "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
    "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
+   "k": "Nvidia의 젠슨 황이 401(k) 잔액을 좌우하는 위험한 시대를 살고 있습니다."
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "CIS countries overcome Western sanctions by switching to national currencies — chief",
-   "u": "https://tass.com/economy/2224999",
-   "k": "CIS 국가들, 자국 통화로 전환하여 서방 제재 극복 — 수석"
+   "t": "Colombian authorities decide to reject joining BRICS bank — Foreign Ministry",
+   "u": "https://tass.com/economy/2225001",
+   "k": "콜롬비아 당국, 브릭스(BRICS) 은행 가입 거부 결정 — 외교부"
   },
   {
    "s": "Al Jazeera",
-   "t": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-   "u": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-   "k": "앤트로픽의 CEO 아모데이가 인류가 AI에 자유 의지를 '포기'하기를 바란다는 주장을 부인했습니다."
+   "t": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+   "u": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+   "k": "브라질, 미국의 새로운 관세 인상안을 '용납할 수 없는' 조치라고 비난"
   },
   {
    "s": "Arab News",
    "t": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
    "u": "https://www.arabnews.com/world/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade-3014077",
-   "k": "미국, '불공정' 무역을 이유로 EU, 중국 및 기타 국가에 대한 관세 부과 발표"
+   "k": "미국, '불공정' 무역을 이유로 EU, 중국 등 대상 관세 부과 발표"
   },
   {
    "s": "CNA",
    "t": "Musk says every child in the US will get two SpaceX shares",
    "u": "https://www.channelnewsasia.com/business/musk-says-every-child-in-us-will-get-two-spacex-shares-6584096",
-   "k": "머스크는 미국에 있는 모든 어린이가 SpaceX 주식 2주를 받게 될 것이라고 말합니다."
+   "k": "머스크는 미국 내 모든 어린이가 SpaceX 주식 2주를 받게 될 것이라고 말합니다."
   },
   {
    "s": "Straits Times",
    "t": "Singapore ‘very disappointed’ by proposed US tariffs, says move overlooks its economic structure",
    "u": "https://www.straitstimes.com/business/singapore-very-disappointed-by-proposed-us-tariffs-says-move-overlooks-its-economic-structure",
-   "k": "싱가포르, 미국이 제안한 관세에 대해 '매우 실망'하며, 이 조치가 싱가포르의 경제 구조를 간과하고 있다고 밝힘"
+   "k": "싱가포르, 미국의 관세 부과안에 '매우 실망'하며 이 조치가 자국의 경제 구조를 간과하고 있다고 지적"
   },
   {
    "s": "Bangkok Post",
@@ -88,9 +94,9 @@
   },
   {
    "s": "MercoPress",
-   "t": "Falklands commissions independent review (and survey) of the Tax system",
-   "u": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "포클랜드 제도가 조세제도에 대한 독립적인 검토(및 설문조사)를 의뢰함"
+   "t": "Colombia drops its bid to join the BRICS bank in a new shift towards the United States",
+   "u": "https://en.mercopress.com/2026/11/26/colombia-drops-its-bid-to-join-the-brics-bank-in-a-new-shift-towards-the-united-states?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "k": "콜롬비아가 미국과의 관계 개선을 위해 브릭스(BRICS) 은행 가입 신청을 철회하다"
   },
   {
    "s": "Buenos Aires Times",
@@ -112,15 +118,9 @@
   },
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
-  },
-  {
-   "s": "CNN",
-   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
-   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
+   "t": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN0dJdjVwenUzU1ZaV0l0cGVyeTRQUEZuOHlEdGpHVGFKc0xGcXVIWkJDbWRyc2R2X015X283NmViZmZBLUt6OGNQZDBUdkhKYldOYnV2RENtZThoVnhTRUxqQVZpR0dZb1ZnYWQ0VEtNMTU5TGow?oc=5",
+   "k": "러시아 석유 회사 루코일의 해외 자산, 미국 억만장자 토드 보엘리가 이끄는 투자자들에게 매각"
   },
   {
    "s": "BBC",
@@ -136,21 +136,21 @@
   },
   {
    "s": "CNBC",
-   "t": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
-   "u": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-   "k": "트럼프 대통령의 최근 관세 조치가 인도에 아시아 경쟁국 수출업체 대비 우위를 제공하는 방식"
+   "t": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+   "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+   "k": "헤지펀드는 더 이상 부유층만을 위한 것이 아닙니다. 이제 헤지펀드는 일반 투자자들을 유치하고 있습니다."
   },
   {
    "s": "CNBC",
    "t": "Prediction markets push OpenAI IPO expectations later into 2027",
    "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
+   "k": "예측 시장, OpenAI IPO 기대치를 2027년 이후로 미룸"
   },
   {
    "s": "Guardian",
-   "t": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
-   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
-   "k": "장관들은 가스 가격을 통제할 수 없지만, 다른 에너지 비용에는 더 가차 없이 개입할 수 있습니다."
+   "t": "UK food inflation could hit 5% next year, Bank of England says",
+   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "MarketWatch",
@@ -166,21 +166,21 @@
   },
   {
    "s": "TASS",
-   "t": "US State Department approves sale of $621.9 million worth of F-16 maintenance kits to Kiev",
-   "u": "https://tass.com/world/2224981",
-   "k": "미 국무부, 6억 2,190만 달러 상당의 F-16 정비 키트 키이우 판매 승인"
+   "t": "CIS countries overcome Western sanctions by switching to national currencies — chief",
+   "u": "https://tass.com/economy/2224999",
+   "k": "CIS 국가들, 자국 통화로 전환하여 서방 제재 극복 — 수석"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+   "u": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+   "k": "앤트로픽(Anthropic)의 CEO 아모데이는 인류가 AI에 자유 의지를 ‘포기’하기를 바란다는 주장을 부인합니다."
   },
   {
    "s": "Arab News",
    "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
    "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
-   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
-  },
-  {
-   "s": "CNA",
-   "t": "Commentary: New US tariff threat seeks to ramp up pressure on trading partners – will it work?",
-   "u": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
-   "k": "해설: 미국의 새로운 관세 위협은 무역 상대국에 대한 압박을 가중시키려는 것인데, 과연 효과가 있을까?"
+   "k": "미 연방통신위원회(FCC), SpaceX가 우주에 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝힘. 과학자들은 이에 대해 회의적임"
   }
  ]
 }
