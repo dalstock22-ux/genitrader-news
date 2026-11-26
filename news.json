@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:01:39+09:00",
+  "updated": "2026-11-26T18:11:02+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -47,6 +47,34 @@
   },
   "items": [
     {
+      "category": "해외시장",
+      "title": "마이크론 이틀 새 15% 급락…D램 공급과잉 우려에 고점 대비 반토막",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611263038i",
+      "published": "2026-11-26T17:26:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "'대통령 직보' 자본시장 개혁기구 출범…위원장에 김용범 메리츠 부회장",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611262896i",
+      "published": "2026-11-26T17:15:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "국고채 금리, 기준금리 인상·매파적 점도표에 상승(종합)",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261126162551008",
+      "published": "2026-11-26T16:50:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112618876",
+      "published": "2026-11-26T14:00:00+09:00"
+    },
+    {
       "category": "경제·증시",
       "title": "국고채 금리, 기준금리 인상에 일제히 상승…성장률·점도표 상향(종합)",
       "source": "연합뉴스",
@@ -62,6 +90,13 @@
     },
     {
       "category": "부동산",
+      "title": "서울시, 장기안심주택 7000가구 모집…중장년층 특별공급 신설",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611261513i",
+      "published": "2026-11-26T11:15:00+09:00"
+    },
+    {
+      "category": "부동산",
       "title": "\"택지 싸도 소용없다\"…지방 '국민평형' 분양가도 5억 돌파",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112612256",
@@ -73,6 +108,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112610986",
       "published": "2026-11-26T09:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "美, 한국 '과잉생산 관세' 근거…호남 반도체 클러스터 짚어",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611261025H",
+      "published": "2026-11-26T08:39:00+09:00"
     },
     {
       "category": "경제·증시",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112476131",
       "published": "2026-11-24T17:17:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "공공택지 건물 4개월 내 넘기면 보상금 30% 더 받는다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112476061",
-      "published": "2026-11-24T17:15:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "엔비디아 '숏' 쳤다가 날벼락···공매도 세력 하루 122억달러 평가손실",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611246841i",
-      "published": "2026-11-24T14:33:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[오전시황] 코스피 5000선 회복…반도체·로봇·MLCC株 줄줄이 급등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611246282i",
-      "published": "2026-11-24T11:44:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124086800008",
-      "published": "2026-11-24T11:39:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "3년 반 걸리던 재건축 조합설립 4개월 만에…서울시, 규제 완화로 정비사업 속도 낸다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611246535i",
-      "published": "2026-11-24T11:22:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피, '젠슨황 복귀'에 5∼6%대 급등…'5천피' 탈환 시도(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124037651008",
-      "published": "2026-11-24T09:34:00+09:00"
     }
   ]
 }
