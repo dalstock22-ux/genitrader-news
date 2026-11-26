@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:40+09:00",
+ "updated": "2026-11-26T19:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -10,14 +10,19 @@
   },
   {
    "s": "BBC",
+   "t": "What's gone wrong at Poundland?",
+   "u": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o"
+  },
+  {
+   "s": "BBC",
    "t": "Musk's plan to send a million SpaceX data satellites into space approved",
    "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
    "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
-   "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-   "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
   },
   {
    "s": "CNBC",
@@ -26,13 +31,13 @@
   },
   {
    "s": "Guardian",
-   "t": "Nvidia reportedly halts chip shipments to south-east Asia as stock sell-off eases – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
+   "t": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+   "u": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea"
   },
   {
    "s": "MarketWatch",
-   "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-   "u": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories"
+   "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+   "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -42,28 +47,28 @@
   },
   {
    "s": "TASS",
-   "t": "Russian businesses lose over $48.6 mln per month due to Google Play blocks — Rostelecom",
-   "u": "https://tass.com/economy/2225129"
+   "t": "Metals account for about 10% of Russia’s exports to Tajikistan — minister",
+   "u": "https://tass.com/economy/2225193"
   },
   {
    "s": "Al Jazeera",
-   "t": "Explosion occurs at oil facility in Thailand’s Bangkok",
-   "u": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
+   "t": "Explosion rocks Bangkok oil depot",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Dubai Islamic Bank acquires Emirates Islamic to make second-largest Islamic banking group",
-   "u": "https://www.arabnews.com/business/dubai-islamic-bank-acquires-emirates-islamic-to-make-second-largest-islamic-banking-group-3014100"
+   "t": "Iraq jails 11 for oil smuggling under anti-terrorism law",
+   "u": "https://www.arabnews.com/middle-east/iraq-jails-11-for-oil-smuggling-under-anti-terrorism-law-3014114"
   },
   {
    "s": "CNA",
-   "t": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships",
-   "u": "https://www.channelnewsasia.com/business/oil-little-changed-supply-concerns-linger-after-iran-claims-mine-strikes-ships-6583906"
+   "t": "Indian trade body urges retaliatory tariffs on US goods, warns 500,000 jobs at risk",
+   "u": "https://www.channelnewsasia.com/asia/indian-trade-body-urges-retaliatory-tariffs-us-goods-warns-500000-jobs-risk-6584816"
   },
   {
    "s": "Straits Times",
-   "t": "Indonesian nickel tycoon Arif Kurniawan named suspect in money laundering probe",
-   "u": "https://www.straitstimes.com/business/indonesian-nickel-tycoon-arif-kurniawan-named-suspect-in-money-laundering-probe"
+   "t": "Malaysia wants priority over other lenders if it backs AirAsia",
+   "u": "https://www.straitstimes.com/business/malaysia-wants-priority-over-other-lenders-if-it-backs-airasia"
   },
   {
    "s": "Bangkok Post",
@@ -94,8 +99,8 @@
   },
   {
    "s": "Economic Times",
-   "t": "How Trump's tariff salvo for India compare with rivals",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
+   "t": "Seven hurt in Bangkok oil facility explosion",
+   "u": "https://economictimes.indiatimes.com/nri/latest-updates/bangkok-oil-depot-explosion-injures-seven-four-critical-nearby-schools-evacuated-as-fire-breaks-out/articleshow/136186497.cms"
   },
   {
    "s": "CNN",
@@ -111,8 +116,9 @@
   },
   {
    "s": "BBC",
-   "t": "Poundland collapses putting 11,000 jobs at risk",
-   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+   "t": "New UK-EU treaty has 10-year termination clause",
+   "u": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+   "k": "영국 정부, EU와 합의한 새로운 조약 발표 예정"
   },
   {
    "s": "BBC",
@@ -121,8 +127,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
-   "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+   "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+   "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
   },
   {
    "s": "CNBC",
@@ -132,14 +138,13 @@
   },
   {
    "s": "Guardian",
-   "t": "UK regulator admits error in calculating car finance compensation payments",
-   "u": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments"
+   "t": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+   "u": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
   },
   {
    "s": "MarketWatch",
-   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
+   "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+   "u": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -149,18 +154,13 @@
   },
   {
    "s": "TASS",
-   "t": "Gas stocks in leading European countries at all-time low",
-   "u": "https://tass.com/economy/2225109"
+   "t": "As many as 63% of employed Russians support using AI in their work — pollster",
+   "u": "https://tass.com/society/2225177"
   },
   {
    "s": "Al Jazeera",
-   "t": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "Japan, China trade accusations over ships near disputed islands",
-   "u": "https://www.arabnews.com/world/japan-china-trade-accusations-over-ships-near-disputed-islands-3014105"
+   "t": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
+   "u": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
   }
  ]
 }
