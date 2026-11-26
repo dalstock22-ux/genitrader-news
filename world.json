@@ -1,159 +1,186 @@
 {
- "updated": "2026-11-26T23:40+09:00",
+ "updated": "2026-11-27T00:11+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
+   "t": "At least 9 injured by large explosion and fire at major oil facility in Bangkok",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EdnBYZWpScENrWUdWM09rby05RGZ5dk1yVmc5SjZrUDdfWGJicE5yd255eDNyRWhBaTV5dkpBRmwwdUg0dk9XZ08zQk1MOEVpbzJWMXhORXJiaHRSNFNfTlo5TTR1UW9CQkJmNWlnWGxCVDczUldJMFZDNE0?oc=5",
+   "k": "방콕의 대형 석유 시설에서 발생한 대규모 폭발 및 화재로 최소 9명이 부상을 입었습니다."
+  },
+  {
+   "s": "CNN",
    "t": "At the gym with the CEO who made us wait 13 years for GTA VI",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncVlCY1gweDdIUkFLM3luWThNdGtIbHFlMDRPWTc3X2lpQ2hVbncxTzRheVVxY2RPX1k2aFpNS2Mxdkx0RjRuYUlWeUFQUFY2Wi1Hcjk2WTRmWThlbW5pRm9ZeXpTbzNLVE5Pc01Za19iMGREc0R5Y1hNckY3R2M?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncVlCY1gweDdIUkFLM3luWThNdGtIbHFlMDRPWTc3X2lpQ2hVbncxTzRheVVxY2RPX1k2aFpNS2Mxdkx0RjRuYUlWeUFQUFY2Wi1Hcjk2WTRmWThlbW5pRm9ZeXpTbzNLVE5Pc01Za19iMGREc0R5Y1hNckY3R2M?oc=5",
+   "k": "GTA VI를 13년이나 기다리게 한 CEO와 함께 헬스장에서"
   },
   {
    "s": "BBC",
    "t": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "u": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+   "u": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
+   "k": "노르웨이 대서양항공, 파산 가능성에 직면해 모든 항공편 운항 중단"
   },
   {
    "s": "BBC",
    "t": "Seven injured, four critically, after Bangkok oil refinery explosion",
-   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+   "k": "방콕 정유소 폭발로 7명 부상, 이 중 4명은 위중한 상태"
   },
   {
    "s": "CNBC",
    "t": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-   "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+   "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "k": "스페인의 파블로 에르난데스 데 코스, 유럽중앙은행 총재로 선임 예정"
   },
   {
    "s": "CNBC",
    "t": "Semiconductor chips are the new oil. Here's why",
-   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "k": "반도체 칩이 새로운 석유가 된 이유"
   },
   {
    "s": "Guardian",
-   "t": "Marlboro maker Altria says considering takeover of Davidoff maker Imperial Bands – business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
+   "t": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+   "u": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+   "k": "판사가 브렌단 카 위원장이 이끄는 FCC가 ABC의 방송 허가에 대해 더 이상 조치를 취하지 못하도록 차단"
   },
   {
    "s": "MarketWatch",
    "t": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-   "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories"
+   "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "k": "Nvidia와 전체 AI 산업은 아직 위기에서 벗어나지 못했습니다. 아직 갈 길이 멉니다."
   },
   {
    "s": "Moscow Times",
    "t": "Russian TV Star With Ties to VTB Chief Backed Telegram’s Failed Crypto Venture – Report",
-   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384"
+   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384",
+   "k": "VTB 은행장과 연관된 러시아 TV 스타, 텔레그램의 실패한 암호화폐 벤처 지원 – 보도"
   },
   {
    "s": "TASS",
-   "t": "Qatar’s LNG exports hit highest level since start of US-Iran conflict",
-   "u": "https://tass.com/economy/2225397"
+   "t": "EU plans to spend €100 billion over seven years servicing loans for Kiev — source",
+   "u": "https://tass.com/economy/2225431",
+   "k": "EU, 7년간 키이우 대출 이자 상환에 1,000억유로 지출 계획 — 소식통"
   },
   {
    "s": "Al Jazeera",
    "t": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-   "u": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+   "u": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+   "k": "석유 분쟁이 바그다드와 이라크 쿠르드 지역 간의 갈등을 심화시키는 방식"
   },
   {
    "s": "Arab News",
    "t": "Saudi Arabia calls for continued human oversight over AI advances at UN",
-   "u": "https://www.arabnews.com/saudi-arabia/saudi-arabia-calls-for-continued-human-oversight-over-ai-advances-at-un-3014125"
+   "u": "https://www.arabnews.com/saudi-arabia/saudi-arabia-calls-for-continued-human-oversight-over-ai-advances-at-un-3014125",
+   "k": "사우디아라비아, UN에서 AI 발전 과정에 대한 지속적인 인간 감독 촉구"
   },
   {
    "s": "CNA",
    "t": "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
-   "u": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316"
+   "u": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316",
+   "k": "이스라엘 국방장관, 하마스가 무장해제하지 않으면 가자지구 주민 100만 명을 이주시킬 것이라고 위협"
   },
   {
    "s": "Straits Times",
    "t": "2 companies linked to lash, hair and nails chain Milly’s wound up after outlets closed",
-   "u": "https://www.straitstimes.com/business/2-companies-linked-to-lash-hair-and-nails-chain-millys-wound-up-after-outlets-closed"
+   "u": "https://www.straitstimes.com/business/2-companies-linked-to-lash-hair-and-nails-chain-millys-wound-up-after-outlets-closed",
+   "k": "속눈썹, 헤어, 네일 체인점인 Milly's와 관련된 2개 회사, 매장 폐점 후 청산"
   },
   {
    "s": "Bangkok Post",
    "t": "Status update: Asian nations’ trade talks with US",
-   "u": "https://www.bangkokpost.com/business/general/3361701/status-update-asian-nations-trade-talks-with-us"
+   "u": "https://www.bangkokpost.com/business/general/3361701/status-update-asian-nations-trade-talks-with-us",
+   "k": "현황 업데이트: 아시아 국가들의 미국과의 무역 협상"
   },
   {
    "s": "Euronews",
-   "t": "TUI boss wants EU to cut bureaucracy, attract talent and expand green energy",
-   "u": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy"
+   "t": "From volume to value: making tourism work for more of Europe",
+   "u": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe",
+   "k": "양에서 가치로: 더 많은 유럽 지역에서 관광업이 활성화되도록 하기"
   },
   {
    "s": "MercoPress",
    "t": "Colombia drops its bid to join the BRICS bank in a new shift towards the United States",
    "u": "https://en.mercopress.com/2026/11/26/colombia-drops-its-bid-to-join-the-brics-bank-in-a-new-shift-towards-the-united-states?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "콜롬비아, 미국으로의 새로운 전환을 맞아 브릭스(BRICS) 은행 가입 신청 철회"
+   "k": "콜롬비아가 미국과의 관계 개선을 위해 브릭스(BRICS) 은행 가입 신청을 철회하다"
   },
   {
    "s": "Buenos Aires Times",
    "t": "Caputo: Argentina has activated US$5-billion Chinese currency swap to guarantee debt repayments",
-   "u": "https://www.batimes.com.ar/news/economy/caputo-argentina-has-activated-us5-billion-chinese-currency-swap-to-guarantee-debt-payments.phtml"
+   "u": "https://www.batimes.com.ar/news/economy/caputo-argentina-has-activated-us5-billion-chinese-currency-swap-to-guarantee-debt-payments.phtml",
+   "k": "카푸토 장관: 아르헨티나, 부채 상환을 보장하기 위해 50억 달러 규모의 중국 통화 스왑을 가동"
   },
   {
    "s": "SCMP",
    "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
-   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+   "k": "상하이 당 서기 해임에도 불구하고 중국의 기술 분야 야망은 변함없을 것: 분석가들"
   },
   {
    "s": "Economic Times",
    "t": "Finmin chairs final pre-Budget consultation",
-   "u": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-final-pre-budget-consultation-with-youth-ahead-of-union-budget-2027-28/articleshow/136193260.cms"
-  },
-  {
-   "s": "CNN",
-   "t": "symbol__ Stock Quote Price and Forecast",
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JdE9PNUxaYjRYazNVc3FDbGx1U002SW9tWFhoVnJKY1JQT1ZQS01xaXpwaWVIaUczalg3c1ZNTUw0Rms2aTVfTS1yMmtGMEtv?oc=5"
+   "u": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-final-pre-budget-consultation-with-youth-ahead-of-union-budget-2027-28/articleshow/136193260.cms",
+   "k": "재무부 장관, 예산안 편성 전 최종 협의 주재"
   },
   {
    "s": "CNN",
    "t": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5",
+   "k": "트럼프 행정부가 젠슨 황의 엔비디아 복귀를 지원하기 위해 취한 조치가 주목받고 있습니다."
   },
   {
    "s": "BBC",
    "t": "When will Poundland close? Five questions about its future",
-   "u": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo"
+   "u": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo",
+   "k": "파운드랜드는 언제 문을 닫을까요? Poundland의 미래에 대한 5가지 질문"
   },
   {
    "s": "BBC",
    "t": "Musk's plan to send a million SpaceX data satellites into space approved",
    "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
+   "k": "머스크의 스페이스X 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "CNBC",
    "t": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-   "u": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html"
+   "u": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+   "k": "'텍스처 맥싱(texture-maxxing)'이란 무엇인가요? 바삭한 식감을 메뉴에 더하는 푸드 트렌드"
   },
   {
    "s": "CNBC",
    "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "k": "중국 전기차 업체, \"1~2년 내 로봇이 가사일을 할 수 있을 것\"이라고 밝힘"
   },
   {
    "s": "Guardian",
-   "t": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit"
+   "t": "UK food inflation could hit 5% next year, Bank of England says",
+   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "MarketWatch",
    "t": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-   "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories"
+   "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+   "k": "Roth IRA 전환은 공짜 돈이 아닙니다. 이 5가지 값비싼 실수를 조심하세요."
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Sandu preparing Moldova to become supply hub for Kiev — Russian MFA",
-   "u": "https://tass.com/politics/2225395"
+   "t": "Russia ready to share expertise on protecting oil, gas facilities with Bahrain",
+   "u": "https://tass.com/politics/2225429",
+   "k": "러시아, 바레인과 석유·가스 시설 보호 관련 전문 지식 공유할 준비 돼 있어"
   },
   {
    "s": "Al Jazeera",
    "t": "Inside Liberland, the crypto ‘country’ few have heard of",
-   "u": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
+   "u": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+   "k": "거의 알려지지 않은 암호화폐 '국가' 리버랜드 내부"
   }
  ]
 }
