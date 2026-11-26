@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:40+09:00",
+ "updated": "2026-11-26T16:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -16,9 +16,8 @@
   },
   {
    "s": "CNBC",
-   "t": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-   "u": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-   "k": "SpaceX, 머스크, 트럼프의 현직 계정에 각각 지분 기부 약속"
+   "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
   },
   {
    "s": "CNBC",
@@ -28,15 +27,13 @@
   },
   {
    "s": "Guardian",
-   "t": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-   "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-   "k": "브라질, 트럼프의 관세 부과 위협을 '용납할 수 없는' 조치라고 비판. 중국은 관세 부과를 근거 없는 조치라고 비난"
+   "t": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+   "u": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
   },
   {
    "s": "MarketWatch",
-   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
+   "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+   "u": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -46,9 +43,8 @@
   },
   {
    "s": "TASS",
-   "t": "Russian stock market declines in early trading hours",
-   "u": "https://tass.com/economy/2225035",
-   "k": "러시아 주식 시장, 개장 초 하락세"
+   "t": "Lukoil hopes to return to international market — founder",
+   "u": "https://tass.com/economy/2225059"
   },
   {
    "s": "Al Jazeera",
@@ -58,9 +54,8 @@
   },
   {
    "s": "Arab News",
-   "t": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
-   "u": "https://www.arabnews.com/world/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade-3014077",
-   "k": "미국, '불공정' 무역을 이유로 EU, 중국 및 기타 국가에 대한 관세 부과 발표"
+   "t": "Kuwait Fund hosts panel discussion for UN Undersecretary-General for Humanitarian Affairs Tom Fletcher",
+   "u": "https://www.arabnews.com/corporate-and-sponsored-content/kuwait-fund-hosts-panel-discussion-for-un-undersecretary-general-for-humanitarian-affairs-tom-fletcher-3014092"
   },
   {
    "s": "CNA",
@@ -70,21 +65,18 @@
   },
   {
    "s": "Straits Times",
-   "t": "Asian stocks enjoy another bounce as tech holds court",
-   "u": "https://www.straitstimes.com/business/asian-stocks-enjoy-another-bounce-as-tech-holds-court",
-   "k": "기술주가 강세를 보이며 아시아 증시가 또 한 번 반등"
+   "t": "MAS greenlights retail investor access to wider range of complex funds, but excludes private-market funds",
+   "u": "https://www.straitstimes.com/business/mas-greenlights-retail-investor-access-to-wider-range-of-complex-funds-but-excludes-private-market"
   },
   {
    "s": "Bangkok Post",
-   "t": "Nvidia reportedly halts chip shipments to Southeast Asia",
-   "u": "https://www.bangkokpost.com/business/general/3361629/nvidia-reportedly-halts-chip-shipments-to-southeast-asia",
-   "k": "Nvidia, 동남아시아로의 칩 출하 중단 보도"
+   "t": "Nvidia halts server shipments to Southeast Asia",
+   "u": "https://www.bangkokpost.com/business/general/3361629/nvidia-halts-server-shipments-to-southeast-asia"
   },
   {
    "s": "Euronews",
-   "t": "Indra unveils Forward2030 plan to more than double revenue to €12bn",
-   "u": "https://www.euronews.com/2026/11/25/indra-presents-forward2030-plan-to-exceed-12bn-in-revenue-and-more-than-double-size-by-203",
-   "k": "Indra, 매출을 2배 이상인 120억 유로로 끌어올리는 Forward2030 계획 발표"
+   "t": "UniCredit secures final Polish approval for Commerzbank takeover bid",
+   "u": "https://www.euronews.com/2026/11/26/unicredit-secures-final-polish-approval-for-commerzbank-takeover-bid"
   },
   {
    "s": "MercoPress",
@@ -100,15 +92,19 @@
   },
   {
    "s": "SCMP",
-   "t": "Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut",
-   "u": "https://www.scmp.com/business/china-business/article/3375856/chinese-ai-trade-turns-cautious-after-wall-street-volatility-anthropics-rocky-debut",
-   "k": "월스트리트 변동성, 앤트로픽의 불안한 데뷔 이후 중국 AI 거래 신중해져"
+   "t": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
+   "u": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market"
   },
   {
    "s": "Economic Times",
-   "t": "Gold and silver rates today: Check latest updates",
-   "u": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-november-26-2026in-delhi-hyderabad-chennai-bengaluru-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/136178335.cms",
-   "k": "오늘의 금값과 은값: 최신 업데이트 확인하기"
+   "t": "Can pensioners claim tax deduction for rent paid?",
+   "u": "https://economictimes.indiatimes.com/wealth/tax/i-am-retired-and-live-on-rent-am-i-eligible-for-any-income-tax-deduction-or-exemption-like-hra/articleshow/136179997.cms"
+  },
+  {
+   "s": "CNN",
+   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
   },
   {
    "s": "CNN",
@@ -130,9 +126,8 @@
   },
   {
    "s": "CNBC",
-   "t": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
-   "u": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-   "k": "북한의 김정은, 핵무기 확충 촉구하며 '절대 변하지 않을 것'이라고 밝혀"
+   "t": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+   "u": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html"
   },
   {
    "s": "CNBC",
@@ -142,14 +137,14 @@
   },
   {
    "s": "Guardian",
-   "t": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-   "u": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+   "t": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
+   "u": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling"
   },
   {
    "s": "MarketWatch",
-   "t": "Why this stock-market selloff is probably going to get worse before it gets better",
-   "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-   "k": "이번 주식 시장 매도세가 나아지기 전에 더 악화될 가능성이 높은 이유"
+   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
   },
   {
    "s": "Moscow Times",
@@ -159,24 +154,18 @@
   },
   {
    "s": "TASS",
-   "t": "Brent oil prices hit $96 per barrel on London’s ICE",
-   "u": "https://tass.com/economy/2225021"
+   "t": "Nvidia cedes second place to Microsoft in most expensive companies list",
+   "u": "https://tass.com/economy/2225053"
   },
   {
    "s": "Al Jazeera",
-   "t": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+   "t": "South Korea’s central bank hikes interest rates amid AI chip boom",
    "u": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-   "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
-   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
-  },
-  {
-   "s": "CNA",
-   "t": "Balestier Market to undergo revamp with 'diverse F&B and retail offerings'",
-   "u": "https://www.channelnewsasia.com/dining/balestier-market-revamp-6584156"
+   "t": "Oil rises on supply concerns as Iran claims 9 strikes on ships",
+   "u": "https://www.arabnews.com/energy/oil-rises-on-supply-concerns-as-iran-claims-9-strikes-on-ships-3014091"
   }
  ]
 }
