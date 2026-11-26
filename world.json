@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:40+09:00",
+ "updated": "2026-11-26T10:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -16,21 +16,15 @@
   },
   {
    "s": "BBC",
-   "t": "US approves SpaceX plan to send a million data satellites to space",
-   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
-  },
-  {
-   "s": "BBC",
-   "t": "North Korea expels Swiss diplomat in sanctions row",
-   "u": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
-   "k": "북한, 제재 갈등으로 스위스 외교관 추방"
+   "t": "US announces new tariffs on host of countries including China",
+   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "CNBC",
-   "t": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-   "u": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-   "k": "인사이드 인디아 뉴스레터: 호황을 누리는 경제, 외국인 투자자의 귀환, 그리고 이제는 사상 최고치를 기록한 자동차 판매량"
+   "t": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+   "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "k": "시장이 위험을 가장 잘못 평가할 수 있는 영역: AI 붐, 변동성, 고수익 채권"
   },
   {
    "s": "CNBC",
@@ -46,9 +40,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Why this stock-market selloff is probably going to get worse before it gets better",
-   "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-   "k": "이번 주식 시장 매도세가 나아지기 전에 더 악화될 가능성이 높은 이유"
+   "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
   },
   {
    "s": "Moscow Times",
@@ -58,9 +52,9 @@
   },
   {
    "s": "TASS",
-   "t": "US working to settle Ukrainian crisis with understanding of its root causes — envoy",
-   "u": "https://tass.com/world/2224975",
-   "k": "우크라이나 사태의 근본 원인을 이해하고 해결을 위해 노력하는 미국 - 특사"
+   "t": "US State Department approves sale of $621.9 million worth of F-16 maintenance kits to Kiev",
+   "u": "https://tass.com/world/2224981",
+   "k": "미 국무부, 6억 2,190만 달러 상당의 F-16 정비 키트 키이우 판매 승인"
   },
   {
    "s": "Al Jazeera",
@@ -70,15 +64,15 @@
   },
   {
    "s": "Arab News",
-   "t": "Brazil says proposed new US tariffs ‘unacceptable’",
-   "u": "https://www.arabnews.com/world/brazil-says-proposed-new-us-tariffs-unacceptable-3014062",
-   "k": "브라질, 미국이 제안한 새로운 관세 부과 '용납할 수 없다'고 밝혀"
+   "t": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+   "u": "https://www.arabnews.com/world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-3014071",
+   "k": "미 연방통신위원회(FCC)가 SpaceX에 우주 데이터 센터용 위성 100만 개를 배치할 수 있다고 밝혔습니다. 과학자들은 이에 대해 회의적입니다."
   },
   {
    "s": "CNA",
-   "t": "CNA Now: Trump proposes tariffs of up to 20% on Singapore goods, targets 13 other trading partners, plus other news",
-   "u": "https://www.channelnewsasia.com/singapore/cna-now-nov-26-live-blog-6581111",
-   "k": "CNA Now: 트럼프 대통령, 싱가포르산 제품에 최대 20%의 관세 부과 제안, 13개 기타 교역국을 대상으로 삼고 있음. 기타 뉴스"
+   "t": "Asian economies respond to Trump’s new tariffs",
+   "u": "https://www.channelnewsasia.com/asia/asian-economies-respond-trump-new-tariffs-6583496",
+   "k": "트럼프 대통령의 새로운 관세 부과에 대응하는 아시아 경제권"
   },
   {
    "s": "Straits Times",
@@ -88,9 +82,9 @@
   },
   {
    "s": "Bangkok Post",
-   "t": "Pet hospitals poised for expansion",
-   "u": "https://www.bangkokpost.com/business/general/3361484/pet-hospitals-poised-for-expansion",
-   "k": "확장을 준비 중인 동물병원"
+   "t": "Court decision on NBTC chairman delayed",
+   "u": "https://www.bangkokpost.com/business/general/3361354/court-decision-on-nbtc-chairman-delayed",
+   "k": "NBTC 위원장 관련 법원 결정 지연"
   },
   {
    "s": "Euronews",
@@ -112,9 +106,9 @@
   },
   {
    "s": "SCMP",
-   "t": "AI turmoil spurs risk-off mode as China government bond yield slides to record low",
-   "u": "https://www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
-   "k": "AI 혼란으로 인해 중국 정부채 수익률이 사상 최저치로 하락하면서 위험 회피 모드가 가속화되고 있습니다."
+   "t": "China’s CATL faces a trillion-yuan question: how to win back investor confidence",
+   "u": "https://www.scmp.com/business/climate-and-energy/article/3375822/chinas-catl-faces-trillion-yuan-question-how-win-back-investor-confidence",
+   "k": "중국의 CATL, 1조 위안 규모의 난제에 직면: 투자자 신뢰 회복 방법은?"
   },
   {
    "s": "Economic Times",
@@ -130,21 +124,21 @@
   },
   {
    "s": "BBC",
-   "t": "Guitar wars - the transatlantic battle over the Stratocaster",
-   "u": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o",
-   "k": "기타 전쟁 - 스트라토캐스터를 둘러싼 대서양 양안의 전투"
+   "t": "US approves SpaceX plan to send a million data satellites to space",
+   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "BBC",
-   "t": "US stocks fall further as fears over AI intensify",
-   "u": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-   "k": "AI에 대한 우려가 커지면서 미국 주식은 더욱 하락"
+   "t": "North Korea expels Swiss diplomat in sanctions row",
+   "u": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+   "k": "북한, 제재 갈등으로 스위스 외교관 추방"
   },
   {
    "s": "CNBC",
-   "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-   "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-   "k": "메이시스, 악천후로 인해 추수감사절 퍼레이드 연기"
+   "t": "South Korea raises rates to highest in two years, as inflation remains above target",
+   "u": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "k": "인플레이션이 목표치를 웃도는 가운데 한국, 2년 만에 최고 금리 인상"
   },
   {
    "s": "CNBC",
@@ -160,9 +154,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
+   "t": "Why this stock-market selloff is probably going to get worse before it gets better",
+   "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+   "k": "이번 주식 시장 매도세가 나아지기 전에 더 악화될 가능성이 높은 이유"
   },
   {
    "s": "Moscow Times",
@@ -172,15 +166,21 @@
   },
   {
    "s": "TASS",
-   "t": "Ukrainian crisis turns into proxy war between Europe, Russia — US envoy",
-   "u": "https://tass.com/world/2224967",
-   "k": "우크라이나 사태, 유럽과 러시아 간 대리전으로 전환 — 미국 특사"
+   "t": "US working to settle Ukrainian crisis with understanding of its root causes — envoy",
+   "u": "https://tass.com/world/2224975",
+   "k": "우크라이나 사태의 근본 원인을 이해하고 해결을 위해 노력하는 미국 - 특사"
   },
   {
-   "s": "Al Jazeera",
-   "t": "US grants SpaceX approval for 1 million space data centres",
-   "u": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
-   "k": "미국, SpaceX에 100만 개의 우주 데이터 센터 승인"
+   "s": "Arab News",
+   "t": "Brazil says proposed new US tariffs ‘unacceptable’",
+   "u": "https://www.arabnews.com/world/brazil-says-proposed-new-us-tariffs-unacceptable-3014062",
+   "k": "브라질, 미국이 제안한 새로운 관세 부과 '용납할 수 없다'고 밝혀"
+  },
+  {
+   "s": "CNA",
+   "t": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
+   "u": "https://www.channelnewsasia.com/business/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-6583511",
+   "k": "일본은행의 다무라 이사, 더 빠른 속도의 금리 인상 가능성 시사"
   }
  ]
 }
