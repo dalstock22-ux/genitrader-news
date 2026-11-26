@@ -1,18 +1,24 @@
 {
- "updated": "2026-11-26T07:30+09:00",
+ "updated": "2026-11-26T09:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
    "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성까지: 산업용 AI의 핵심에 신뢰를 두기"
+   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+  },
+  {
+   "s": "CNN",
+   "t": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcTRPSkNWZERYSTJpT19Celo5dU9OUkZJMndBSFZSTVZ1TVFqMXlNNkU3QWtfSll0SzJ1aHBZOFpQOW40djFxeUVKTThfdFJuRlJSVUF1ZU1naDBleFJvRjJoeDB3WHpGdnN3MkdiZzBzc3ZZeWVTb204LXNRRnM?oc=5",
+   "k": "북한의 김정은, 무기 시설 점검 중 전술핵 배치 확대 촉구"
   },
   {
    "s": "BBC",
-   "t": "US stocks fall further as fears over AI intensify",
-   "u": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-   "k": "AI에 대한 우려가 커지면서 미국 주식 시장이 추가 하락"
+   "t": "US approves SpaceX plan to send a million data satellites to space",
+   "u": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "k": "미국, 스페이스X의 데이터 위성 100만 개 우주 발사 계획 승인"
   },
   {
    "s": "BBC",
@@ -22,15 +28,15 @@
   },
   {
    "s": "CNBC",
-   "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-   "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-   "k": "메이시스, 악천후로 인해 추수감사절 퍼레이드 연기"
+   "t": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+   "u": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+   "k": "인사이드 인디아 뉴스레터: 호황을 누리는 경제, 외국인 투자자의 귀환, 그리고 이제는 사상 최고치를 기록한 자동차 판매량"
   },
   {
    "s": "CNBC",
    "t": "Prediction markets push OpenAI IPO expectations later into 2027",
    "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "k": "예측 시장, OpenAI IPO 기대치를 2027년 이후로 미룸"
+   "k": "예측 시장, OpenAI의 IPO 예상 시기를 2027년 이후로 미룸"
   },
   {
    "s": "Guardian",
@@ -40,21 +46,21 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-   "u": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-   "k": "오라클, CoreWeave 및 기타 기술주, 매도세 이후 반등"
+   "t": "Why this stock-market selloff is probably going to get worse before it gets better",
+   "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+   "k": "이번 주식 시장 매도세가 나아지기 전에 더 악화될 가능성이 높은 이유"
   },
   {
    "s": "Moscow Times",
    "t": "Kremlin Dismisses Leaked Data on Russian Troop Losses",
    "u": "https://www.themoscowtimes.com/2026/11/25/kremlin-dismisses-leaked-data-on-russian-troop-losses-a812368",
-   "k": "크렘린, 러시아군 전사자 수 유출 데이터에 대해 일축"
+   "k": "크렘린, 러시아군 전사자 수 유출에 대해 일축"
   },
   {
    "s": "TASS",
-   "t": "Russian, Kazakh presidents to attend AI Journey conference",
-   "u": "https://tass.com/economy/2224955",
-   "k": "러시아, 카자흐스탄 대통령이 AI 저니(AI Journey) 컨퍼런스에 참석할 예정"
+   "t": "US working to settle Ukrainian crisis with understanding of its root causes — envoy",
+   "u": "https://tass.com/world/2224975",
+   "k": "우크라이나 사태의 근본 원인을 이해하고 해결을 위해 노력하는 미국 - 특사"
   },
   {
    "s": "Al Jazeera",
@@ -70,21 +76,21 @@
   },
   {
    "s": "CNA",
-   "t": "Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI",
-   "u": "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176",
-   "k": "해설: 문제 해결에서 '소화'까지: 수학자들이 AI의 극적인 변화에 적응할 수 있는 방법"
+   "t": "CNA Now: Trump proposes tariffs of up to 20% on Singapore goods, targets 13 other trading partners, plus other news",
+   "u": "https://www.channelnewsasia.com/singapore/cna-now-nov-26-live-blog-6581111",
+   "k": "CNA Now: 트럼프 대통령, 싱가포르산 제품에 최대 20%의 관세 부과 제안, 13개 기타 교역국을 대상으로 삼고 있음. 기타 뉴스"
   },
   {
    "s": "Straits Times",
-   "t": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-   "u": "https://www.straitstimes.com/business/companies-markets/nasdaq-sp-500-end-down-but-well-off-lows-as-investors-buy-bargains",
-   "k": "나스닥, S&P 500 지수 하락 마감, 하지만 투자자들이 저가 매수하면서 저점 대비 상승"
+   "t": "S&P warns Nvidia’s board may be compromised, puts chipmaker’s rating on downgrade watch",
+   "u": "https://www.straitstimes.com/business/sp-warns-nvidias-board-may-be-compromised-puts-chipmakers-rating-on-downgrade-watch",
+   "k": "S&P, 엔비디아 이사회가 타격을 입을 수 있다고 경고하며 칩 제조업체의 신용등급을 하향 조정 가능성 관찰 대상에 포함"
   },
   {
    "s": "Bangkok Post",
-   "t": "Trade tensions return as Trump proposes new tariffs",
-   "u": "https://www.bangkokpost.com/business/general/3361119/trade-tensions-return-as-trump-proposes-new-tariffs",
-   "k": "트럼프 대통령이 새로운 관세를 제안하면서 무역 긴장이 다시 고조"
+   "t": "Pet hospitals poised for expansion",
+   "u": "https://www.bangkokpost.com/business/general/3361484/pet-hospitals-poised-for-expansion",
+   "k": "확장을 준비 중인 동물병원"
   },
   {
    "s": "Euronews",
@@ -96,19 +102,19 @@
    "s": "MercoPress",
    "t": "Falklands commissions independent review (and survey) of the Tax system",
    "u": "https://en.mercopress.com/2026/11/25/falklands-commissions-independent-review-and-survey-of-the-tax-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "포클랜드, 조세제도에 대한 독립적 검토(및 설문조사) 위임"
+   "k": "포클랜드 제도가 조세제도에 대한 독립적인 검토(및 설문조사)를 의뢰함"
   },
   {
    "s": "Buenos Aires Times",
    "t": "Argentina's government rules out economic policy changes despite creeping recession",
    "u": "https://www.batimes.com.ar/news/economy/argentinas-government-rules-out-economic-policy-changes-despite-creeping-recession.phtml",
-   "k": "아르헨티나 정부, 경기 침체에도 불구하고 경제 정책 변경 배제"
+   "k": "아르헨티나 정부, 경기 침체에도 불구하고 경제 정책 변경 불가 방침"
   },
   {
    "s": "SCMP",
-   "t": "Shein revenue falls 6% in third quarter as EU trade curbs hit sales hard",
-   "u": "https://www.scmp.com/business/companies/article/3375804/shein-revenue-falls-6-third-quarter-eu-trade-curbs-hit-sales-hard",
-   "k": "EU 무역 규제로 매출이 크게 감소하면서 Shein의 3분기 매출이 6% 감소했습니다."
+   "t": "AI turmoil spurs risk-off mode as China government bond yield slides to record low",
+   "u": "https://www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
+   "k": "AI 혼란으로 인해 중국 정부채 수익률이 사상 최저치로 하락하면서 위험 회피 모드가 가속화되고 있습니다."
   },
   {
    "s": "Economic Times",
@@ -124,33 +130,39 @@
   },
   {
    "s": "BBC",
-   "t": "Poundland collapses putting 11,000 jobs at risk",
-   "u": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
-   "k": "파운드랜드(Poundland)가 파산하면서 11,000명의 일자리가 위태로워졌습니다."
+   "t": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "u": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o",
+   "k": "기타 전쟁 - 스트라토캐스터를 둘러싼 대서양 양안의 전투"
+  },
+  {
+   "s": "BBC",
+   "t": "US stocks fall further as fears over AI intensify",
+   "u": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+   "k": "AI에 대한 우려가 커지면서 미국 주식은 더욱 하락"
   },
   {
    "s": "CNBC",
-   "t": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-   "u": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-   "k": "리스먼: 그린스판이 생산성에 베팅할 수 있었던 이유 — 그리고 워시가 금리를 인상해야 하는 이유"
+   "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+   "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+   "k": "메이시스, 악천후로 인해 추수감사절 퍼레이드 연기"
   },
   {
    "s": "CNBC",
    "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
    "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 이상의 것을 의미한다는 것을 보여줍니다."
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
   },
   {
    "s": "Guardian",
-   "t": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "u": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "k": "지난 1년간 물가가 3.8% 상승하면서 미국 인플레이션이 5월 이후 최고치를 기록했습니다."
+   "t": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+   "u": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+   "k": "장관들은 가스 가격을 통제할 수 없지만, 다른 에너지 비용에는 더 가차 없이 개입할 수 있습니다."
   },
   {
    "s": "MarketWatch",
-   "t": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-   "u": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-   "k": "엔비디아 주가가 하락 매수세에 힘입어 월요일 급등분의 상당 부분을 회복했습니다."
+   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
@@ -160,27 +172,15 @@
   },
   {
    "s": "TASS",
-   "t": "EU Council formally approves €45 billion for Kiev in 2027",
-   "u": "https://tass.com/economy/2224943",
-   "k": "EU 이사회, 2027년 키이우에 450억 유로 공식 승인"
+   "t": "Ukrainian crisis turns into proxy war between Europe, Russia — US envoy",
+   "u": "https://tass.com/world/2224967",
+   "k": "우크라이나 사태, 유럽과 러시아 간 대리전으로 전환 — 미국 특사"
   },
   {
    "s": "Al Jazeera",
    "t": "US grants SpaceX approval for 1 million space data centres",
    "u": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
    "k": "미국, SpaceX에 100만 개의 우주 데이터 센터 승인"
-  },
-  {
-   "s": "Arab News",
-   "t": "Bangladesh raises minimum wage for garment workers after weeks of protests",
-   "u": "https://www.arabnews.com/world/bangladesh-raises-minimum-wage-for-garment-workers-after-weeks-of-protests-3014060",
-   "k": "방글라데시, 수 주간의 시위 끝에 의류 노동자 최저임금 인상"
-  },
-  {
-   "s": "Straits Times",
-   "t": "Fraud, scam claims against S’pore financial firms rise for third year",
-   "u": "https://www.straitstimes.com/business/fraud-scam-claims-against-spore-financial-firms-rise-for-third-year-half-of-victims-51-and-older",
-   "k": "싱가포르 금융사에 대한 사기, 사취 신고가 3년 연속 증가"
   }
  ]
 }
