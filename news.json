@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:02:36+09:00",
+  "updated": "2026-11-27T18:12:01+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,48 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261127153400530",
+      "published": "2026-11-27T18:02:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "'증안펀드 증액' 기대에 코스닥 급등",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112754441",
+      "published": "2026-11-27T17:43:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "도쿄전력 \"전력망에 10조엔 투자…美 데이터센터 유치\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112753541",
+      "published": "2026-11-27T17:28:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 집값 16억 넘자 '생존 매수'…짐 싸서 몰려간 곳은",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112752531",
+      "published": "2026-11-27T17:11:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "젠슨 황 감싼 트럼프…\"전혀 문제없어\" 안보 우려 일축",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112747927",
+      "published": "2026-11-27T14:45:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "집 안 사고 버텼는데 어쩌나…전세족 '뜻밖의 복병' [분석+]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112620816",
+      "published": "2026-11-27T13:30:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "코스피 장중 상승폭 커져 2% 안팎 강세…코스닥 6%대 급등",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611250127i",
       "published": "2026-11-25T17:07:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "'금통위 D-1' 국고채 금리 일제히 하락…3년물 연 3.583%(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125149151008",
-      "published": "2026-11-25T17:05:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울시, 도정법 개정안 철회 요구…\"권한 쪼갠다고 재건축 빨라지나\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611259424i",
-      "published": "2026-11-25T14:16:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.633%",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125090600008",
-      "published": "2026-11-25T11:40:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "코스피 장중 5%대 급락세 지속…삼전·닉스 8%대 하락",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125083800008",
-      "published": "2026-11-25T11:18:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "삼성동 옛 한국감정원 부지에 38층 업무·마이스 복합시설 들어선다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611258466i",
-      "published": "2026-11-25T11:15:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "중소기업 83% \"정년 연장보다 '퇴직 후 재고용' 선호\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125053700030",
-      "published": "2026-11-25T10:10:00+09:00"
     }
   ]
 }
