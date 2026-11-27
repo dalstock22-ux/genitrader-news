@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:40+09:00",
+ "updated": "2026-11-27T21:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -7,6 +7,11 @@
    "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
    "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+  },
+  {
+   "s": "CNN",
+   "t": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHByb0VWZ1U5THlzUnR2Q3l3alZ2bXJ0MkE0STJoZGQ5OF9LY3ZNb0pDb181RmJ6SEo3UFFld1FlMzVvY1FMRnVxamNpU2h4T29wR2VXSmYzbXhKRjBMdjNaM0xpdmFmbkdwS2ZvUFdGelRKV205OXRjWXhiMEJOenhlYS00MVdzeUZIY2VubVd5eHBPXzZkVS1WbFBzNzlQUEZWazJISFF2bVlHRDlWS3VubVVLb0I0RzRXTA?oc=5"
   },
   {
    "s": "BBC",
@@ -20,23 +25,23 @@
   },
   {
    "s": "CNBC",
-   "t": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-   "u": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html"
+   "t": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+   "u": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html"
   },
   {
    "s": "CNBC",
-   "t": "Semiconductor chips are the new oil. Here's why",
-   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+   "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
   },
   {
    "s": "Guardian",
-   "t": "Europe joins global stock market rally as AI trade rebounds - business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest"
+   "t": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+   "u": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps"
   },
   {
    "s": "MarketWatch",
-   "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
+   "t": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+   "u": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -45,8 +50,8 @@
   },
   {
    "s": "TASS",
-   "t": "Gazprom, Botas extend gas supply contract for Turkey by three years",
-   "u": "https://tass.com/economy/2225873"
+   "t": "Russia’s oil production to reach around 494 mln metric tons in 2026 — Novak",
+   "u": "https://tass.com/economy/2225949"
   },
   {
    "s": "Al Jazeera",
@@ -60,8 +65,8 @@
   },
   {
    "s": "CNA",
-   "t": "Exclusive-Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
-   "u": "https://www.channelnewsasia.com/business/exclusive-volkswagen-drags-rivals-mercedes-bmw-12-billion-india-tax-fight-6587471"
+   "t": "ATP seeks to centralise rights to boost revenue",
+   "u": "https://www.channelnewsasia.com/sport/atp-seeks-centralise-rights-boost-revenue-6587746"
   },
   {
    "s": "Straits Times",
@@ -95,13 +100,18 @@
   },
   {
    "s": "Economic Times",
-   "t": "December bank holidays: Check state-wise list",
-   "u": "https://economictimes.indiatimes.com/wealth/save/december-2026-bank-holidays-banks-to-remain-closed-on-these-dates-check-state-wise-list/articleshow/136217561.cms"
+   "t": "Nvidia chips turn up at China site tied to Alice Huang",
+   "u": "https://economictimes.indiatimes.com/news/international/business/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang/articleshow/136221540.cms"
   },
   {
    "s": "CNN",
-   "t": "European Central Bank set to appoint its first Spanish leader",
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzZnS2tTME93WGtEeHFtb3VqQVBTb3g0eWFoa19jV3ByclEwTjh0em8wZC1OLXgxWVJ6WWlPV1BMVkRoeERyMU41Q2FuMi1QdV9Cd3JXS1k5VDVmV0kzLVV3QjdFXzhtbEM4S2NWZzhEUVl5cjVlazVwRjVxNTlzd2tzbHR3T3lp?oc=5"
+   "t": "American farmers are paying the price for US aid cuts halfway across the world",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "As Trump remakes Washington, his Cabinet increasingly moves to secure military bases",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zRmVKcFJnT21USUZzaUN5UkxTcmFjN05mdl8xenI3MlpFQUEwdXZnR0k2ZjdEVkJDYVhpc2Q3SURFVUt5Wmd1dGdLc200MFhJV0hXb0NtVHVZajhNZDdUOW0wZzR1RWpGTWV5TDY4VnMwZUhXaHAxd18wNS0?oc=5"
   },
   {
    "s": "BBC",
@@ -115,23 +125,23 @@
   },
   {
    "s": "CNBC",
-   "t": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-   "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+   "t": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+   "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
   },
   {
    "s": "CNBC",
-   "t": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-   "u": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
+   "t": "Semiconductor chips are the new oil. Here's why",
+   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
   },
   {
    "s": "Guardian",
-   "t": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
-   "u": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps"
+   "t": "Europe joins global stock market rally as AI trade rebounds - business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest"
   },
   {
    "s": "MarketWatch",
-   "t": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
-   "u": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories"
+   "t": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+   "u": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -140,18 +150,8 @@
   },
   {
    "s": "TASS",
-   "t": "Novak urges media not to overdramatize alleged OPEC+ rift",
-   "u": "https://tass.com/economy/2225881"
-  },
-  {
-   "s": "Al Jazeera",
-   "t": "Why does Elon Musk want to put a million satellite data centres in space?",
-   "u": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "UNCTAD forecasts zero maritime trade growth in 2026 as shipping disruptions mount",
-   "u": "https://www.arabnews.com/business/unctad-forecasts-zero-maritime-trade-growth-in-2026-as-shipping-disruptions-mount-3014235"
+   "t": "Novatek’s entry on Turkish LNG market important — source",
+   "u": "https://tass.com/economy/2225945"
   }
  ]
 }
