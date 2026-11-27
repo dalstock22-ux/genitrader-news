@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:07:43+09:00",
+  "updated": "2026-11-27T12:02:36+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,20 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "코스피 장중 상승폭 커져 2% 안팎 강세…코스닥 6%대 급등",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261127070800008",
+      "published": "2026-11-27T11:13:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "노무라 \"반도체 호황 파급 약해…한은 금리 추가 인상 어려워\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112743387",
+      "published": "2026-11-27T11:04:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "중동 긴장 고조에 방산주 강세…한화시스템 10% 급등",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112740496",
@@ -59,6 +73,20 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261127031651008",
       "published": "2026-11-27T09:31:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "AI에 전기 팔아 후쿠시마 폐로비 댄다…도쿄전력 85조원 투자",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611273932i",
+      "published": "2026-11-27T09:09:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "'디에이치 반포124' 출격…12월 전국 2.4만 가구 일반분양",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112738156",
+      "published": "2026-11-27T08:53:00+09:00"
     },
     {
       "category": "해외시장",
@@ -89,6 +117,13 @@
       "published": "2026-11-26T18:11:00+09:00"
     },
     {
+      "category": "부동산",
+      "title": "\"대출 규제, 집값 못 잡고 수요 왜곡\"",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112631111",
+      "published": "2026-11-26T17:56:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "마이크론 이틀 새 15% 급락…D램 공급과잉 우려에 고점 대비 반토막",
       "source": "한국경제",
@@ -108,6 +143,13 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261126162551008",
       "published": "2026-11-26T16:50:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"美 경제 불균형 해소에 관세 도움 안돼…법원서 제동 걸릴 수도\" [이상은의 워싱턴나우]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611262202i",
+      "published": "2026-11-26T14:46:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261125053700030",
       "published": "2026-11-25T10:10:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "\"이젠 기름값 좀 떨어지려나\"…중동 긴장 속 공급증가 조짐",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112587617",
-      "published": "2026-11-25T09:59:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "사노피, 인스메드 410억달러에 인수…특허절벽 대비",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611258539i",
-      "published": "2026-11-25T09:20:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"작아도 서울 새 아파트\"…청약 신청 80% 쏠린 '소형의 반전'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112584116",
-      "published": "2026-11-25T08:50:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美, '과잉생산 관세' 이르면 오늘 발표…\"한국 15% 유지 예상\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112582197",
-      "published": "2026-11-25T07:36:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112581317",
-      "published": "2026-11-25T06:16:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] \"美 USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112480347",
-      "published": "2026-11-24T22:35:00+09:00"
     }
   ]
 }
