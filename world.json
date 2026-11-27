@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:40+09:00",
+ "updated": "2026-11-27T16:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -9,7 +9,7 @@
   },
   {
    "s": "BBC",
-   "t": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "t": "My self-care ritual is a meal at a fancy restaurant - on my own",
    "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
   },
   {
@@ -19,7 +19,7 @@
   },
   {
    "s": "CNBC",
-   "t": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+   "t": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
    "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
   },
   {
@@ -29,8 +29,8 @@
   },
   {
    "s": "Guardian",
-   "t": "Major East Midlands road projects shelved to divert funding to defence",
-   "u": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence"
+   "t": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up"
   },
   {
    "s": "MarketWatch",
@@ -44,28 +44,28 @@
   },
   {
    "s": "TASS",
-   "t": "Russian stock market reverses early gains",
-   "u": "https://tass.com/economy/2225685"
+   "t": "Transport, military-industrial facilities hit in strikes by Russian Armed Forces",
+   "u": "https://tass.com/defense/2225703"
   },
   {
    "s": "Al Jazeera",
-   "t": "Thanksgiving storms leave nearly a million without power across the US",
-   "u": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss"
+   "t": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+   "u": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Australia sanctions two alleged Iranian agents over antisemitic attacks",
-   "u": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215"
+   "t": "Oil on track to snap 3-week losing streak over supply fears",
+   "u": "https://www.arabnews.com/energy/oil-on-track-to-snap-3-week-losing-streak-over-supply-fears-3014225"
   },
   {
    "s": "CNA",
-   "t": "Slower real income growth, higher non-PMET unemployment in 2026: MOM advance figures",
-   "u": "https://www.channelnewsasia.com/singapore/real-income-growth-slow-non-pmet-unemployment-labour-report-mom-6585161"
+   "t": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
+   "u": "https://www.channelnewsasia.com/business/russian-ai-model-fills-void-in-unfinished-gogol-novel-not-everyone-happy-6587046"
   },
   {
    "s": "Straits Times",
-   "t": "Women express frustration, concern over Nvidia boss Jensen Huang’s return",
-   "u": "https://www.straitstimes.com/business/women-express-frustration-concern-over-nvidia-boss-jensen-huangs-return"
+   "t": "Thakral Corp aims to ride the waves of a revitalised stock market with spin-off listing: CEO",
+   "u": "https://www.straitstimes.com/business/companies-markets/thakral-corp-aims-to-ride-the-waves-of-a-revitalised-stock-market-with-spin-off-listing-ceo"
   },
   {
    "s": "Bangkok Post",
@@ -89,13 +89,13 @@
   },
   {
    "s": "SCMP",
-   "t": "Bayer unveils big China investment, outpacing US peers hesitant on Washington curbs",
-   "u": "https://www.scmp.com/business/companies/article/3375999/bayer-unveils-big-china-investment-outpacing-us-peers-hesitant-washington-curbs"
+   "t": "How Chinese tech firms can leverage Qianhai and Hong Kong’s advantages to achieve growth",
+   "u": "https://www.scmp.com/native/business/topics/chinas-gba-innovation-hub/article/3375615/how-chinese-tech-firms-can-leverage-qianhai-and-hong-kongs-advantages-achieve-growth"
   },
   {
    "s": "Economic Times",
-   "t": "Gold, silver rates today: Check prices across brands",
-   "u": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-27-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/136208766.cms"
+   "t": "AI can bring $600-700 bln cheer for smaller biz",
+   "u": "https://economictimes.indiatimes.com/news/economy/finance/ai-can-generate-600-700-billion-in-economic-value-for-sme-sector-rbi-governor-sanjay-malhotra/articleshow/136212080.cms"
   },
   {
    "s": "CNN",
@@ -120,8 +120,8 @@
   },
   {
    "s": "CNBC",
-   "t": "China’s factories are growing profits again, but the AI boom is picking the winners",
-   "u": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+   "t": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+   "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
   },
   {
    "s": "CNBC",
@@ -130,8 +130,8 @@
   },
   {
    "s": "Guardian",
-   "t": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-   "u": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham"
+   "t": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
+   "u": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts"
   },
   {
    "s": "MarketWatch",
@@ -147,13 +147,13 @@
   },
   {
    "s": "TASS",
-   "t": "French president complains about competition from Russia on agricultural market",
-   "u": "https://tass.com/economy/2225631"
+   "t": "Europe withdraws 10 bln cubic meters of gas from storage since heating season began",
+   "u": "https://tass.com/economy/2225689"
   },
   {
    "s": "Al Jazeera",
-   "t": "Asian stock markets rise after earlier tech rout",
-   "u": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss"
+   "t": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+   "u": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss"
   }
  ]
 }
