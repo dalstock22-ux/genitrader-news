@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:40+09:00",
+ "updated": "2026-11-27T22:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -25,13 +25,14 @@
   },
   {
    "s": "CNBC",
-   "t": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-   "u": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html"
+   "t": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
   },
   {
    "s": "CNBC",
-   "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+   "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
   },
   {
    "s": "Guardian",
@@ -40,8 +41,8 @@
   },
   {
    "s": "MarketWatch",
-   "t": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-   "u": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories"
+   "t": "Renters are now a national political constituency that can influence elections",
+   "u": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -50,13 +51,13 @@
   },
   {
    "s": "TASS",
-   "t": "Russia’s oil production to reach around 494 mln metric tons in 2026 — Novak",
-   "u": "https://tass.com/economy/2225949"
+   "t": "Russian Railways post $1.1 bln IFRS net profits in 9M 2026",
+   "u": "https://tass.com/economy/2225977"
   },
   {
    "s": "Al Jazeera",
-   "t": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-   "u": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss"
+   "t": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "u": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss"
   },
   {
    "s": "Arab News",
@@ -70,8 +71,8 @@
   },
   {
    "s": "Straits Times",
-   "t": "Binance says ‘withdrawal recovery work’ complete after US$6.3 billion crypto heist",
-   "u": "https://www.straitstimes.com/business/binance-says-withdrawal-recovery-work-complete-after-us6-3-billion-crypto-heist"
+   "t": "Sri Lanka credit rating upgraded",
+   "u": "https://www.straitstimes.com/business/sri-lanka-credit-rating-upgraded"
   },
   {
    "s": "Bangkok Post",
@@ -105,13 +106,13 @@
   },
   {
    "s": "CNN",
-   "t": "American farmers are paying the price for US aid cuts halfway across the world",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk?oc=5"
+   "t": "New Mexico authorities search for pregnant woman who escaped during prison transport",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzBTZldOV3N4MXV3MGF3NzMxejJzUHZCZDNRWHhPR1NZNmdid3Q0RGM4bUhIY0hqT2VXY1FXTmRza0E0c04yQ2VjRmpsdFNiOTB2TGc5MGhQX2NfMmNxZml0OFJRUy1pQUFrVEx4RXdhLWE4VkJXLVhlVlFVdFZqSkU3c0w?oc=5"
   },
   {
    "s": "CNN",
    "t": "As Trump remakes Washington, his Cabinet increasingly moves to secure military bases",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zRmVKcFJnT21USUZzaUN5UkxTcmFjN05mdl8xenI3MlpFQUEwdXZnR0k2ZjdEVkJDYVhpc2Q3SURFVUt5Wmd1dGdLc200MFhJV0hXb0NtVHVZajhNZDdUOW0wZzR1RWpGTWV5TDY4VnMwZUhXaHAxd18wNS0?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwN0RaU3EyWjJIc0x2aDFIR0dVcVBWV3h5MHFKNktPeUVnd045bWV6MC1CUG4wbzBncnpUc0E3ZzNRUGE3NnZ2RTRQV3VJZGZiT2xYekk1TDdYVDA5VV8yS0VOQUxCalcwR1FMa2J5MTJlTUxNdVln?oc=5"
   },
   {
    "s": "BBC",
@@ -125,13 +126,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-   "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-  },
-  {
-   "s": "CNBC",
-   "t": "Semiconductor chips are the new oil. Here's why",
-   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+   "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
   },
   {
    "s": "Guardian",
@@ -140,8 +136,9 @@
   },
   {
    "s": "MarketWatch",
-   "t": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-   "u": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories"
+   "t": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "k": "엔비디아의 젠슨 황이 여러분의 401(k) 잔액을 좌우한다면, 우리는 위험한 시대를 살고 있는 것입니다."
   },
   {
    "s": "Moscow Times",
@@ -150,8 +147,13 @@
   },
   {
    "s": "TASS",
-   "t": "Novatek’s entry on Turkish LNG market important — source",
-   "u": "https://tass.com/economy/2225945"
+   "t": "Russia’s oil production to reach around 494 mln metric tons in 2026 — Novak",
+   "u": "https://tass.com/economy/2225949"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+   "u": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss"
   }
  ]
 }
