@@ -1,12 +1,16 @@
 {
- "updated": "2026-11-27T23:40+09:00",
+ "updated": "2026-11-28T00:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "From automation to autonomy: Putting trust at the heart of industrial AI",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdjZqUmstZTViM1hzZjlic1BRbzV1dmpmV2M5QURVQXkxTUdFMEpXRFQxeHkzcWZnVjNCeDhZam5IbTh2ekFlVUZCbGJHN0toWmVzcFNhdWU5TlhrdXdlWUU5RGVmNThrMzllenNudWRHTVQ5cjdjQg?oc=5",
-   "k": "자동화에서 자율성으로: 산업용 AI의 핵심에 신뢰를 두기"
+   "t": "New Mexico authorities search for pregnant woman who escaped during prison transport",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzBTZldOV3N4MXV3MGF3NzMxejJzUHZCZDNRWHhPR1NZNmdid3Q0RGM4bUhIY0hqT2VXY1FXTmRza0E0c04yQ2VjRmpsdFNiOTB2TGc5MGhQX2NfMmNxZml0OFJRUy1pQUFrVEx4RXdhLWE4VkJXLVhlVlFVdFZqSkU3c0w?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHByb0VWZ1U5THlzUnR2Q3l3alZ2bXJ0MkE0STJoZGQ5OF9LY3ZNb0pDb181RmJ6SEo3UFFld1FlMzVvY1FMRnVxamNpU2h4T29wR2VXSmYzbXhKRjBMdjNaM0xpdmFmbkdwS2ZvUFdGelRKV205OXRjWXhiMEJOenhlYS00MVdzeUZIY2VubVd5eHBPXzZkVS1WbFBzNzlQUEZWazJISFF2bVlHRDlWS3VubVVLb0I0RzRXTA?oc=5"
   },
   {
    "s": "BBC",
@@ -20,8 +24,8 @@
   },
   {
    "s": "CNBC",
-   "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-   "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+   "t": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+   "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
   },
   {
    "s": "CNBC",
@@ -31,23 +35,23 @@
   },
   {
    "s": "Guardian",
-   "t": "Europe joins global stock market rally as AI trade rebounds - business live",
-   "u": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest"
+   "t": "Too old for soft toys? Tell that to kidults booking up Harrods Jellycat cafe",
+   "u": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette"
   },
   {
    "s": "MarketWatch",
-   "t": "How much more are richest Americans spending on the holidays compared to everyone else?",
-   "u": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories"
+   "t": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+   "u": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
-   "t": "Russia Bans Buckwheat Exports Until Mid-2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390"
+   "t": "Russia Extends Jet Fuel Export Ban Until March 2027",
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395"
   },
   {
    "s": "TASS",
-   "t": "CIS Economic Council reviewed CIS+format appearance — Russian Deputy PM",
-   "u": "https://tass.com/politics/2225997"
+   "t": "Turkey’s participation as SPIEF guest country to give impetus to bilateral trade — source",
+   "u": "https://tass.com/economy/2226063"
   },
   {
    "s": "Al Jazeera",
@@ -61,18 +65,18 @@
   },
   {
    "s": "CNA",
-   "t": "Chile's antitrust authority seeks $80 million Apple fine over iOS",
-   "u": "https://www.channelnewsasia.com/business/chiles-antitrust-authority-seeks-80-million-apple-fine-over-ios-6588091"
+   "t": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
+   "u": "https://www.channelnewsasia.com/business/explainer-million-satellites-what-spacexs-starmind-could-mean-earth-and-space-6588191"
   },
   {
    "s": "Straits Times",
-   "t": "Airline Norse Atlantic’s Norwegian operating unit declares bankruptcy",
-   "u": "https://www.straitstimes.com/business/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy"
+   "t": "Indian court allows Tata Sons board meeting on listing to proceed",
+   "u": "https://www.straitstimes.com/business/tata-sons-shareholder-charities-seek-to-halt-board-meeting-in-fight-over-chairmans-re-election"
   },
   {
    "s": "Bangkok Post",
-   "t": "The 718 Boxster goes electric",
-   "u": "https://www.bangkokpost.com/business/motoring/3362204/the-718-boxster-goes-electric"
+   "t": "Bid to suspend embattled NBTC chairman rejected",
+   "u": "https://www.bangkokpost.com/business/general/3362309/bid-to-suspend-embattled-nbtc-chairman-rejected"
   },
   {
    "s": "Euronews",
@@ -96,13 +100,18 @@
   },
   {
    "s": "Economic Times",
-   "t": "Silver price 66% down from peak: Should you invest?",
-   "u": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-prices-fall-crash-by-rs-2-76-lakh-per-kg-from-january-peaks-is-current-mcx-spot-price-good-opportunity-to-buy/articleshow/136221327.cms"
+   "t": "US goods trade deficit widens sharply in October",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms"
   },
   {
    "s": "CNN",
    "t": "American farmers are paying the price for US aid cuts halfway across the world",
    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "As Trump remakes Washington, his Cabinet increasingly moves to secure military bases",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwN0RaU3EyWjJIc0x2aDFIR0dVcVBWV3h5MHFKNktPeUVnd045bWV6MC1CUG4wbzBncnpUc0E3ZzNRUGE3NnZ2RTRQV3VJZGZiT2xYekk1TDdYVDA5VV8yS0VOQUxCalcwR1FMa2J5MTJlTUxNdVln?oc=5"
   },
   {
    "s": "BBC",
@@ -116,8 +125,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-   "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+   "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+   "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
   },
   {
    "s": "CNBC",
@@ -126,33 +135,23 @@
   },
   {
    "s": "Guardian",
-   "t": "UK’s taste for cow’s milk fades as sales hit record low",
-   "u": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond"
+   "t": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
+   "u": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers"
   },
   {
    "s": "MarketWatch",
-   "t": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-   "u": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories"
+   "t": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+   "u": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
-   "t": "Russian TV Star With Ties to VTB Chief Backed Telegram’s Failed Crypto Venture – Report",
-   "u": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384"
+   "t": "Russia Bans Buckwheat Exports Until Mid-2027",
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390"
   },
   {
    "s": "TASS",
-   "t": "Russia cannot overstate importance of ensuring Arctic security — senator",
-   "u": "https://tass.com/politics/2225995"
-  },
-  {
-   "s": "Al Jazeera",
-   "t": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-   "u": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "UNCTAD forecasts zero maritime trade growth in 2026 as shipping disruptions mount",
-   "u": "https://www.arabnews.com/business/unctad-forecasts-zero-maritime-trade-growth-in-2026-as-shipping-disruptions-mount-3014235"
+   "t": "Bundestag approves 2027 budget draft with record defense spending",
+   "u": "https://tass.com/world/2226053"
   }
  ]
 }
