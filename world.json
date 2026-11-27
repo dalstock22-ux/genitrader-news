@@ -1,157 +1,186 @@
 {
- "updated": "2026-11-28T00:40+09:00",
+ "updated": "2026-11-28T03:57+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "New Mexico authorities search for pregnant woman who escaped during prison transport",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzBTZldOV3N4MXV3MGF3NzMxejJzUHZCZDNRWHhPR1NZNmdid3Q0RGM4bUhIY0hqT2VXY1FXTmRza0E0c04yQ2VjRmpsdFNiOTB2TGc5MGhQX2NfMmNxZml0OFJRUy1pQUFrVEx4RXdhLWE4VkJXLVhlVlFVdFZqSkU3c0w?oc=5"
+   "t": "When and where storms could slow your post-Thanksgiving travel",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZuUnRnczNHOGpERFdmejZOa2dlSG5Tenh0WmVaa2hQQUcwTWhCZ0JrQy1WaC0yZXB4WnJweWRPSV9rZUdBSlBOSnpES0tFaWlfaHpGNHU0UVBUbGZPYUJ2UTN3MGtLNDFnSnliUnlhMzdRYnNZR3pDN2lUaFZpUWJtUTc?oc=5",
+   "k": "추수감사절 연휴 이후 여행에 악영향을 미칠 수 있는 폭풍의 발생 시기 및 지역"
   },
   {
    "s": "CNN",
-   "t": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down",
-   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHByb0VWZ1U5THlzUnR2Q3l3alZ2bXJ0MkE0STJoZGQ5OF9LY3ZNb0pDb181RmJ6SEo3UFFld1FlMzVvY1FMRnVxamNpU2h4T29wR2VXSmYzbXhKRjBMdjNaM0xpdmFmbkdwS2ZvUFdGelRKV205OXRjWXhiMEJOenhlYS00MVdzeUZIY2VubVd5eHBPXzZkVS1WbFBzNzlQUEZWazJISFF2bVlHRDlWS3VubVVLb0I0RzRXTA?oc=5"
+   "t": "Oil prices are again rising – here’s why",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pWERQc1hkMjdnNVdlT2laUE80aXpVRV9GV3o5ZE9lb0lKbng3WFRTUGp0X3c2eG1hSmVkSkFSUUcwWEx3REFpUmdweERDY0ZITkR5cmFaS094dHB6SjFsLU5DbDUzM2JEVmFjX2habw?oc=5",
+   "k": "유가가 다시 오르고 있습니다. 그 이유는 다음과 같습니다."
   },
   {
    "s": "BBC",
    "t": "My self-care ritual is a meal at a fancy restaurant - on my own",
-   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
+   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+   "k": "저의 셀프 케어 의식은 고급 레스토랑에서 혼자 식사하는 거예요."
   },
   {
    "s": "BBC",
    "t": "EU leaders fail to bridge budget splits as talks stall",
-   "u": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno"
+   "u": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
+   "k": "회담이 교착 상태에 빠지면서 EU 지도자들이 예산 분쟁을 해결하지 못함"
   },
   {
    "s": "CNBC",
-   "t": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-   "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+   "t": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+   "u": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+   "k": "젠슨 황(Jensen Huang)의 복귀는 AI에 대한 불안감을 해소하는 데 거의 도움이 되지 않았습니다. 우리는 약세를 매수 기회로 활용했습니다."
   },
   {
    "s": "CNBC",
    "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험에 들게 하다"
   },
   {
    "s": "Guardian",
-   "t": "Too old for soft toys? Tell that to kidults booking up Harrods Jellycat cafe",
-   "u": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette"
+   "t": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+   "u": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+   "k": "‘도움이 되지 않습니다’: 미국 소매업체들의 AI 사용이 증가함에 따라 가드레일과 규제에 대한 요구가 높아지고 있습니다."
   },
   {
    "s": "MarketWatch",
-   "t": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-   "u": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories"
+   "t": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "u": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "k": "황 CEO의 엔비디아 복귀가 하이라이트였던 격동의 한 주 동안 가장 큰 폭으로 상승한 주식들"
   },
   {
    "s": "Moscow Times",
    "t": "Russia Extends Jet Fuel Export Ban Until March 2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395"
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395",
+   "k": "러시아, 항공기 연료 수출 금지 조치 2027년 3월까지 연장"
   },
   {
    "s": "TASS",
-   "t": "Turkey’s participation as SPIEF guest country to give impetus to bilateral trade — source",
-   "u": "https://tass.com/economy/2226063"
+   "t": "Russian stock market closes in the green",
+   "u": "https://tass.com/economy/2226245",
+   "k": "러시아 주식 시장, 상승세로 마감"
   },
   {
    "s": "Al Jazeera",
-   "t": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "u": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss"
+   "t": "Elon Musk gets the greenlight from the US to launch one million satellites",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+   "k": "일론 머스크, 미국으로부터 위성 100만 개 발사 승인 받다"
   },
   {
    "s": "Arab News",
-   "t": "Trump backs Iraqi leader’s efforts to curb oil-smuggling",
-   "u": "https://www.arabnews.com/middle-east/trump-backs-iraqi-leaders-efforts-to-curb-oil-smuggling-3014239"
+   "t": "Bayern injury crisis intensifies with Musiala and Olise joining Harry Kane on injured forward list",
+   "u": "https://www.arabnews.com/football/bayern-injury-crisis-intensifies-with-musiala-and-olise-joining-harry-kane-on-injured-forward-list-3014307",
+   "k": "바이에른 뮌헨의 부상자 명단에 해리 케인에 이어 무시알라와 올리세까지 추가되면서 부상 위기가 심화되고 있습니다."
   },
   {
    "s": "CNA",
-   "t": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
-   "u": "https://www.channelnewsasia.com/business/explainer-million-satellites-what-spacexs-starmind-could-mean-earth-and-space-6588191"
+   "t": "OpenAI countersues Apple for stealing trade secrets, FT reports",
+   "u": "https://www.channelnewsasia.com/business/openai-countersues-apple-stealing-trade-secrets-ft-reports-6588456",
+   "k": "FT 보도에 따르면, OpenAI가 Apple을 상대로 영업 비밀 도용 혐의로 맞고소했다고 합니다."
   },
   {
    "s": "Straits Times",
    "t": "Indian court allows Tata Sons board meeting on listing to proceed",
-   "u": "https://www.straitstimes.com/business/tata-sons-shareholder-charities-seek-to-halt-board-meeting-in-fight-over-chairmans-re-election"
+   "u": "https://www.straitstimes.com/business/tata-sons-shareholder-charities-seek-to-halt-board-meeting-in-fight-over-chairmans-re-election",
+   "k": "인도 법원, 타타선스 이사회 회의 진행 허용"
   },
   {
    "s": "Bangkok Post",
    "t": "Bid to suspend embattled NBTC chairman rejected",
-   "u": "https://www.bangkokpost.com/business/general/3362309/bid-to-suspend-embattled-nbtc-chairman-rejected"
+   "u": "https://www.bangkokpost.com/business/general/3362309/bid-to-suspend-embattled-nbtc-chairman-rejected",
+   "k": "곤경에 처한 NBTC 위원장 직무 정지 청원 기각"
   },
   {
    "s": "Euronews",
-   "t": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews",
-   "u": "https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews"
+   "t": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
+   "u": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+   "k": "아제르바이잔과 아르메니아 시민사회가 새로운 평화 협상에서 '새로운 역사'를 모색하다"
   },
   {
    "s": "MercoPress",
    "t": "Lula picks banker Luiz Carlos Trabuco to run the Finance Ministry in his fourth term",
-   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "k": "룰라 대통령, 4기 정부에서 재무부 장관으로 루이스 카를로스 트라부코 은행가를 지명"
   },
   {
    "s": "Buenos Aires Times",
-   "t": "Milei’s overhaul of Argentina’s Central Bank wins final approval in Congress",
-   "u": "https://www.batimes.com.ar/news/economy/mileis-overhaul-of-argentinas-central-bank-wins-final-approval-in-congress.phtml"
+   "t": "Milei government scores legislative wins, despite economic uncertainty",
+   "u": "https://www.batimes.com.ar/news/argentina/government-scores-legislative-wins-despite-economic-uncertainty.phtml",
+   "k": "경제적 불확실성에도 불구하고 입법 성과를 거둔 밀레이 정부"
   },
   {
    "s": "SCMP",
    "t": "Failed California billionaire tax proposal gets close look in China tax circles",
-   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles"
+   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
+   "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
   },
   {
    "s": "Economic Times",
    "t": "US goods trade deficit widens sharply in October",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms"
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms",
+   "k": "10월 미국 상품 무역 적자 폭이 크게 확대"
   },
   {
    "s": "CNN",
-   "t": "American farmers are paying the price for US aid cuts halfway across the world",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk?oc=5"
-  },
-  {
-   "s": "CNN",
-   "t": "As Trump remakes Washington, his Cabinet increasingly moves to secure military bases",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwN0RaU3EyWjJIc0x2aDFIR0dVcVBWV3h5MHFKNktPeUVnd045bWV6MC1CUG4wbzBncnpUc0E3ZzNRUGE3NnZ2RTRQV3VJZGZiT2xYekk1TDdYVDA5VV8yS0VOQUxCalcwR1FMa2J5MTJlTUxNdVln?oc=5"
+   "t": "For Nike, a comeback is a marathon and not a sprint",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xdFRsLUVhRE4yTnVlMjVXUWQ1cDVudUFzWHI4eFRkSFFSZ1dqZklTNkN1dENpUkVZbnZBNUl2Z1RUUTlHOWRvUmk0dVY0Ums0TFRNTVZPdU41RGRveF9xVjg3Ynh4LVM5MjB2SEcyNEFCUUJybnJ0Rw?oc=5",
+   "k": "나이키에게 재기는 단거리 경주가 아닌 마라톤입니다."
   },
   {
    "s": "BBC",
    "t": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o"
+   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
+   "k": "250파운드의 작업이 9,000파운드의 청구서로: 대규모로 고객을 속이는 사기성 업자 네트워크의 내부"
   },
   {
    "s": "BBC",
    "t": "Nine injured, three critically, after Bangkok oil refinery explosion",
-   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+   "k": "방콕 정유소 폭발로 7명 부상, 이 중 4명은 위중한 상태"
   },
   {
    "s": "CNBC",
-   "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-   "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+   "t": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "k": "테크주 랠리와 머스크의 트럼프 계정 주식 기부 확대 발언에 힘입어 SpaceX 주가 4% 이상 급등"
   },
   {
    "s": "CNBC",
    "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "k": "S&P 500 지수가 조정 국면에 있습니다. 베어 마켓과 경기 침체가 항상 뒤따르는 것은 아닙니다."
   },
   {
    "s": "Guardian",
-   "t": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
-   "u": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers"
+   "t": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "k": "중국, 트럼프 대통령의 새로운 관세 부과안에 대해 '필요한 조치'를 취할 권리를 보유한다고 밝혀"
   },
   {
    "s": "MarketWatch",
-   "t": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
-   "u": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories"
+   "t": "The warnings behind this week’s stock-market rally",
+   "u": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+   "k": "이번 주 주식 시장 랠리 이면의 경고"
   },
   {
    "s": "Moscow Times",
    "t": "Russia Bans Buckwheat Exports Until Mid-2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390"
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390",
+   "k": "러시아, 2027년 중반까지 메밀 수출 금지"
   },
   {
    "s": "TASS",
-   "t": "Bundestag approves 2027 budget draft with record defense spending",
-   "u": "https://tass.com/world/2226053"
+   "t": "Bank of Russia set dollar rate at 82.27 rubles for November 28-30",
+   "u": "https://tass.com/economy/2226199",
+   "k": "러시아 중앙은행, 11월 28~30일 달러 환율을 82.27루블로 고시"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+   "u": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+   "k": "노르웨이 대서양 항공, 파산 신청 및 항공편 운항과 항공권 판매 중단"
   }
  ]
 }
