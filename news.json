@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:12:01+09:00",
+  "updated": "2026-11-28T09:04:34+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -48,6 +48,27 @@
   "items": [
     {
       "category": "경제·증시",
+      "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261128017000002",
+      "published": "2026-11-28T08:24:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "트럼프 \"내가 원할 때 언제든 전쟁 끝낼 것\"…이란 압박",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112857907",
+      "published": "2026-11-28T07:33:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "증안펀드 기대로 8% 뛴 코스닥…현 시점 투자전략 짜보니",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611275027i",
+      "published": "2026-11-28T07:20:00+09:00"
+    },
+    {
+      "category": "경제·증시",
       "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261127153400530",
@@ -75,11 +96,25 @@
       "published": "2026-11-27T17:11:00+09:00"
     },
     {
+      "category": "부동산",
+      "title": "불암산 아래 1만 가구…속도 내는 상계뉴타운",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112752511",
+      "published": "2026-11-27T17:11:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "젠슨 황 감싼 트럼프…\"전혀 문제없어\" 안보 우려 일축",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112747927",
       "published": "2026-11-27T14:45:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "이스라엘 야권, 네타냐후 교체 속도…야당 2곳과 연정 합의",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611274730i",
+      "published": "2026-11-27T14:21:00+09:00"
     },
     {
       "category": "부동산",
@@ -157,6 +192,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112631531",
       "published": "2026-11-26T18:11:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "서울 최대 재개발 '한남3구역' 첫삽",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112631071",
+      "published": "2026-11-26T17:58:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261125163400003",
       "published": "2026-11-25T17:53:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "역세권 임대 등 30조 투입…'공급가뭄' 해소",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112501581",
-      "published": "2026-11-25T17:47:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"중산층도 사는 공적주택 年 24만가구 공급\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112503571",
-      "published": "2026-11-25T17:46:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美 연방은행 3분의 2…\"12월 금리인상 지지\"",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112502221",
-      "published": "2026-11-25T17:26:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "개발부담금 깎아줬더니…3년간 착공 40% 늘어",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112501511",
-      "published": "2026-11-25T17:25:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "사노피, 3년 만에 제약업계 최대 규모 인수 합의…인스메드 주가 14% 급등",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611250128i",
-      "published": "2026-11-25T17:13:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "AI 서버 매출 291% 뛴 델…250억달러 자사주 매입 나선다",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611250127i",
-      "published": "2026-11-25T17:07:00+09:00"
     }
   ]
 }
