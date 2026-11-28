@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T16:42:15+09:00",
+  "updated": "2026-11-28T18:11:16+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,20 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "韓총리, 삼전·하이닉스에 \"채용 많이 해달라\"…청년간담회도",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261128043500001",
+      "published": "2026-11-28T17:37:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611285956i",
+      "published": "2026-11-28T13:34:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "'안전자산' 금의 배신…금리 인상 공포에 고점 대비 33% 급락",
@@ -111,6 +125,20 @@
     },
     {
       "category": "해외시장",
+      "title": "미국도 벌벌 떨게 하더니…잘나가던 중국 AI '뜻밖의 근황'",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112754071",
+      "published": "2026-11-27T17:36:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"담보 잡은 AI칩, 우주 보낸다고?\"…스페이스X 채권단 제동",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112753501",
+      "published": "2026-11-27T17:29:00+09:00"
+    },
+    {
+      "category": "해외시장",
       "title": "도쿄전력 \"전력망에 10조엔 투자…美 데이터센터 유치\"",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112753541",
@@ -131,6 +159,13 @@
       "published": "2026-11-27T17:11:00+09:00"
     },
     {
+      "category": "부동산",
+      "title": "'더샵 일산센트로' 526가구 분양",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112752541",
+      "published": "2026-11-27T17:11:00+09:00"
+    },
+    {
       "category": "해외시장",
       "title": "젠슨 황 감싼 트럼프…\"전혀 문제없어\" 안보 우려 일축",
       "source": "한국경제",
@@ -143,6 +178,13 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611274730i",
       "published": "2026-11-27T14:21:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "행신동 첫 재건축 분양 '고양 한신더휴 퍼스트원'…27일 견본주택 개관",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611274667i",
+      "published": "2026-11-27T13:52:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026112618876",
       "published": "2026-11-26T14:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "국고채 금리, 기준금리 인상에 일제히 상승…성장률·점도표 상향(종합)",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126094051008",
-      "published": "2026-11-26T11:47:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 아래로",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126095700002",
-      "published": "2026-11-26T11:45:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울시, 장기안심주택 7000가구 모집…중장년층 특별공급 신설",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611261513i",
-      "published": "2026-11-26T11:15:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "\"택지 싸도 소용없다\"…지방 '국민평형' 분양가도 5억 돌파",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112612256",
-      "published": "2026-11-26T09:17:00+09:00"
-    },
-    {
-      "category": "부동산",
-      "title": "서울 원룸 월세 평균 70만원…강남 100만원 '턱밑'",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112610986",
-      "published": "2026-11-26T09:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "美, 한국 '과잉생산 관세' 근거…호남 반도체 클러스터 짚어",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611261025H",
-      "published": "2026-11-26T08:39:00+09:00"
     }
   ]
 }
