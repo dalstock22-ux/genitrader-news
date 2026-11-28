@@ -1,158 +1,186 @@
 {
- "updated": "2026-11-29T00:40+09:00",
+ "updated": "2026-11-29T03:55+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Childcare is ‘like a second mortgage’: 28-year-old still worries about affordability despite good financial news",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdE4tLWpNaFA0QTZtVXphb3F4aDc5cHFJOGxFZUV1M2dmZ01NbVdTWjMzYlJ6UjFXWURCa0ItZGI3QUx2emJjQlg1QkE0emJzcUZVbDNnakxCZzA3MzJDNXdUU0pHSHFWaUF6MlA0WEJqOE8ycnEzMU9qa1dZWHRQSHRSRzNuNlBrUEpScHFUVEhsaDZGMDloYg?oc=5"
+   "t": "Rising prices hit Iranians as US pressure tightens",
+   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzAxWVBaWHJpS3pIVjZCMXh3d2ZCaEY2Sm4xLW9uckhzaExnS01NUmpCUTJoMnhJdmVUd3ByQkhBbk5McUtQTTMtbVh6WTR4TGVPYjRKNnFEMy1DajdpSFdzRnNlbG5GcFlpajhGSjAxUmNxRTdtdTllTk4xZTJlWTBHcnF6SlE?oc=5",
+   "k": "미국의 압박이 강화되면서 이란인들이 가격 상승의 타격을 받다"
   },
   {
    "s": "BBC",
    "t": "My self-care ritual is a meal at a fancy restaurant - on my own",
-   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
+   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+   "k": "저의 셀프 케어 의식은 고급 레스토랑에서 혼자 식사하는 거예요."
   },
   {
    "s": "BBC",
    "t": "Argentina's bid to stop Falklands oil drilling rejected",
-   "u": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno"
+   "u": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno",
+   "k": "아르헨티나의 포클랜드 석유 시추 중단 시도 거부됨"
   },
   {
    "s": "CNBC",
    "t": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
-   "u": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html"
+   "u": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+   "k": "그는 교육부와 싸워 학자금 대출 면제 크레딧을 되찾았습니다. 다른 차용인들이 배울 수 있는 점"
   },
   {
    "s": "CNBC",
    "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험에 들게 하다"
   },
   {
    "s": "Guardian",
-   "t": "‘Andy holds the pen’: will Burnham’s 10-year plan live up to the hype?",
-   "u": "https://www.theguardian.com/politics/2026/nov/28/andy-holds-the-pen-will-burnhams-10-year-plan-live-up-to-the-hype"
+   "t": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+   "u": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+   "k": "상속: 프랑스에서 가장 부유한 가문이 LVMH의 경영권을 누가 이어받을지를 놓고 다투고 있다고 합니다."
+  },
+  {
+   "s": "MarketWatch",
+   "t": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+   "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "k": "Nvidia의 젠슨 황이 401(k) 잔액을 좌우하는 위험한 시대를 살고 있습니다."
+  },
+  {
+   "s": "Moscow Times",
+   "t": "Russia Extends Jet Fuel Export Ban Until March 2027",
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395",
+   "k": "러시아, 항공기 연료 수출 금지 조치 2027년 3월까지 연장"
+  },
+  {
+   "s": "TASS",
+   "t": "Hamas blasts technocrat committee for inability to start governing Gaza",
+   "u": "https://tass.com/world/2226443",
+   "k": "하마스, 가자지구 통치 시작하지 못한 기술관료 위원회 비난"
+  },
+  {
+   "s": "Al Jazeera",
+   "t": "Russia and Ukraine strike energy infrastructure, as attacks kill 10",
+   "u": "https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss",
+   "k": "러시아와 우크라이나가 에너지 인프라를 공격하면서 10명이 사망했습니다."
+  },
+  {
+   "s": "Arab News",
+   "t": "Iran rial falls to near 3 million to US dollar as sanctions, blockade weigh",
+   "u": "https://www.arabnews.com/middle-east/iran-rial-falls-to-near-3-million-to-us-dollar-as-sanctions-blockade-weigh-3014407",
+   "k": "제재와 봉쇄로 인해 이란 리알화 가치가 미화 1달러당 300만 리알에 육박하는 수준으로 하락"
+  },
+  {
+   "s": "CNA",
+   "t": "Thailand to issue ban on exports of chemicals used in Myanmar rare earth mining on Monday",
+   "u": "https://www.channelnewsasia.com/asia/thailand-ban-myanmar-export-chemicals-rare-earth-mining-6589501",
+   "k": "태국, 미얀마 희토류 채굴에 사용되는 화학물질 수출 금지 조치 11월 11일 시행 예정"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Binance gets preliminary approval to establish Asia hub in Bhutan",
+   "u": "https://www.straitstimes.com/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan",
+   "k": "바이낸스, 부탄에 아시아 허브 설립을 위한 예비 승인 획득"
+  },
+  {
+   "s": "Bangkok Post",
+   "t": "Binance preparing to establish Asia hub in Bhutan",
+   "u": "https://www.bangkokpost.com/business/general/3362811/binance-preparing-to-establish-asia-hub-in-bhutan",
+   "k": "바이낸스, 부탄에 아시아 허브 설립 준비 중"
+  },
+  {
+   "s": "Euronews",
+   "t": "France's credit outlook cut to negative by S&P, economy minister calls it 'warning'",
+   "u": "https://www.euronews.com/2026/11/28/frances-credit-outlook-cut-to-negative-by-sp-economy-minister-calls-it-warning",
+   "k": "S&P가 프랑스의 신용 전망을 '부정적'으로 하향 조정하자, 프랑스 경제부 장관이 이를 '경고'라고 표현"
+  },
+  {
+   "s": "MercoPress",
+   "t": "Lula picks banker Luiz Carlos Trabuco to run the Finance Ministry in his fourth term",
+   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "k": "룰라 대통령, 4기 정부에서 재무부 장관으로 루이스 카를로스 트라부코 은행가를 지명"
+  },
+  {
+   "s": "Buenos Aires Times",
+   "t": "International Tribunal for the Law of the Sea rejects Argentina's bid to halt Malvinas oil project",
+   "u": "https://www.batimes.com.ar/news/world/international-tribunal-for-the-law-of-the-sea-ruling-on-malvinas-oil-case.phtml",
+   "k": "국제해양법재판소, 아르헨티나의 말비나스 석유 프로젝트 중단 요청 기각"
+  },
+  {
+   "s": "SCMP",
+   "t": "Failed California billionaire tax proposal gets close look in China tax circles",
+   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
+   "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
+  },
+  {
+   "s": "Economic Times",
+   "t": "Centre moves to tame the raw jute price spiral",
+   "u": "https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/centre-caps-raw-jute-stocks-orders-clearance-of-excess-inventory-by-december-10/articleshow/136252314.cms",
+   "k": "원료 황마 가격 급등을 억제하기 위한 중앙 정부의 조치"
+  },
+  {
+   "s": "CNN",
+   "t": "Childcare is ‘like a second mortgage’: 28-year-old still worries about affordability despite good financial news",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdE4tLWpNaFA0QTZtVXphb3F4aDc5cHFJOGxFZUV1M2dmZ01NbVdTWjMzYlJ6UjFXWURCa0ItZGI3QUx2emJjQlg1QkE0emJzcUZVbDNnakxCZzA3MzJDNXdUU0pHSHFWaUF6MlA0WEJqOE8ycnEzMU9qa1dZWHRQSHRSRzNuNlBrUEpScHFUVEhsaDZGMDloYg?oc=5",
+   "k": "육아는 '두 번째 주택담보대출과 같다'는 28세 여성. 재정 상황이 좋아졌음에도 불구하고 여전히 비용 부담을 걱정"
+  },
+  {
+   "s": "CNN",
+   "t": "Argentina loses bid to halt UK-backed oil exploration near contested Falkland Islands",
+   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUxHRWdGMnJBM0JfVUpzOUpLbXRySGR6TUN0LVpMLWRBOUpLZlhQZ09yNEVtNDJ5bWpoeG9fUTh6dVk5cjJNTjYtUm14eGpPNkRxeGtBZTZNTGo0WE5FZ0xzQ3JuSXVsb19fWkMwck5KQ3ZWeXVTSHhER2FDRzJ6S0gwSDctTzQ3X0UyWGQ1TXpib3c?oc=5",
+   "k": "아르헨티나, 영국이 지원하는 분쟁 지역인 포클랜드 제도 인근 석유 탐사 중단 시도 실패"
+  },
+  {
+   "s": "BBC",
+   "t": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
+   "k": "250파운드의 작업이 9,000파운드의 청구서로: 대규모로 고객을 속이는 사기성 업자 네트워크의 내부"
+  },
+  {
+   "s": "BBC",
+   "t": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "u": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo",
+   "k": "OpenAI, 영업 비밀 도용 혐의로 애플에 맞고소 제기"
+  },
+  {
+   "s": "CNBC",
+   "t": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+   "u": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+   "k": "이란 전쟁은 향후 몇 달 동안 석유 공급 과잉에 대한 기대감을 산산조각 낼 수 있습니다."
+  },
+  {
+   "s": "CNBC",
+   "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "k": "S&P 500 지수가 조정 국면에 있습니다. 베어 마켓과 경기 침체가 항상 뒤따르는 것은 아닙니다."
+  },
+  {
+   "s": "Guardian",
+   "t": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+   "k": "극심한 부의 폭발은 우리 시대의 주요 문제입니다 | 버니 샌더스"
   },
   {
    "s": "MarketWatch",
    "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
    "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
-  },
-  {
-   "s": "Moscow Times",
-   "t": "Russia Extends Jet Fuel Export Ban Until March 2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395"
-  },
-  {
-   "s": "TASS",
-   "t": "Berlin intends to widen military-technical cooperation with Kiev — paper",
-   "u": "https://tass.com/world/2226425"
-  },
-  {
-   "s": "Al Jazeera",
-   "t": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
-   "u": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss"
-  },
-  {
-   "s": "Arab News",
-   "t": "Israeli settlers attack electricity workers repairing damaged power lines in West Bank",
-   "u": "https://www.arabnews.com/middle-east/israeli-settlers-attack-electricity-workers-repairing-damaged-power-lines-in-west-bank-3014389"
-  },
-  {
-   "s": "CNA",
-   "t": "Thailand to issue ban on exports of chemicals used in Myanmar rare earth mining on Monday",
-   "u": "https://www.channelnewsasia.com/asia/thailand-ban-myanmar-export-chemicals-rare-earth-mining-6589501"
-  },
-  {
-   "s": "Straits Times",
-   "t": "Binance gets preliminary approval to establish Asia hub in Bhutan",
-   "u": "https://www.straitstimes.com/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan"
-  },
-  {
-   "s": "Bangkok Post",
-   "t": "Binance preparing to establish Asia hub in Bhutan",
-   "u": "https://www.bangkokpost.com/business/general/3362811/binance-preparing-to-establish-asia-hub-in-bhutan"
-  },
-  {
-   "s": "Euronews",
-   "t": "France's credit outlook cut to negative by S&P, economy minister calls it 'warning'",
-   "u": "https://www.euronews.com/2026/11/28/frances-credit-outlook-cut-to-negative-by-sp-economy-minister-calls-it-warning"
-  },
-  {
-   "s": "MercoPress",
-   "t": "Lula picks banker Luiz Carlos Trabuco to run the Finance Ministry in his fourth term",
-   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-  },
-  {
-   "s": "Buenos Aires Times",
-   "t": "International Tribunal for the Law of the Sea rejects Argentina's bid to halt Malvinas oil project",
-   "u": "https://www.batimes.com.ar/news/world/international-tribunal-for-the-law-of-the-sea-ruling-on-malvinas-oil-case.phtml"
-  },
-  {
-   "s": "SCMP",
-   "t": "Failed California billionaire tax proposal gets close look in China tax circles",
-   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles"
-  },
-  {
-   "s": "Economic Times",
-   "t": "PSB's aggregate net profit soars to record Rs 1.09 lakh cr",
-   "u": "https://economictimes.indiatimes.com/industry/banking/finance/banking/public-sector-banks-aggregate-net-profit-soars-to-record-rs-1-09-lakh-cr/articleshow/136245915.cms"
-  },
-  {
-   "s": "CNN",
-   "t": "Afghanistan school blast kills 10 students, injures more than 110",
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cjY4b0RlRDFadnZ1cW9Ld1VqWkprUEVDNjZwZFpoMFg5bmQ0aXF3cDBmb3lNQk5ZeGNHakdzblJHaTlZY29aaHlRTHQwZlp3UXhMWVBrQTFUTC0zTmlLUVNxbWZ5SkdfS2RXZXNZclhSQQ?oc=5"
-  },
-  {
-   "s": "BBC",
-   "t": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o"
-  },
-  {
-   "s": "BBC",
-   "t": "OpenAI counter-sues Apple over alleged theft of trade secrets",
-   "u": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo"
-  },
-  {
-   "s": "CNBC",
-   "t": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
-   "u": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html"
-  },
-  {
-   "s": "CNBC",
-   "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
-  },
-  {
-   "s": "Guardian",
-   "t": "Under the influence: how creator marketing upended advertising",
-   "u": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media"
-  },
-  {
-   "s": "MarketWatch",
-   "t": "What’s the most tax-efficient way to donate to charity?",
-   "u": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories"
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재정을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
    "t": "Russia Bans Buckwheat Exports Until Mid-2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390"
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390",
+   "k": "러시아, 2027년 중반까지 메밀 수출 금지"
   },
   {
    "s": "TASS",
-   "t": "Elon Musk’s wealth jumps by almost $40 billion in last 24 hours — Bloomberg",
-   "u": "https://tass.com/economy/2226411"
+   "t": "Berlin intends to widen military-technical cooperation with Kiev — paper",
+   "u": "https://tass.com/world/2226425",
+   "k": "베를린, 키이우와의 군사 기술 협력 확대 계획 — 신문 보도"
   },
   {
    "s": "Al Jazeera",
-   "t": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
-   "u": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
-  },
-  {
-   "s": "CNA",
-   "t": "Saudi, Houthis trade strikes targeting capitals",
-   "u": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336"
+   "t": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+   "u": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+   "k": "법원, 아르헨티나의 포클랜드 인근 영국 석유 활동 중단 요청 기각"
   }
  ]
 }
