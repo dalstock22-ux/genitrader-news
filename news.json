@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:04:34+09:00",
+  "updated": "2026-11-28T16:42:15+09:00",
   "market": [
     {
       "name": "S&P 500",
@@ -46,6 +46,34 @@
     ]
   },
   "items": [
+    {
+      "category": "경제·증시",
+      "title": "'안전자산' 금의 배신…금리 인상 공포에 고점 대비 33% 급락",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611262188i",
+      "published": "2026-11-28T13:00:00+09:00"
+    },
+    {
+      "category": "경제·증시",
+      "title": "코스피 5000선 뚫을까…증안펀드·젠슨 황에 쏠린 눈[다음주 주요변수 미리보기]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611275312i",
+      "published": "2026-11-28T12:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "중국이 쓰던 GPU, 미국에 쏟아진다…젠슨 황 스캔들의 나비효과 [김인엽의 AI프런티어]",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611274543i",
+      "published": "2026-11-28T10:00:00+09:00"
+    },
+    {
+      "category": "해외시장",
+      "title": "\"빅테크에 다 뺏겼다\"…비명 지르는 美 방산업계",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112859087",
+      "published": "2026-11-28T09:46:00+09:00"
+    },
     {
       "category": "경제·증시",
       "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
@@ -115,6 +143,20 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611274730i",
       "published": "2026-11-27T14:21:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "구로 고척동 모아주택 3곳 함께 재개발…627가구 아파트 단지로",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611274213i",
+      "published": "2026-11-27T13:39:00+09:00"
+    },
+    {
+      "category": "부동산",
+      "title": "세종 국가시범도시 첫 대단지 견본주택…'엘 수자인' 2191가구",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611274321i",
+      "published": "2026-11-27T13:38:00+09:00"
     },
     {
       "category": "부동산",
@@ -283,48 +325,6 @@
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202611261025H",
       "published": "2026-11-26T08:39:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "급락장에 자사주 1일 취득 한도 완화…증시 버팀목 효과는?",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125170400008",
-      "published": "2026-11-26T08:00:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "[마켓뷰] 추가 변동성? 반등 시도? 코스피 향배 주목",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126000900008",
-      "published": "2026-11-26T07:58:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 美 3분기 GDP 성장률 잠정치 4.3%…속보치 3.4%서 상향",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112506637",
-      "published": "2026-11-25T23:00:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112506297",
-      "published": "2026-11-25T22:35:00+09:00"
-    },
-    {
-      "category": "해외시장",
-      "title": "[속보] 美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112506197",
-      "published": "2026-11-25T22:20:00+09:00"
-    },
-    {
-      "category": "경제·증시",
-      "title": "산업장관 \"중국에 밀릴 수도…52시간 특례 내일이라도 시작해야\"",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125163400003",
-      "published": "2026-11-25T17:53:00+09:00"
     }
   ]
 }
