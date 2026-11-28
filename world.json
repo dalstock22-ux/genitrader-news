@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T17:40+09:00",
+ "updated": "2026-11-28T18:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -95,8 +95,8 @@
   },
   {
    "s": "CNN",
-   "t": "Trump says he will ‘veto, veto, veto’ hours after pledging bipartisanship",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkU2aWROcmxoSlVZNVJMSXpLSU9rZ3V0MnNrdmt6SWd6QThpSGJqcUJMQVFhM0FpbFJydUVGX1pkVGkwRTQwaHVzMTFBcFJaSzRESWJkN1JVQTNFekh4OU53dXhPbjV2MVZXRmktODFPdTd1bFZHVHIyWkpwaTRmbzVZT3E4Q25xUkxiX21IRlMtQ0FUalZibFUwYU1iSG5GU1pfUUE3QU1DOG5DZmtmdExkbC1ZR1VT?oc=5"
+   "t": "WWE star Bronson Reed dies at 38 due to ‘medical complications’",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bHU5VXZXZzJIRDRBZC1FUnZCMjNlM0g4Vm5zWkNqRmd1cFdPeWI2RGlwUzRWRU1leG1jNkdobFZFUjhRakkxVWhBalF6cnBMWVRzV1hWSjFaekpCN0pTWE9ESVZCVURpZlpPQXVDWQ?oc=5"
   },
   {
    "s": "BBC",
@@ -144,14 +144,14 @@
    "u": "https://www.arabnews.com/saudi-arabia/saudi-military-industries-chief-wraps-up-uk-visit-focused-on-defense-tech-transfer-investment-3014251"
   },
   {
-   "s": "CNA",
-   "t": "Chelsea suffer third successive loss as Gibbs-White grabs double for Nottingham Forest",
-   "u": "https://www.channelnewsasia.com/sport/chelsea-suffer-third-successive-loss-gibbs-white-grabs-double-nottingham-forest-6588676"
-  },
-  {
    "s": "Straits Times",
    "t": "Tech rebounds; Seatrium retrenches over 200 staff; StarHub, M1 to merge: Markets this week",
    "u": "https://www.straitstimes.com/business/companies-markets/tech-rebounds-seatrium-retrenches-over-200-staff-starhub-m1-to-merge-markets-this-week"
+  },
+  {
+   "s": "Bangkok Post",
+   "t": "Asian shares rally as US markets take a break",
+   "u": "https://www.bangkokpost.com/business/general/3362569/asian-shares-rally-as-us-markets-take-a-break"
   }
  ]
 }
