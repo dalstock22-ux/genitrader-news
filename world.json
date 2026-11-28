@@ -1,16 +1,11 @@
 {
- "updated": "2026-11-28T21:40+09:00",
+ "updated": "2026-11-28T22:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Afghanistan school blast kills 7 students, injures up to 99",
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cjY4b0RlRDFadnZ1cW9Ld1VqWkprUEVDNjZwZFpoMFg5bmQ0aXF3cDBmb3lNQk5ZeGNHakdzblJHaTlZY29aaHlRTHQwZlp3UXhMWVBrQTFUTC0zTmlLUVNxbWZ5SkdfS2RXZXNZclhSQQ?oc=5"
-  },
-  {
-   "s": "CNN",
-   "t": "What voters who backed Democrats want from the next Congress, according to the data",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkdPZ0V6cC05Z1czNlEyMHE1SkJ4cFpVb2pEaGdnMXk2NkJ2SUpvcFNQSWRpeGV6eDVlWmpoREpnU2RuN1dzTEF2cVJaZ2YxcEhLei1Rb096RVRaNlNFQUZUajdwZHFGTU51Mm15NjZ0WmNhejdVSGcxZVI2cDd1ZGxSdEtUM3FjOF85d2xR?oc=5"
+   "t": "Childcare is ‘like a second mortgage’: 28-year-old still worries about affordability despite good financial news",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdE4tLWpNaFA0QTZtVXphb3F4aDc5cHFJOGxFZUV1M2dmZ01NbVdTWjMzYlJ6UjFXWURCa0ItZGI3QUx2emJjQlg1QkE0emJzcUZVbDNnakxCZzA3MzJDNXdUU0pHSHFWaUF6MlA0WEJqOE8ycnEzMU9qa1dZWHRQSHRSRzNuNlBrUEpScHFUVEhsaDZGMDloYg?oc=5"
   },
   {
    "s": "BBC",
@@ -40,8 +35,8 @@
   },
   {
    "s": "MarketWatch",
-   "t": "These tech stocks may let you play defense without giving up on AI",
-   "u": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories"
+   "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -55,18 +50,18 @@
   },
   {
    "s": "Al Jazeera",
-   "t": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
-   "u": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
+   "t": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+   "u": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Philippines reports 5-fold growth in bilateral trade with Oman",
-   "u": "https://www.arabnews.com/world/philippines-reports-5-fold-growth-in-bilateral-trade-with-oman-3014361"
+   "t": "Argentina loses bid to halt oil drilling at nearby UK-held Falkland Islands",
+   "u": "https://www.arabnews.com/world/argentina-loses-bid-to-halt-oil-drilling-at-nearby-uk-held-falkland-islands-3014379"
   },
   {
    "s": "CNA",
-   "t": "Saudi, Houthis trade strikes targeting capitals",
-   "u": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336"
+   "t": "Thailand to issue ban on exports of chemicals used in Myanmar rare earth mining on Monday",
+   "u": "https://www.channelnewsasia.com/asia/thailand-ban-myanmar-export-chemicals-rare-earth-mining-6589501"
   },
   {
    "s": "Straits Times",
@@ -80,8 +75,8 @@
   },
   {
    "s": "Euronews",
-   "t": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
-   "u": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks"
+   "t": "France's credit outlook cut to negative by S&P, economy minister calls it 'warning'",
+   "u": "https://www.euronews.com/2026/11/28/frances-credit-outlook-cut-to-negative-by-sp-economy-minister-calls-it-warning"
   },
   {
    "s": "MercoPress",
@@ -105,8 +100,13 @@
   },
   {
    "s": "CNN",
-   "t": "Federal regulators shut $6 billion Indiana lender in biggest bank failure in over two years",
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQmRaX204N3I5S2FqZjVhd19CYzBRV0h1dVZLM2JuQVBtMkg5Y04yU3B5am5vZ21oYmMxYzZPVEdsVHFRZFptbUUzTHUtNTdTRE5ITlRGWTdZT2FwejJtZ0dPTTMzS3VORzliR3pTNWtZM1E?oc=5"
+   "t": "Afghanistan school blast kills 10 students, injures more than 110",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cjY4b0RlRDFadnZ1cW9Ld1VqWkprUEVDNjZwZFpoMFg5bmQ0aXF3cDBmb3lNQk5ZeGNHakdzblJHaTlZY29aaHlRTHQwZlp3UXhMWVBrQTFUTC0zTmlLUVNxbWZ5SkdfS2RXZXNZclhSQQ?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "What voters who backed Democrats want from the next Congress, according to the data",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkdPZ0V6cC05Z1czNlEyMHE1SkJ4cFpVb2pEaGdnMXk2NkJ2SUpvcFNQSWRpeGV6eDVlWmpoREpnU2RuN1dzTEF2cVJaZ2YxcEhLei1Rb096RVRaNlNFQUZUajdwZHFGTU51Mm15NjZ0WmNhejdVSGcxZVI2cDd1ZGxSdEtUM3FjOF85d2xR?oc=5"
   },
   {
    "s": "BBC",
@@ -135,8 +135,8 @@
   },
   {
    "s": "MarketWatch",
-   "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
+   "t": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+   "u": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -150,8 +150,8 @@
   },
   {
    "s": "Al Jazeera",
-   "t": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
-   "u": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss"
+   "t": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+   "u": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
   }
  ]
 }
