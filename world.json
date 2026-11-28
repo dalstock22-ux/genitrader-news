@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T16:40+09:00",
+ "updated": "2026-11-28T17:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -25,8 +25,8 @@
   },
   {
    "s": "Guardian",
-   "t": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy"
+   "t": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+   "u": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse"
   },
   {
    "s": "MarketWatch",
@@ -40,13 +40,13 @@
   },
   {
    "s": "TASS",
-   "t": "Russian forces strike energy and fuel facilities in Ukraine overnight",
-   "u": "https://tass.com/defense/2226341"
+   "t": "TASS: Europe withdraws record volume of gas from storage in first month of heating season",
+   "u": "https://tass.com/economy/2226347"
   },
   {
    "s": "Al Jazeera",
-   "t": "Trump’s tariffs have become America’s new normal",
-   "u": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss"
+   "t": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+   "u": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss"
   },
   {
    "s": "Arab News",
@@ -60,8 +60,8 @@
   },
   {
    "s": "Straits Times",
-   "t": "Tech rebounds; Seatrium retrenches over 200 staff; StarHub, M1 to merge: Markets this week",
-   "u": "https://www.straitstimes.com/business/companies-markets/tech-rebounds-seatrium-retrenches-over-200-staff-starhub-m1-to-merge-markets-this-week"
+   "t": "Binance gets preliminary approval to establish Asia hub in Bhutan",
+   "u": "https://www.straitstimes.com/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan"
   },
   {
    "s": "Bangkok Post",
@@ -95,11 +95,6 @@
   },
   {
    "s": "CNN",
-   "t": "WWE star Bronson Reed dies at 38 due to ‘medical complications’",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bHU5VXZXZzJIRDRBZC1FUnZCMjNlM0g4Vm5zWkNqRmd1cFdPeWI2RGlwUzRWRU1leG1jNkdobFZFUjhRakkxVWhBalF6cnBMWVRzV1hWSjFaekpCN0pTWE9ESVZCVURpZlpPQXVDWQ?oc=5"
-  },
-  {
-   "s": "CNN",
    "t": "Trump says he will ‘veto, veto, veto’ hours after pledging bipartisanship",
    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkU2aWROcmxoSlVZNVJMSXpLSU9rZ3V0MnNrdmt6SWd6QThpSGJqcUJMQVFhM0FpbFJydUVGX1pkVGkwRTQwaHVzMTFBcFJaSzRESWJkN1JVQTNFekh4OU53dXhPbjV2MVZXRmktODFPdTd1bFZHVHIyWkpwaTRmbzVZT3E4Q25xUkxiX21IRlMtQ0FUalZibFUwYU1iSG5GU1pfUUE3QU1DOG5DZmtmdExkbC1ZR1VT?oc=5"
   },
@@ -120,8 +115,8 @@
   },
   {
    "s": "Guardian",
-   "t": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
-   "u": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland"
+   "t": "‘The key is pricing realistically’: how to sell your home in a falling market",
+   "u": "https://www.theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices"
   },
   {
    "s": "MarketWatch",
@@ -135,13 +130,13 @@
   },
   {
    "s": "TASS",
-   "t": "French party leader calls von der Leyen’s extra 45 bln euro aid for Kiev ‘madness’",
-   "u": "https://tass.com/world/2226283"
+   "t": "Russian forces strike energy and fuel facilities in Ukraine overnight",
+   "u": "https://tass.com/defense/2226341"
   },
   {
    "s": "Al Jazeera",
-   "t": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-   "u": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss"
+   "t": "Trump’s tariffs have become America’s new normal",
+   "u": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss"
   },
   {
    "s": "Arab News",
@@ -152,6 +147,11 @@
    "s": "CNA",
    "t": "Chelsea suffer third successive loss as Gibbs-White grabs double for Nottingham Forest",
    "u": "https://www.channelnewsasia.com/sport/chelsea-suffer-third-successive-loss-gibbs-white-grabs-double-nottingham-forest-6588676"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Tech rebounds; Seatrium retrenches over 200 staff; StarHub, M1 to merge: Markets this week",
+   "u": "https://www.straitstimes.com/business/companies-markets/tech-rebounds-seatrium-retrenches-over-200-staff-starhub-m1-to-merge-markets-this-week"
   }
  ]
 }
