@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T23:40+09:00",
+ "updated": "2026-11-29T00:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
@@ -30,13 +30,14 @@
   },
   {
    "s": "Guardian",
-   "t": "Under the influence: how creator marketing upended advertising",
-   "u": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media"
+   "t": "‘Andy holds the pen’: will Burnham’s 10-year plan live up to the hype?",
+   "u": "https://www.theguardian.com/politics/2026/nov/28/andy-holds-the-pen-will-burnhams-10-year-plan-live-up-to-the-hype"
   },
   {
    "s": "MarketWatch",
-   "t": "What’s the most tax-efficient way to donate to charity?",
-   "u": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories"
+   "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "k": "저는 결혼한 지 58년이 되었습니다. '그의' 돈이나 '그녀의' 돈이 아니라 '우리의' 돈입니다. 왜 그렇게 많은 부부가 재산을 따로 관리할까요?"
   },
   {
    "s": "Moscow Times",
@@ -45,8 +46,8 @@
   },
   {
    "s": "TASS",
-   "t": "Elon Musk’s wealth jumps by almost $40 billion in last 24 hours — Bloomberg",
-   "u": "https://tass.com/economy/2226411"
+   "t": "Berlin intends to widen military-technical cooperation with Kiev — paper",
+   "u": "https://tass.com/world/2226425"
   },
   {
    "s": "Al Jazeera",
@@ -55,8 +56,8 @@
   },
   {
    "s": "Arab News",
-   "t": "Argentina loses bid to halt oil drilling at nearby UK-held Falkland Islands",
-   "u": "https://www.arabnews.com/world/argentina-loses-bid-to-halt-oil-drilling-at-nearby-uk-held-falkland-islands-3014379"
+   "t": "Israeli settlers attack electricity workers repairing damaged power lines in West Bank",
+   "u": "https://www.arabnews.com/middle-east/israeli-settlers-attack-electricity-workers-repairing-damaged-power-lines-in-west-bank-3014389"
   },
   {
    "s": "CNA",
@@ -100,8 +101,8 @@
   },
   {
    "s": "CNN",
-   "t": "The number of US airlines continues to shrink. That’s bad news for passengers",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Q09YU09wUmI3a0FwdnNqSUVhRjJxdzkzcjhjVFBMeFJLQTZDTHRiTTJOVVU3ckNhYkNMc1ZFeW1nYnY2aTk5VFlUOFhxWGYza1IzdU81dkNMdjBwc3ZibGNFNC15bEMySHhWM2VhLTNFdmY5czRfc1haS1Y?oc=5"
+   "t": "Afghanistan school blast kills 10 students, injures more than 110",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cjY4b0RlRDFadnZ1cW9Ld1VqWkprUEVDNjZwZFpoMFg5bmQ0aXF3cDBmb3lNQk5ZeGNHakdzblJHaTlZY29aaHlRTHQwZlp3UXhMWVBrQTFUTC0zTmlLUVNxbWZ5SkdfS2RXZXNZclhSQQ?oc=5"
   },
   {
    "s": "BBC",
@@ -125,13 +126,13 @@
   },
   {
    "s": "Guardian",
-   "t": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
-   "u": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott"
+   "t": "Under the influence: how creator marketing upended advertising",
+   "u": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media"
   },
   {
    "s": "MarketWatch",
-   "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
+   "t": "What’s the most tax-efficient way to donate to charity?",
+   "u": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
@@ -140,8 +141,8 @@
   },
   {
    "s": "TASS",
-   "t": "Around 30 AI solutions registered in Russia",
-   "u": "https://tass.com/economy/2226401"
+   "t": "Elon Musk’s wealth jumps by almost $40 billion in last 24 hours — Bloomberg",
+   "u": "https://tass.com/economy/2226411"
   },
   {
    "s": "Al Jazeera",
@@ -149,9 +150,9 @@
    "u": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
   },
   {
-   "s": "Arab News",
-   "t": "Philippines reports 5-fold growth in bilateral trade with Oman",
-   "u": "https://www.arabnews.com/world/philippines-reports-5-fold-growth-in-bilateral-trade-with-oman-3014361"
+   "s": "CNA",
+   "t": "Saudi, Houthis trade strikes targeting capitals",
+   "u": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336"
   }
  ]
 }
