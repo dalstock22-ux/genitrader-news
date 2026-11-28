@@ -1,186 +1,157 @@
 {
- "updated": "2026-11-28T10:58+09:00",
+ "updated": "2026-11-28T16:40+09:00",
  "label": "WORLD NEWS",
  "items": [
   {
    "s": "CNN",
-   "t": "Princess of Wales gives moving insight into life since her cancer diagnosis in new documentary",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDAtd3gxLWtGbWw0dzZTdzBQY2ZCMGdJNWdYOEh2MlNWNE9fNC1hSXBGSGpYUXFIOFBZTHBjV0JFNFo3VGUtRHJVV2VfNWl4Q1E3MDhoSXFGS0JGOTdqNGFON3hUQ0RVTmtUNnNhX2Z4QmMwSmNVc1RuQWVWNkJUeGxJejF6MW1PaDNoUEVTbE8wRDhvWmFEajR3cFVQRTdVSVpoVTNNNnd2QQ?oc=5",
-   "k": "웨일스 공주, 새로운 다큐멘터리에서 암 진단을 받은 후의 삶에 대한 감동적인 통찰을 전하다"
+   "t": "Federal regulators shut $6 billion Indiana lender in biggest bank failure in over two years",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQmRaX204N3I5S2FqZjVhd19CYzBRV0h1dVZLM2JuQVBtMkg5Y04yU3B5am5vZ21oYmMxYzZPVEdsVHFRZFptbUUzTHUtNTdTRE5ITlRGWTdZT2FwejJtZ0dPTTMzS3VORzliR3pTNWtZM1E?oc=5"
   },
   {
    "s": "BBC",
    "t": "My self-care ritual is a meal at a fancy restaurant - on my own",
-   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
-   "k": "저의 셀프 케어 의식은 고급 레스토랑에서 혼자 식사하는 거예요."
+   "u": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
-   "u": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
-   "k": "젠슨 황(Jensen Huang)의 복귀는 AI에 대한 불안감을 해소하는 데 거의 도움이 되지 않았습니다. 우리는 약세를 매수 기회로 활용했습니다."
+   "t": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "u": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
   },
   {
    "s": "CNBC",
    "t": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험에 들게 하다"
+   "k": "라이스먼: 엔비디아의 급격한 변동성이 케빈 워시의 시장 신호 읽기 주장을 시험대에 올리다"
   },
   {
    "s": "Guardian",
-   "t": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
-   "k": "극심한 부의 폭발은 우리 시대의 주요 문제입니다 | 버니 샌더스"
+   "t": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy"
   },
   {
    "s": "MarketWatch",
    "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "k": "젠슨 황이 엔비디아로 돌아온 것이 마음에 들지 않지만, 그가 제 401(k)에 기여한 바는 마음에 듭니다. 제가 위선자인가요?"
+   "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
    "t": "Russia Extends Jet Fuel Export Ban Until March 2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395",
-   "k": "러시아, 항공기 연료 수출 금지 조치 2027년 3월까지 연장"
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395"
   },
   {
    "s": "TASS",
-   "t": "French party leader calls von der Leyen’s extra 45 bln euro aid for Kiev ‘madness’",
-   "u": "https://tass.com/world/2226283",
-   "k": "프랑스 정당 대표, 폰 데어 라이엔 위원장의 키이우 추가 지원금 450억 유로를 '광기'라고 비판"
+   "t": "Russian forces strike energy and fuel facilities in Ukraine overnight",
+   "u": "https://tass.com/defense/2226341"
   },
   {
    "s": "Al Jazeera",
-   "t": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-   "u": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "k": "대만은 원자력 발전을 부활시키기 위해 투표할 것인가? 그리고 그것이 AI에 중요한 이유는 무엇인가?"
+   "t": "Trump’s tariffs have become America’s new normal",
+   "u": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "Iraq oil smuggling clampdown threatens ties with Kurds, Iran",
-   "u": "https://www.arabnews.com/middle-east/iraq-oil-smuggling-clampdown-threatens-ties-with-kurds-iran-3014332",
-   "k": "이라크의 석유 밀수 단속이 쿠르드족 및 이란과의 관계에 위협을 가하다"
+   "t": "How Saudi Arabia’s proposed Nomu reforms could reshape its parallel market",
+   "u": "https://www.arabnews.com/finance/how-saudi-arabias-proposed-nomu-reforms-could-reshape-its-parallel-market-3014139"
   },
   {
    "s": "CNA",
-   "t": "Chelsea suffer third successive loss as Gibbs-White grabs double for Nottingham Forest",
-   "u": "https://www.channelnewsasia.com/sport/chelsea-suffer-third-successive-loss-gibbs-white-grabs-double-nottingham-forest-6588676",
-   "k": "깁스-화이트가 노팅엄 포레스트에서 멀티골을 터뜨리며 첼시가 3연패를 당했습니다."
+   "t": "Lawsuits won't affect Google's investments in Malaysia: PM",
+   "u": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-lawsuits-google-investments-6588976"
   },
   {
    "s": "Straits Times",
-   "t": "China’s premium puffer jacket push meets consumer resistance",
-   "u": "https://www.straitstimes.com/business/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
-   "k": "중국의 프리미엄 패딩 재킷 공세에 대한 소비자 저항"
+   "t": "Tech rebounds; Seatrium retrenches over 200 staff; StarHub, M1 to merge: Markets this week",
+   "u": "https://www.straitstimes.com/business/companies-markets/tech-rebounds-seatrium-retrenches-over-200-staff-starhub-m1-to-merge-markets-this-week"
   },
   {
    "s": "Bangkok Post",
-   "t": "Big C owner to shutter 12 subpar locations",
-   "u": "https://www.bangkokpost.com/business/general/3362489/big-c-owner-to-shutter-12-subpar-locations",
-   "k": "Big C 소유주, 기준 미달 매장 12곳 폐점 예정"
+   "t": "Tsutaya Thailand sets global opening-day sales record",
+   "u": "https://www.bangkokpost.com/business/general/3362779/tsutaya-thailand-sets-global-openingday-sales-record"
   },
   {
    "s": "Euronews",
    "t": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
-   "u": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
-   "k": "아제르바이잔과 아르메니아 시민사회가 새로운 평화 협상에서 '새로운 역사'를 모색하다"
+   "u": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks"
   },
   {
    "s": "MercoPress",
    "t": "Lula picks banker Luiz Carlos Trabuco to run the Finance Ministry in his fourth term",
-   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "k": "룰라 대통령, 4기 정부에서 재무부 장관으로 루이스 카를로스 트라부코 은행가를 지명"
+   "u": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
   },
   {
    "s": "Buenos Aires Times",
    "t": "UN-backed court to rule on Argentina's bid to halt Malvinas oil project",
-   "u": "https://www.batimes.com.ar/news/world/un-backed-court-to-rule-on-argentinas-bid-to-halt-malvinas-oil-project.phtml",
-   "k": "UN이 지지하는 법원이 아르헨티나의 말비나스 석유 프로젝트 중단 요청에 대해 판결할 예정"
+   "u": "https://www.batimes.com.ar/news/world/un-backed-court-to-rule-on-argentinas-bid-to-halt-malvinas-oil-project.phtml"
   },
   {
    "s": "SCMP",
    "t": "Failed California billionaire tax proposal gets close look in China tax circles",
-   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
-   "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
+   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles"
   },
   {
    "s": "Economic Times",
-   "t": "India's textile exporters race the tariff clock",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms",
-   "k": "관세 시한에 맞서 달리는 인도 섬유 수출업체들"
+   "t": "Senior citizen FDs with 7.5% & higher rates",
+   "u": "https://economictimes.indiatimes.com/wealth/invest/fds-offering-7-5-and-higher-interest-rates-to-senior-citizens-check-psu-private-and-small-finance-bank-fixed-deposit-rate-lists/articleshow/136238133.cms"
   },
   {
    "s": "CNN",
-   "t": "OpenAI countersues Apple in ongoing trade secrets fight",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTW11Wi1QV2lsNzVvRlYyVklERHdsUkxKLXdRbjRjbDk2eC1UYmM1LXNZN2FPdEdhRC1lci1SYU56M3ZSOWMxM3p6OXB0c2h0dTFVVjBHSWNVSEZJSnNuSnBJMU5HZGd6STY3Sg?oc=5",
-   "k": "OpenAI, 진행 중인 영업 비밀 분쟁에서 Apple에 맞고소 제기"
+   "t": "WWE star Bronson Reed dies at 38 due to ‘medical complications’",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bHU5VXZXZzJIRDRBZC1FUnZCMjNlM0g4Vm5zWkNqRmd1cFdPeWI2RGlwUzRWRU1leG1jNkdobFZFUjhRakkxVWhBalF6cnBMWVRzV1hWSjFaekpCN0pTWE9ESVZCVURpZlpPQXVDWQ?oc=5"
+  },
+  {
+   "s": "CNN",
+   "t": "Trump says he will ‘veto, veto, veto’ hours after pledging bipartisanship",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkU2aWROcmxoSlVZNVJMSXpLSU9rZ3V0MnNrdmt6SWd6QThpSGJqcUJMQVFhM0FpbFJydUVGX1pkVGkwRTQwaHVzMTFBcFJaSzRESWJkN1JVQTNFekh4OU53dXhPbjV2MVZXRmktODFPdTd1bFZHVHIyWkpwaTRmbzVZT3E4Q25xUkxiX21IRlMtQ0FUalZibFUwYU1iSG5GU1pfUUE3QU1DOG5DZmtmdExkbC1ZR1VT?oc=5"
   },
   {
    "s": "BBC",
    "t": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
-   "k": "250파운드의 작업이 9,000파운드의 청구서로: 대규모로 고객을 속이는 사기성 업자 네트워크의 내부"
+   "u": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o"
   },
   {
    "s": "CNBC",
-   "t": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-   "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-   "k": "테크주 랠리와 머스크의 트럼프 계정 주식 기부 확대 발언에 힘입어 SpaceX 주가 4% 이상 급등"
+   "t": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+   "u": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html"
   },
   {
    "s": "CNBC",
    "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-   "k": "S&P 500 지수가 조정 국면에 있습니다. 베어 마켓과 경기 침체가 항상 뒤따르는 것은 아닙니다."
+   "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
   },
   {
    "s": "Guardian",
-   "t": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
-   "u": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
-   "k": "‘도움이 되지 않습니다’: 미국 소매업체들의 AI 사용이 증가함에 따라 가드레일과 규제에 대한 요구가 높아지고 있습니다."
+   "t": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+   "u": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland"
   },
   {
    "s": "MarketWatch",
    "t": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-   "u": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-   "k": "부모님 댁을 정리하는 일은 법적인 측면에서 악몽과도 같았습니다. 자녀들이 같은 고통을 겪지 않도록 하면서 어떻게 소유물을 줄일 수 있을까요?"
+   "u": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories"
   },
   {
    "s": "Moscow Times",
    "t": "Russia Bans Buckwheat Exports Until Mid-2027",
-   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390",
-   "k": "러시아, 2027년 중반까지 메밀 수출 금지"
+   "u": "https://www.themoscowtimes.com/2026/11/27/russia-bans-buckwheat-exports-until-mid-2027-a812390"
   },
   {
    "s": "TASS",
-   "t": "Starshield restrictions cause heavy Ukrainian drone losses, canceled operations — report",
-   "u": "https://tass.com/world/2226279",
-   "k": "Starshield 제한으로 인해 우크라이나 드론 손실이 크게 증가하고 작전이 취소됨 — 보고서"
+   "t": "French party leader calls von der Leyen’s extra 45 bln euro aid for Kiev ‘madness’",
+   "u": "https://tass.com/world/2226283"
   },
   {
    "s": "Al Jazeera",
-   "t": "OpenAI countersues Apple over trade secrets as AI race heats up",
-   "u": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-   "k": "AI 경쟁이 가열되면서 OpenAI가 영업 비밀과 관련해 애플에 맞고소 제기"
+   "t": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+   "u": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss"
   },
   {
    "s": "Arab News",
-   "t": "OpenAI countersues Apple in row over trade secrets, suppliers",
-   "u": "https://www.arabnews.com/world/openai-countersues-apple-in-row-over-trade-secrets-suppliers-3014328",
-   "k": "OpenAI, 영업 비밀 및 공급업체 문제로 애플에 맞고소 제기"
+   "t": "Saudi military industries chief wraps up UK visit focused on defense tech transfer, investment",
+   "u": "https://www.arabnews.com/saudi-arabia/saudi-military-industries-chief-wraps-up-uk-visit-focused-on-defense-tech-transfer-investment-3014251"
   },
   {
    "s": "CNA",
-   "t": "OpenAI countersues Apple for stealing trade secrets",
-   "u": "https://www.channelnewsasia.com/business/openai-countersues-apple-stealing-trade-secrets-6588456",
-   "k": "OpenAI, 영업 비밀 유출 혐의로 애플에 맞고소"
-  },
-  {
-   "s": "Straits Times",
-   "t": "When a mother wanted $80k monthly child support for two young kids, including first-class air tickets",
-   "u": "https://www.straitstimes.com/business/invest/when-a-mother-wanted-80k-monthly-child-support-for-two-young-kids-including-first-class-air-tickets",
-   "k": "어머니가 두 명의 어린 자녀를 위해 매월 8만 달러의 양육비를 요구한 경우(퍼스트 클래스 항공권 포함)"
+   "t": "Chelsea suffer third successive loss as Gibbs-White grabs double for Nottingham Forest",
+   "u": "https://www.channelnewsasia.com/sport/chelsea-suffer-third-successive-loss-gibbs-white-grabs-double-nottingham-forest-6588676"
   }
  ]
 }
